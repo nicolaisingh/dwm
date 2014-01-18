@@ -1,0 +1,1 @@
+/home/nas/src/linux/dwm/config.h
