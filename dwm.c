@@ -1,0 +1,1 @@
+/home/nas/src/linux/dwm/src/dwm-6.0/dwm.c
