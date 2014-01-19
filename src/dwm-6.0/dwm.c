@@ -790,6 +790,9 @@ drawbar(Monitor *m) {
 			urg |= c->tags;
 	}
 	dc.x = 0;
+	dc.w = blw = TEXTW(m->ltsymbol);
+	drawtext(m->ltsymbol, dc.norm, False);
+	dc.x += dc.w;
 	for(i = 0; i < LENGTH(tags); i++) {
 		dc.w = TEXTW(tags[i]);
 		col = m->tagset[m->seltags] & 1 << i ? dc.sel : dc.norm;
@@ -798,9 +801,6 @@ drawbar(Monitor *m) {
 		           occ & 1 << i, urg & 1 << i, col);
 		dc.x += dc.w;
 	}
-	dc.w = blw = TEXTW(m->ltsymbol);
-	drawtext(m->ltsymbol, dc.norm, False);
-	dc.x += dc.w;
 	x = dc.x;
 	if(m == selmon) { /* status is only drawn on selected monitor */
 		dc.w = TEXTW(stext);
