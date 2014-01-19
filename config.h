@@ -2,7 +2,8 @@
 
 /* Patches applied:
  * - uselessgap : gaps on clients for aesthetic purposes (on)
- * - smfact : enable resizing the clients on the stack
+ * - smfact : enable resizing the clients on the stack (on)
+ * - movestack : enable moving clients on the stack (on)
  */
 
 /* appearance */
@@ -110,6 +111,8 @@ static Key keys[] = {
 	{ MODKEY,                       XK_b,        togglebar,      {0} },
 	{ MODKEY,                       XK_j,        focusstack,     {.i = +1 } },
 	{ MODKEY,                       XK_k,        focusstack,     {.i = -1 } },
+	{ MODKEY|ShiftMask,             XK_j,        movestack,      {.i = +1 } },
+	{ MODKEY|ShiftMask,             XK_k,        movestack,      {.i = -1 } },
 	{ MODKEY,                       XK_i,        incnmaster,     {.i = +1 } },
 	{ MODKEY,                       XK_d,        incnmaster,     {.i = -1 } },
 	{ MODKEY,                       XK_h,        setmfact,       {.f = -0.05} },

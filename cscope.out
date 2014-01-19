@@ -1,47 +1,51 @@
-cscope 15 $HOME/src/linux/dwm               0000710019
+cscope 15 $HOME/src/linux/dwm               0000713183
 	@/home/nas/src/linux/dwm/config.h
 
-8 c⁄° 
+10 c⁄° 
 	gf⁄t
 [] = "-*-terminus-medium-r-*-*-16-*-*-*-*-*-*-*";
 
-9 c⁄° 
+11 c⁄° 
 	gn‹mb‹dîcﬁ‹
 [] = "#444444";
 
-10 c⁄° 
+12 c⁄° 
 	gn‹mbgcﬁ‹
 [] = "#222222";
 
-11 c⁄° 
+13 c⁄° 
 	gn‹mfgcﬁ‹
 [] = "#bbbbbb";
 
-12 c⁄° 
+14 c⁄° 
 	g£lb‹dîcﬁ‹
 [] = "#005577";
 
-13 c⁄° 
+15 c⁄° 
 	g£lbgcﬁ‹
 [] = "#005577";
 
-14 c⁄° 
+16 c⁄° 
 	g£lfgcﬁ‹
 [] = "#eeeeee";
 
-15 c⁄° 
+17 c⁄° 
 	gb‹dîpx
  = 3;
 
-16 c⁄° 
+18 c⁄° 
 	gg≠px
  = 6;
 
-17 c⁄° 
+19 c⁄° 
 	g¢≠
  = 32;
 
-18 c⁄° 
+20 c⁄° 
+	gmöwsz
+ = 20;
+
+21 c⁄° 
 Boﬁ
  
 	gshowb¨
@@ -49,7 +53,7 @@ Boﬁ
 True
 ;
 
-19 c⁄° 
+22 c⁄° 
 Boﬁ
  
 	gt›b¨
@@ -57,139 +61,143 @@ Boﬁ
 True
 ;
 
-22 c⁄° *
+25 c⁄° *
 	gègs
 [] = { "1", "2", "3", "4", "5", "6", "7", "8", "9" };
 
-24 c⁄° 
+27 c⁄° 
 RuÀ
  
 	gruÀs
 [] = {
 
-26 { "URxvt", 
+29 { "URxvt", 
 NULL
 , "øngî", 1 << 1, 
 FÆ£
 , -1 },
 
-27 { "Thu«r", 
+30 { "Thu«r", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-28 { "Pidgö", 
+31 { "Pidgö", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-29 { "f⁄tf‹ge", 
+32 { "f⁄tf‹ge", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-30 { "Bcom∑ª", 
+33 { "Bcom∑ª", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-31 { "LóÂad", 
+34 { "LóÂad", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-32 { "Lx≠≥¨™˚", 
+35 { "Lx≠≥¨™˚", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-33 { "E˛ù£", 
+36 { "E˛ù£", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-34 { "Evö˚", 
+37 { "Evö˚", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-35 { "FBRódî", 
+38 { "FBRódî", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-36 { "Fúefox", 
+39 { "Fúefox", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-37 { "Chromium", 
+40 { "Chromium", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-38 { "luakô", 
+41 { "luakô", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-39 { "Gimp", 
+42 { "Gimp", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-40 { "Ario", 
+43 { "Ario", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-41 { "Q∑eq", 
+44 { "Q∑eq", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-42 { "D¨kèbÀ", 
+45 { "D¨kèbÀ", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-43 { "Pavuc⁄åﬁ", 
+46 { "Pavuc⁄åﬁ", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-44 { "Sm∂ayî", 
+47 { "Sm∂ayî", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-48 c⁄° 
+51 c⁄° 
 	gmÁ˘
  = 0.55;
 
-49 c⁄° 
+52 c⁄° 
+	gsmÁ˘
+ = 0.00;
+
+53 c⁄° 
 	gnma°î
  = 1;
 
-50 c⁄° 
+54 c⁄° 
 Boﬁ
  
 	gªsizehöts
@@ -197,25 +205,25 @@ Boﬁ
 FÆ£
 ;
 
-52 c⁄° 
+56 c⁄° 
 Layout
  
 	gœyouts
 [] = {
 
-54 { "[]=", 
+58 { "[]=", 
 tûe
  },
 
-55 { "><>", 
+59 { "><>", 
 NULL
  },
 
-56 { "[M]", 
+60 { "[M]", 
 m⁄o˛e
  },
 
-60 
+64 
 	#MODKEY
  
 Mod4Mask
@@ -223,7 +231,7 @@ Mod4Mask
 
 	)
 
-61 
+65 
 	#A…Mask
  
 Mod1Mask
@@ -231,7 +239,7 @@ Mod1Mask
 
 	)
 
-62 
+66 
 	#TAGKEYS
 (
 KEY
@@ -239,7 +247,7 @@ KEY
 TAG
 ) \
 
-63 { 
+67 { 
 MODKEY
 , 
 KEY
@@ -251,7 +259,7 @@ ui
 TAG
 } }, \
 
-64 { 
+68 { 
 MODKEY
 |
 C⁄åﬁMask
@@ -265,7 +273,7 @@ ui
 TAG
 } }, \
 
-65 { 
+69 { 
 MODKEY
 |
 Shi·Mask
@@ -279,7 +287,7 @@ ui
 TAG
 } }, \
 
-66 { 
+70 { 
 MODKEY
 |
 C⁄åﬁMask
@@ -297,7 +305,7 @@ TAG
 
 	)
 
-69 
+73 
 	#SHCMD
 (
 cmd
@@ -309,7 +317,7 @@ NULL
 
 	)
 
-72 c⁄° *
+76 c⁄° *
 	gdmíucmd
 [] = { "dmíu_run", "-‚", 
 f⁄t
@@ -325,103 +333,103 @@ n‹mfgcﬁ‹
 NULL
  };
 
-73 c⁄° *
+77 c⁄° *
 	gãrmcmd
 [] = { "urxvtc", 
 NULL
  };
 
-74 c⁄° *
+78 c⁄° *
 	gøngîcmd
 [] = { "urxvtc", "-e", "øngî", 
 NULL
  };
 
-75 c⁄° *
+79 c⁄° *
 	gthu«rcmd
 [] = { "thu«r", 
 NULL
  };
 
-76 c⁄° *
+80 c⁄° *
 	gthu«rsucmd
 [] = { "gksu", "thu«r", 
 NULL
  };
 
-77 c⁄° *
+81 c⁄° *
 	gs¸Ÿcmd
 [] = { "s¸Ÿ", "-q", "100", "-e", "mv\ $f\ ~/img/s¸ìnshŸs", 
 NULL
  };
 
-78 c⁄° *
+82 c⁄° *
 	glocks¸ìncmd
 [] = { "xs¸ìnßvî-comm™d", "--lock", 
 NULL
  };
 
-79 c⁄° *
+83 c⁄° *
 	gmpd∂aycmd
 [] = { "mpd∂ay", 
 NULL
  };
 
-80 c⁄° *
+84 c⁄° *
 	gdwmmíucmd
 [] = { "dwm-míu", 
 NULL
  };
 
-81 c⁄° *
+85 c⁄° *
 	gaudiomuãvﬁcmd
 [] = { "amixî", "-q", "£t", "Ma°î", "toggÀ", 
 NULL
  };
 
-82 c⁄° *
+86 c⁄° *
 	gaudiodecvﬁcmd
 [] = { "amixî", "-q", "£t", "Ma°î", "5%-", 
 NULL
  };
 
-83 c⁄° *
+87 c⁄° *
 	gaudioöcvﬁcmd
 [] = { "amixî", "-q", "£t", "Ma°î", "5%+", 
 NULL
  };
 
-84 c⁄° *
+88 c⁄° *
 	gmp˘oggÀcmd
 [] = { "mpc", "toggÀ", 
 NULL
  };
 
-85 c⁄° *
+89 c⁄° *
 	gmpc°›cmd
 [] = { "mpc", "°›", 
 NULL
  };
 
-86 c⁄° *
+90 c⁄° *
 	gmp˝ªvcmd
 [] = { "mpc", "¥ev", 
 NULL
  };
 
-87 c⁄° *
+91 c⁄° *
 	gmp˙extcmd
 [] = { "mpc", "√xt", 
 NULL
  };
 
-89 
+93 
 Key
  
 	gkeys
 [] = {
 
-91 { 
+95 { 
 MODKEY
 , 
 XK_p
@@ -433,7 +441,7 @@ v
 dmíucmd
  } },
 
-92 { 
+96 { 
 	gMODKEY
 |
 	gShi·Mask
@@ -447,7 +455,7 @@ dmíucmd
 ãrmcmd
  } },
 
-93 { 
+97 { 
 	gMODKEY
 , 
 	gXK_e
@@ -459,7 +467,7 @@ dmíucmd
 øngîcmd
  } },
 
-94 { 
+98 { 
 	gMODKEY
 , 
 	gXK_w
@@ -471,7 +479,7 @@ dmíucmd
 thu«rcmd
  } },
 
-95 { 
+99 { 
 	gMODKEY
 |
 	gShi·Mask
@@ -485,7 +493,7 @@ thu«rcmd
 thu«rsucmd
  } },
 
-96 { 0, 0xff61, 
+100 { 0, 0xff61, 
 	g•awn
 , {.
 	gv
@@ -493,7 +501,7 @@ thu«rsucmd
 s¸Ÿcmd
  } },
 
-97 { 
+101 { 
 	gC⁄åﬁMask
 |
 	gA…Mask
@@ -507,7 +515,7 @@ s¸Ÿcmd
 locks¸ìncmd
  } },
 
-98 { 
+102 { 
 	gMODKEY
 , 
 	gXK_o
@@ -519,7 +527,7 @@ locks¸ìncmd
 mpd∂aycmd
  } },
 
-99 { 
+103 { 
 	gMODKEY
 , 
 	gXK_gøve
@@ -531,7 +539,7 @@ mpd∂aycmd
 dwmmíucmd
  } },
 
-100 { 0, 0x1008ff11, 
+104 { 0, 0x1008ff11, 
 	g•awn
 , {.
 	gv
@@ -539,7 +547,7 @@ dwmmíucmd
 audiodecvﬁcmd
  } },
 
-101 { 0, 0x1008ff12, 
+105 { 0, 0x1008ff12, 
 	g•awn
 , {.
 	gv
@@ -547,7 +555,7 @@ audiodecvﬁcmd
 audiomuãvﬁcmd
  } },
 
-102 { 0, 0x1008ff13, 
+106 { 0, 0x1008ff13, 
 	g•awn
 , {.
 	gv
@@ -555,7 +563,7 @@ audiomuãvﬁcmd
 audioöcvﬁcmd
  } },
 
-103 { 0, 0x1008ff14, 
+107 { 0, 0x1008ff14, 
 	g•awn
 , {.
 	gv
@@ -563,7 +571,7 @@ audioöcvﬁcmd
 mp˘oggÀcmd
  } },
 
-104 { 0, 0x1008ff15, 
+108 { 0, 0x1008ff15, 
 	g•awn
 , {.
 	gv
@@ -571,7 +579,7 @@ mp˘oggÀcmd
 mpc°›cmd
  } },
 
-105 { 0, 0x1008ff16, 
+109 { 0, 0x1008ff16, 
 	g•awn
 , {.
 	gv
@@ -579,7 +587,7 @@ mpc°›cmd
 mp˝ªvcmd
  } },
 
-106 { 0, 0x1008ff17, 
+110 { 0, 0x1008ff17, 
 	g•awn
 , {.
 	gv
@@ -587,7 +595,7 @@ mp˝ªvcmd
 mp˙extcmd
  } },
 
-107 { 
+111 { 
 	gMODKEY
 , 
 	gXK_b
@@ -595,7 +603,7 @@ mp˙extcmd
 	gtoggÀb¨
 , {0} },
 
-108 { 
+112 { 
 	gMODKEY
 , 
 	gXK_j
@@ -605,7 +613,7 @@ mp˙extcmd
 	gi
  = +1 } },
 
-109 { 
+113 { 
 	gMODKEY
 , 
 	gXK_k
@@ -615,7 +623,31 @@ mp˙extcmd
 	gi
  = -1 } },
 
-110 { 
+114 { 
+	gMODKEY
+|
+	gShi·Mask
+, 
+	gXK_j
+, 
+	gmove°ack
+, {.
+	gi
+ = +1 } },
+
+115 { 
+	gMODKEY
+|
+	gShi·Mask
+, 
+	gXK_k
+, 
+	gmove°ack
+, {.
+	gi
+ = -1 } },
+
+116 { 
 	gMODKEY
 , 
 	gXK_i
@@ -625,7 +657,7 @@ mp˙extcmd
 	gi
  = +1 } },
 
-111 { 
+117 { 
 	gMODKEY
 , 
 	gXK_d
@@ -635,7 +667,7 @@ mp˙extcmd
 	gi
  = -1 } },
 
-112 { 
+118 { 
 	gMODKEY
 , 
 	gXK_h
@@ -645,7 +677,7 @@ mp˙extcmd
 	gf
  = -0.05} },
 
-113 { 
+119 { 
 	gMODKEY
 , 
 	gXK_l
@@ -655,7 +687,31 @@ mp˙extcmd
 	gf
  = +0.05} },
 
-114 { 
+120 { 
+	gMODKEY
+|
+	gShi·Mask
+, 
+	gXK_h
+, 
+	g£tsmÁ˘
+, {.
+	gf
+ = +0.05} },
+
+121 { 
+	gMODKEY
+|
+	gShi·Mask
+, 
+	gXK_l
+, 
+	g£tsmÁ˘
+, {.
+	gf
+ = -0.05} },
+
+122 { 
 	gMODKEY
 , 
 	gXK_Rëu∫
@@ -663,7 +719,7 @@ mp˙extcmd
 	gzoom
 , {0} },
 
-115 { 
+123 { 
 	gMODKEY
 , 
 	gXK_Tab
@@ -671,7 +727,7 @@ mp˙extcmd
 	gvõw
 , {0} },
 
-116 { 
+124 { 
 	gMODKEY
 |
 	gShi·Mask
@@ -681,7 +737,7 @@ mp˙extcmd
 	gkûl˛õ¡
 , {0} },
 
-117 { 
+125 { 
 	gMODKEY
 , 
 	gXK_t
@@ -693,7 +749,7 @@ mp˙extcmd
 œyouts
 [0]} },
 
-118 { 
+126 { 
 	gMODKEY
 , 
 	gXK_f
@@ -705,7 +761,7 @@ mp˙extcmd
 œyouts
 [1]} },
 
-119 { 
+127 { 
 	gMODKEY
 , 
 	gXK_m
@@ -717,7 +773,7 @@ mp˙extcmd
 œyouts
 [2]} },
 
-120 { 
+128 { 
 	gMODKEY
 , 
 	gXK_•a˚
@@ -725,7 +781,7 @@ mp˙extcmd
 	g£éayout
 , {0} },
 
-121 { 
+129 { 
 	gMODKEY
 |
 	gShi·Mask
@@ -735,7 +791,7 @@ mp˙extcmd
 	gtoggÀÊﬂtög
 , {0} },
 
-122 { 
+130 { 
 	gMODKEY
 , 
 	gXK_0
@@ -745,7 +801,7 @@ mp˙extcmd
 	gui
  = ~0 } },
 
-123 { 
+131 { 
 	gMODKEY
 |
 	gShi·Mask
@@ -757,7 +813,7 @@ mp˙extcmd
 	gui
  = ~0 } },
 
-124 { 
+132 { 
 	gMODKEY
 , 
 	gXK_comma
@@ -767,7 +823,7 @@ mp˙extcmd
 	gi
  = -1 } },
 
-125 { 
+133 { 
 	gMODKEY
 , 
 	gXK_≥riod
@@ -777,7 +833,7 @@ mp˙extcmd
 	gi
  = +1 } },
 
-126 { 
+134 { 
 	gMODKEY
 |
 	gShi·Mask
@@ -789,7 +845,7 @@ mp˙extcmd
 	gi
  = -1 } },
 
-127 { 
+135 { 
 	gMODKEY
 |
 	gShi·Mask
@@ -801,61 +857,61 @@ mp˙extcmd
 	gi
  = +1 } },
 
-128 
+136 
 TAGKEYS
 –
 XK_1
 , 0)
 
-129 
+137 
 TAGKEYS
 –
 XK_2
 , 1)
 
-130 
+138 
 TAGKEYS
 –
 XK_3
 , 2)
 
-131 
+139 
 TAGKEYS
 –
 XK_4
 , 3)
 
-132 
+140 
 TAGKEYS
 –
 XK_5
 , 4)
 
-133 
+141 
 TAGKEYS
 –
 XK_6
 , 5)
 
-134 
+142 
 TAGKEYS
 –
 XK_7
 , 6)
 
-135 
+143 
 TAGKEYS
 –
 XK_8
 , 7)
 
-136 
+144 
 TAGKEYS
 –
 XK_9
 , 8)
 
-137 { 
+145 { 
 	gMODKEY
 |
 	gShi·Mask
@@ -865,13 +921,13 @@ XK_9
 	gquô
 , {0} },
 
-142 
+150 
 Buâ⁄
  
 	gbuâ⁄s
 [] = {
 
-144 { 
+152 { 
 ClkLtSymbﬁ
 , 0, 
 Buâ⁄1
@@ -879,7 +935,7 @@ Buâ⁄1
 £éayout
 , {0} },
 
-145 { 
+153 { 
 ClkLtSymbﬁ
 , 0, 
 Buâ⁄3
@@ -891,7 +947,7 @@ v
 œyouts
 [2]} },
 
-146 { 
+154 { 
 	gClkWöTôÀ
 , 0, 
 	gBuâ⁄2
@@ -899,7 +955,7 @@ v
 	gzoom
 , {0} },
 
-147 { 
+155 { 
 	gClkSètusText
 , 0, 
 	gBuâ⁄2
@@ -911,7 +967,7 @@ v
 ãrmcmd
  } },
 
-148 { 
+156 { 
 	gClkClõ¡Wö
 , 
 	gMODKEY
@@ -921,7 +977,7 @@ v
 	gmovemou£
 , {0} },
 
-149 { 
+157 { 
 	gClkClõ¡Wö
 , 
 	gMODKEY
@@ -931,7 +987,7 @@ v
 	gtoggÀÊﬂtög
 , {0} },
 
-150 { 
+158 { 
 	gClkClõ¡Wö
 , 
 	gMODKEY
@@ -941,7 +997,7 @@ v
 	gªsizemou£
 , {0} },
 
-151 { 
+159 { 
 	gClkTagB¨
 , 0, 
 	gBuâ⁄1
@@ -949,7 +1005,7 @@ v
 	gvõw
 , {0} },
 
-152 { 
+160 { 
 	gClkTagB¨
 , 0, 
 	gBuâ⁄3
@@ -957,7 +1013,7 @@ v
 	gtoggÀvõw
 , {0} },
 
-153 { 
+161 { 
 	gClkTagB¨
 , 
 	gMODKEY
@@ -967,7 +1023,7 @@ v
 	gèg
 , {0} },
 
-154 { 
+162 { 
 	gClkTagB¨
 , 
 	gMODKEY
@@ -1619,47 +1675,51 @@ v
 
 	@/home/nas/src/linux/dwm/src/dwm-6.0/config.h
 
-8 c⁄° 
+10 c⁄° 
 	gf⁄t
 [] = "-*-terminus-medium-r-*-*-16-*-*-*-*-*-*-*";
 
-9 c⁄° 
+11 c⁄° 
 	gn‹mb‹dîcﬁ‹
 [] = "#444444";
 
-10 c⁄° 
+12 c⁄° 
 	gn‹mbgcﬁ‹
 [] = "#222222";
 
-11 c⁄° 
+13 c⁄° 
 	gn‹mfgcﬁ‹
 [] = "#bbbbbb";
 
-12 c⁄° 
+14 c⁄° 
 	g£lb‹dîcﬁ‹
 [] = "#005577";
 
-13 c⁄° 
+15 c⁄° 
 	g£lbgcﬁ‹
 [] = "#005577";
 
-14 c⁄° 
+16 c⁄° 
 	g£lfgcﬁ‹
 [] = "#eeeeee";
 
-15 c⁄° 
+17 c⁄° 
 	gb‹dîpx
  = 3;
 
-16 c⁄° 
+18 c⁄° 
 	gg≠px
  = 6;
 
-17 c⁄° 
+19 c⁄° 
 	g¢≠
  = 32;
 
-18 c⁄° 
+20 c⁄° 
+	gmöwsz
+ = 20;
+
+21 c⁄° 
 Boﬁ
  
 	gshowb¨
@@ -1667,7 +1727,7 @@ Boﬁ
 True
 ;
 
-19 c⁄° 
+22 c⁄° 
 Boﬁ
  
 	gt›b¨
@@ -1675,139 +1735,143 @@ Boﬁ
 True
 ;
 
-22 c⁄° *
+25 c⁄° *
 	gègs
 [] = { "1", "2", "3", "4", "5", "6", "7", "8", "9" };
 
-24 c⁄° 
+27 c⁄° 
 RuÀ
  
 	gruÀs
 [] = {
 
-26 { "URxvt", 
+29 { "URxvt", 
 NULL
 , "øngî", 1 << 1, 
 FÆ£
 , -1 },
 
-27 { "Thu«r", 
+30 { "Thu«r", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-28 { "Pidgö", 
+31 { "Pidgö", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-29 { "f⁄tf‹ge", 
+32 { "f⁄tf‹ge", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-30 { "Bcom∑ª", 
+33 { "Bcom∑ª", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-31 { "LóÂad", 
+34 { "LóÂad", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-32 { "Lx≠≥¨™˚", 
+35 { "Lx≠≥¨™˚", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-33 { "E˛ù£", 
+36 { "E˛ù£", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-34 { "Evö˚", 
+37 { "Evö˚", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-35 { "FBRódî", 
+38 { "FBRódî", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-36 { "Fúefox", 
+39 { "Fúefox", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-37 { "Chromium", 
+40 { "Chromium", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-38 { "luakô", 
+41 { "luakô", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-39 { "Gimp", 
+42 { "Gimp", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-40 { "Ario", 
+43 { "Ario", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-41 { "Q∑eq", 
+44 { "Q∑eq", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-42 { "D¨kèbÀ", 
+45 { "D¨kèbÀ", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-43 { "Pavuc⁄åﬁ", 
+46 { "Pavuc⁄åﬁ", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-44 { "Sm∂ayî", 
+47 { "Sm∂ayî", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-48 c⁄° 
+51 c⁄° 
 	gmÁ˘
  = 0.55;
 
-49 c⁄° 
+52 c⁄° 
+	gsmÁ˘
+ = 0.00;
+
+53 c⁄° 
 	gnma°î
  = 1;
 
-50 c⁄° 
+54 c⁄° 
 Boﬁ
  
 	gªsizehöts
@@ -1815,25 +1879,25 @@ Boﬁ
 FÆ£
 ;
 
-52 c⁄° 
+56 c⁄° 
 Layout
  
 	gœyouts
 [] = {
 
-54 { "[]=", 
+58 { "[]=", 
 tûe
  },
 
-55 { "><>", 
+59 { "><>", 
 NULL
  },
 
-56 { "[M]", 
+60 { "[M]", 
 m⁄o˛e
  },
 
-60 
+64 
 	#MODKEY
  
 Mod4Mask
@@ -1841,7 +1905,7 @@ Mod4Mask
 
 	)
 
-61 
+65 
 	#A…Mask
  
 Mod1Mask
@@ -1849,7 +1913,7 @@ Mod1Mask
 
 	)
 
-62 
+66 
 	#TAGKEYS
 (
 KEY
@@ -1857,7 +1921,7 @@ KEY
 TAG
 ) \
 
-63 { 
+67 { 
 MODKEY
 , 
 KEY
@@ -1869,7 +1933,7 @@ ui
 TAG
 } }, \
 
-64 { 
+68 { 
 MODKEY
 |
 C⁄åﬁMask
@@ -1883,7 +1947,7 @@ ui
 TAG
 } }, \
 
-65 { 
+69 { 
 MODKEY
 |
 Shi·Mask
@@ -1897,7 +1961,7 @@ ui
 TAG
 } }, \
 
-66 { 
+70 { 
 MODKEY
 |
 C⁄åﬁMask
@@ -1915,7 +1979,7 @@ TAG
 
 	)
 
-69 
+73 
 	#SHCMD
 (
 cmd
@@ -1927,7 +1991,7 @@ NULL
 
 	)
 
-72 c⁄° *
+76 c⁄° *
 	gdmíucmd
 [] = { "dmíu_run", "-‚", 
 f⁄t
@@ -1943,103 +2007,103 @@ n‹mfgcﬁ‹
 NULL
  };
 
-73 c⁄° *
+77 c⁄° *
 	gãrmcmd
 [] = { "urxvtc", 
 NULL
  };
 
-74 c⁄° *
+78 c⁄° *
 	gøngîcmd
 [] = { "urxvtc", "-e", "øngî", 
 NULL
  };
 
-75 c⁄° *
+79 c⁄° *
 	gthu«rcmd
 [] = { "thu«r", 
 NULL
  };
 
-76 c⁄° *
+80 c⁄° *
 	gthu«rsucmd
 [] = { "gksu", "thu«r", 
 NULL
  };
 
-77 c⁄° *
+81 c⁄° *
 	gs¸Ÿcmd
 [] = { "s¸Ÿ", "-q", "100", "-e", "mv\ $f\ ~/img/s¸ìnshŸs", 
 NULL
  };
 
-78 c⁄° *
+82 c⁄° *
 	glocks¸ìncmd
 [] = { "xs¸ìnßvî-comm™d", "--lock", 
 NULL
  };
 
-79 c⁄° *
+83 c⁄° *
 	gmpd∂aycmd
 [] = { "mpd∂ay", 
 NULL
  };
 
-80 c⁄° *
+84 c⁄° *
 	gdwmmíucmd
 [] = { "dwm-míu", 
 NULL
  };
 
-81 c⁄° *
+85 c⁄° *
 	gaudiomuãvﬁcmd
 [] = { "amixî", "-q", "£t", "Ma°î", "toggÀ", 
 NULL
  };
 
-82 c⁄° *
+86 c⁄° *
 	gaudiodecvﬁcmd
 [] = { "amixî", "-q", "£t", "Ma°î", "5%-", 
 NULL
  };
 
-83 c⁄° *
+87 c⁄° *
 	gaudioöcvﬁcmd
 [] = { "amixî", "-q", "£t", "Ma°î", "5%+", 
 NULL
  };
 
-84 c⁄° *
+88 c⁄° *
 	gmp˘oggÀcmd
 [] = { "mpc", "toggÀ", 
 NULL
  };
 
-85 c⁄° *
+89 c⁄° *
 	gmpc°›cmd
 [] = { "mpc", "°›", 
 NULL
  };
 
-86 c⁄° *
+90 c⁄° *
 	gmp˝ªvcmd
 [] = { "mpc", "¥ev", 
 NULL
  };
 
-87 c⁄° *
+91 c⁄° *
 	gmp˙extcmd
 [] = { "mpc", "√xt", 
 NULL
  };
 
-89 
+93 
 Key
  
 	gkeys
 [] = {
 
-91 { 
+95 { 
 MODKEY
 , 
 XK_p
@@ -2051,7 +2115,7 @@ v
 dmíucmd
  } },
 
-92 { 
+96 { 
 	gMODKEY
 |
 	gShi·Mask
@@ -2065,7 +2129,7 @@ dmíucmd
 ãrmcmd
  } },
 
-93 { 
+97 { 
 	gMODKEY
 , 
 	gXK_e
@@ -2077,7 +2141,7 @@ dmíucmd
 øngîcmd
  } },
 
-94 { 
+98 { 
 	gMODKEY
 , 
 	gXK_w
@@ -2089,7 +2153,7 @@ dmíucmd
 thu«rcmd
  } },
 
-95 { 
+99 { 
 	gMODKEY
 |
 	gShi·Mask
@@ -2103,7 +2167,7 @@ thu«rcmd
 thu«rsucmd
  } },
 
-96 { 0, 0xff61, 
+100 { 0, 0xff61, 
 	g•awn
 , {.
 	gv
@@ -2111,7 +2175,7 @@ thu«rsucmd
 s¸Ÿcmd
  } },
 
-97 { 
+101 { 
 	gC⁄åﬁMask
 |
 	gA…Mask
@@ -2125,7 +2189,7 @@ s¸Ÿcmd
 locks¸ìncmd
  } },
 
-98 { 
+102 { 
 	gMODKEY
 , 
 	gXK_o
@@ -2137,7 +2201,7 @@ locks¸ìncmd
 mpd∂aycmd
  } },
 
-99 { 
+103 { 
 	gMODKEY
 , 
 	gXK_gøve
@@ -2149,7 +2213,7 @@ mpd∂aycmd
 dwmmíucmd
  } },
 
-100 { 0, 0x1008ff11, 
+104 { 0, 0x1008ff11, 
 	g•awn
 , {.
 	gv
@@ -2157,7 +2221,7 @@ dwmmíucmd
 audiodecvﬁcmd
  } },
 
-101 { 0, 0x1008ff12, 
+105 { 0, 0x1008ff12, 
 	g•awn
 , {.
 	gv
@@ -2165,7 +2229,7 @@ audiodecvﬁcmd
 audiomuãvﬁcmd
  } },
 
-102 { 0, 0x1008ff13, 
+106 { 0, 0x1008ff13, 
 	g•awn
 , {.
 	gv
@@ -2173,7 +2237,7 @@ audiomuãvﬁcmd
 audioöcvﬁcmd
  } },
 
-103 { 0, 0x1008ff14, 
+107 { 0, 0x1008ff14, 
 	g•awn
 , {.
 	gv
@@ -2181,7 +2245,7 @@ audioöcvﬁcmd
 mp˘oggÀcmd
  } },
 
-104 { 0, 0x1008ff15, 
+108 { 0, 0x1008ff15, 
 	g•awn
 , {.
 	gv
@@ -2189,7 +2253,7 @@ mp˘oggÀcmd
 mpc°›cmd
  } },
 
-105 { 0, 0x1008ff16, 
+109 { 0, 0x1008ff16, 
 	g•awn
 , {.
 	gv
@@ -2197,7 +2261,7 @@ mpc°›cmd
 mp˝ªvcmd
  } },
 
-106 { 0, 0x1008ff17, 
+110 { 0, 0x1008ff17, 
 	g•awn
 , {.
 	gv
@@ -2205,7 +2269,7 @@ mp˝ªvcmd
 mp˙extcmd
  } },
 
-107 { 
+111 { 
 	gMODKEY
 , 
 	gXK_b
@@ -2213,7 +2277,7 @@ mp˙extcmd
 	gtoggÀb¨
 , {0} },
 
-108 { 
+112 { 
 	gMODKEY
 , 
 	gXK_j
@@ -2223,7 +2287,7 @@ mp˙extcmd
 	gi
  = +1 } },
 
-109 { 
+113 { 
 	gMODKEY
 , 
 	gXK_k
@@ -2233,7 +2297,31 @@ mp˙extcmd
 	gi
  = -1 } },
 
-110 { 
+114 { 
+	gMODKEY
+|
+	gShi·Mask
+, 
+	gXK_j
+, 
+	gmove°ack
+, {.
+	gi
+ = +1 } },
+
+115 { 
+	gMODKEY
+|
+	gShi·Mask
+, 
+	gXK_k
+, 
+	gmove°ack
+, {.
+	gi
+ = -1 } },
+
+116 { 
 	gMODKEY
 , 
 	gXK_i
@@ -2243,7 +2331,7 @@ mp˙extcmd
 	gi
  = +1 } },
 
-111 { 
+117 { 
 	gMODKEY
 , 
 	gXK_d
@@ -2253,7 +2341,7 @@ mp˙extcmd
 	gi
  = -1 } },
 
-112 { 
+118 { 
 	gMODKEY
 , 
 	gXK_h
@@ -2263,7 +2351,7 @@ mp˙extcmd
 	gf
  = -0.05} },
 
-113 { 
+119 { 
 	gMODKEY
 , 
 	gXK_l
@@ -2273,7 +2361,31 @@ mp˙extcmd
 	gf
  = +0.05} },
 
-114 { 
+120 { 
+	gMODKEY
+|
+	gShi·Mask
+, 
+	gXK_h
+, 
+	g£tsmÁ˘
+, {.
+	gf
+ = +0.05} },
+
+121 { 
+	gMODKEY
+|
+	gShi·Mask
+, 
+	gXK_l
+, 
+	g£tsmÁ˘
+, {.
+	gf
+ = -0.05} },
+
+122 { 
 	gMODKEY
 , 
 	gXK_Rëu∫
@@ -2281,7 +2393,7 @@ mp˙extcmd
 	gzoom
 , {0} },
 
-115 { 
+123 { 
 	gMODKEY
 , 
 	gXK_Tab
@@ -2289,7 +2401,7 @@ mp˙extcmd
 	gvõw
 , {0} },
 
-116 { 
+124 { 
 	gMODKEY
 |
 	gShi·Mask
@@ -2299,7 +2411,7 @@ mp˙extcmd
 	gkûl˛õ¡
 , {0} },
 
-117 { 
+125 { 
 	gMODKEY
 , 
 	gXK_t
@@ -2311,7 +2423,7 @@ mp˙extcmd
 œyouts
 [0]} },
 
-118 { 
+126 { 
 	gMODKEY
 , 
 	gXK_f
@@ -2323,7 +2435,7 @@ mp˙extcmd
 œyouts
 [1]} },
 
-119 { 
+127 { 
 	gMODKEY
 , 
 	gXK_m
@@ -2335,7 +2447,7 @@ mp˙extcmd
 œyouts
 [2]} },
 
-120 { 
+128 { 
 	gMODKEY
 , 
 	gXK_•a˚
@@ -2343,7 +2455,7 @@ mp˙extcmd
 	g£éayout
 , {0} },
 
-121 { 
+129 { 
 	gMODKEY
 |
 	gShi·Mask
@@ -2353,7 +2465,7 @@ mp˙extcmd
 	gtoggÀÊﬂtög
 , {0} },
 
-122 { 
+130 { 
 	gMODKEY
 , 
 	gXK_0
@@ -2363,7 +2475,7 @@ mp˙extcmd
 	gui
  = ~0 } },
 
-123 { 
+131 { 
 	gMODKEY
 |
 	gShi·Mask
@@ -2375,7 +2487,7 @@ mp˙extcmd
 	gui
  = ~0 } },
 
-124 { 
+132 { 
 	gMODKEY
 , 
 	gXK_comma
@@ -2385,7 +2497,7 @@ mp˙extcmd
 	gi
  = -1 } },
 
-125 { 
+133 { 
 	gMODKEY
 , 
 	gXK_≥riod
@@ -2395,7 +2507,7 @@ mp˙extcmd
 	gi
  = +1 } },
 
-126 { 
+134 { 
 	gMODKEY
 |
 	gShi·Mask
@@ -2407,7 +2519,7 @@ mp˙extcmd
 	gi
  = -1 } },
 
-127 { 
+135 { 
 	gMODKEY
 |
 	gShi·Mask
@@ -2419,61 +2531,61 @@ mp˙extcmd
 	gi
  = +1 } },
 
-128 
+136 
 TAGKEYS
 –
 XK_1
 , 0)
 
-129 
+137 
 TAGKEYS
 –
 XK_2
 , 1)
 
-130 
+138 
 TAGKEYS
 –
 XK_3
 , 2)
 
-131 
+139 
 TAGKEYS
 –
 XK_4
 , 3)
 
-132 
+140 
 TAGKEYS
 –
 XK_5
 , 4)
 
-133 
+141 
 TAGKEYS
 –
 XK_6
 , 5)
 
-134 
+142 
 TAGKEYS
 –
 XK_7
 , 6)
 
-135 
+143 
 TAGKEYS
 –
 XK_8
 , 7)
 
-136 
+144 
 TAGKEYS
 –
 XK_9
 , 8)
 
-137 { 
+145 { 
 	gMODKEY
 |
 	gShi·Mask
@@ -2483,13 +2595,13 @@ XK_9
 	gquô
 , {0} },
 
-142 
+150 
 Buâ⁄
  
 	gbuâ⁄s
 [] = {
 
-144 { 
+152 { 
 ClkLtSymbﬁ
 , 0, 
 Buâ⁄1
@@ -2497,7 +2609,7 @@ Buâ⁄1
 £éayout
 , {0} },
 
-145 { 
+153 { 
 ClkLtSymbﬁ
 , 0, 
 Buâ⁄3
@@ -2509,7 +2621,7 @@ v
 œyouts
 [2]} },
 
-146 { 
+154 { 
 	gClkWöTôÀ
 , 0, 
 	gBuâ⁄2
@@ -2517,7 +2629,7 @@ v
 	gzoom
 , {0} },
 
-147 { 
+155 { 
 	gClkSètusText
 , 0, 
 	gBuâ⁄2
@@ -2529,7 +2641,7 @@ v
 ãrmcmd
  } },
 
-148 { 
+156 { 
 	gClkClõ¡Wö
 , 
 	gMODKEY
@@ -2539,7 +2651,7 @@ v
 	gmovemou£
 , {0} },
 
-149 { 
+157 { 
 	gClkClõ¡Wö
 , 
 	gMODKEY
@@ -2549,7 +2661,7 @@ v
 	gtoggÀÊﬂtög
 , {0} },
 
-150 { 
+158 { 
 	gClkClõ¡Wö
 , 
 	gMODKEY
@@ -2559,7 +2671,7 @@ v
 	gªsizemou£
 , {0} },
 
-151 { 
+159 { 
 	gClkTagB¨
 , 0, 
 	gBuâ⁄1
@@ -2567,7 +2679,7 @@ v
 	gvõw
 , {0} },
 
-152 { 
+160 { 
 	gClkTagB¨
 , 0, 
 	gBuâ⁄3
@@ -2575,7 +2687,7 @@ v
 	gtoggÀvõw
 , {0} },
 
-153 { 
+161 { 
 	gClkTagB¨
 , 
 	gMODKEY
@@ -2585,7 +2697,7 @@ v
 	gèg
 , {0} },
 
-154 { 
+162 { 
 	gClkTagB¨
 , 
 	gMODKEY
@@ -2597,79 +2709,79 @@ v
 
 	@/home/nas/src/linux/dwm/src/dwm-6.0/dwm.c
 
-27 
+29 
 	~<î∫o.h
 >
 
-28 
+30 
 	~<loˇÀ.h
 >
 
-29 
+31 
 	~<°d¨g.h
 >
 
-30 
+32 
 	~<sig«l.h
 >
 
-31 
+33 
 	~<°dio.h
 >
 
-32 
+34 
 	~<°dlib.h
 >
 
-33 
+35 
 	~<°rög.h
 >
 
-34 
+36 
 	~<uni°d.h
 >
 
-35 
+37 
 	~<sys/ty≥s.h
 >
 
-36 
+38 
 	~<sys/waô.h
 >
 
-37 
+39 
 	~<X11/curs‹f⁄t.h
 >
 
-38 
+40 
 	~<X11/keysym.h
 >
 
-39 
+41 
 	~<X11/X©om.h
 >
 
-40 
+42 
 	~<X11/Xlib.h
 >
 
-41 
+43 
 	~<X11/X¥Ÿo.h
 >
 
-42 
+44 
 	~<X11/Xutû.h
 >
 
-43 #ifde‡
+45 #ifde‡
 XINERAMA
 
 
-44 
+46 
 	~<X11/exãnsi⁄s/Xöîama.h
 >
 
-48 
+50 
 	#BUTTONMASK
  (
 Buâ⁄PªssMask
@@ -2679,7 +2791,7 @@ Buâ⁄Rñó£Mask
 
 	)
 
-49 
+51 
 	#CLEANMASK
 (
 mask
@@ -2705,7 +2817,7 @@ Mod5Mask
 
 	)
 
-50 
+52 
 	#INTERSECT
 (
 x
@@ -2727,7 +2839,7 @@ wx
 ww
 ) - MAX((x),(m)->wx)) \
 
-51 * 
+53 * 
 	`MAX
 (0, 
 	`MIN
@@ -2745,7 +2857,7 @@ wh
 
 	)
 
-52 
+54 
 	#ISVISIBLE
 (
 C
@@ -2761,7 +2873,7 @@ m⁄
 
 	)
 
-53 
+55 
 	#LENGTH
 (
 X
@@ -2769,7 +2881,7 @@ X
 
 	)
 
-54 
+56 
 	#MAX
 (
 A
@@ -2779,7 +2891,7 @@ B
 
 	)
 
-55 
+57 
 	#MIN
 (
 A
@@ -2789,7 +2901,7 @@ B
 
 	)
 
-56 
+58 
 	#MOUSEMASK
  (
 BUTTONMASK
@@ -2799,7 +2911,7 @@ PoöãrMŸi⁄Mask
 
 	)
 
-57 
+59 
 	#WIDTH
 (
 X
@@ -2811,7 +2923,7 @@ bw
 
 	)
 
-58 
+60 
 	#HEIGHT
 (
 X
@@ -2823,7 +2935,7 @@ bw
 
 	)
 
-59 
+61 
 	#TAGMASK
  ((1 << 
 	`LENGTH
@@ -2833,7 +2945,7 @@ bw
 
 	)
 
-60 
+62 
 	#TEXTW
 (
 X
@@ -2851,7 +2963,7 @@ height
 
 	)
 
-63 íum { 
+65 íum { 
 	mCurN‹mÆ
 , 
 	mCurResize
@@ -2861,7 +2973,7 @@ height
 	mCurLa°
  };
 
-64 íum { 
+66 íum { 
 	mCﬁB‹dî
 , 
 	mCﬁFG
@@ -2871,7 +2983,7 @@ height
 	mCﬁLa°
  };
 
-65 íum { 
+67 íum { 
 	mNëSuµ‹ãd
 , 
 	mNëWMName
@@ -2879,7 +2991,7 @@ height
 	mNëWMSèã
 ,
 
-66 
+68 
 	mNëWMFuŒs¸ìn
 , 
 	mNëA˘iveWödow
@@ -2887,13 +2999,13 @@ height
 	mNëWMWödowTy≥
 ,
 
-67 
+69 
 	mNëWMWödowTy≥Dülog
 , 
 	mNëLa°
  };
 
-68 íum { 
+70 íum { 
 	mWMPrŸocﬁs
 , 
 	mWMDñëe
@@ -2905,7 +3017,7 @@ height
 	mWMLa°
  };
 
-69 íum { 
+71 íum { 
 	mClkTagB¨
 , 
 	mClkLtSymbﬁ
@@ -2915,7 +3027,7 @@ height
 	mClkWöTôÀ
 ,
 
-70 
+72 
 	mClkClõ¡Wö
 , 
 	mClkRoŸWö
@@ -2923,39 +3035,43 @@ height
 	mClkLa°
  };
 
-73 
+75 
 	mi
 ;
 
-74 
+76 
 	mui
 ;
 
-75 
+77 
 	mf
 ;
 
-76 c⁄° *
+78 
+	msf
+;
+
+79 c⁄° *
 	mv
 ;
 
-77 } 
+80 } 
 	tArg
 ;
 
-80 
+83 
 	m˛ick
 ;
 
-81 
+84 
 	mmask
 ;
 
-82 
+85 
 	mbuâ⁄
 ;
 
-83 (*
+86 (*
 	mfunc
 )(c⁄° 
 Arg
@@ -2963,43 +3079,43 @@ Arg
 	m¨g
 );
 
-84 c⁄° 
+87 c⁄° 
 Arg
  
 	m¨g
 ;
 
-85 } 
+88 } 
 	tBuâ⁄
 ;
 
-87 
+90 
 M⁄ô‹
  
 	tM⁄ô‹
 ;
 
-88 
+91 
 Clõ¡
  
 	tClõ¡
 ;
 
-89 
+92 
 	sClõ¡
  {
 
-90 
+93 
 	m«me
 [256];
 
-91 
+94 
 	mmöa
 , 
 	mmaxa
 ;
 
-92 
+95 
 	mx
 , 
 	my
@@ -3009,7 +3125,7 @@ Clõ¡
 	mh
 ;
 
-93 
+96 
 	mﬁdx
 , 
 	mﬁdy
@@ -3019,7 +3135,7 @@ Clõ¡
 	mﬁdh
 ;
 
-94 
+97 
 	mba£w
 , 
 	mba£h
@@ -3037,17 +3153,17 @@ Clõ¡
 	mmöh
 ;
 
-95 
+98 
 	mbw
 , 
 	mﬁdbw
 ;
 
-96 
+99 
 	mègs
 ;
 
-97 
+100 
 Boﬁ
  
 	misfixed
@@ -3063,31 +3179,31 @@ Boﬁ
 	misfuŒs¸ìn
 ;
 
-98 
+101 
 Clõ¡
  *
 	m√xt
 ;
 
-99 
+102 
 Clõ¡
  *
 	m¢ext
 ;
 
-100 
+103 
 M⁄ô‹
  *
 	mm⁄
 ;
 
-101 
+104 
 Wödow
  
 	mwö
 ;
 
-105 
+108 
 	mx
 , 
 	my
@@ -3097,127 +3213,131 @@ Wödow
 	mh
 ;
 
-106 
+109 
 	mn‹m
 [
 CﬁLa°
 ];
 
-107 
+110 
 	m£l
 [
 CﬁLa°
 ];
 
-108 
+111 
 DøwabÀ
  
 	mdøwabÀ
 ;
 
-109 
+112 
 GC
  
 	mgc
 ;
 
-111 
+114 
 	mas˚¡
 ;
 
-112 
+115 
 	mdes˚¡
 ;
 
-113 
+116 
 	mheight
 ;
 
-114 
+117 
 XF⁄tSë
  
 	m£t
 ;
 
-115 
+118 
 XF⁄tSåu˘
  *
 	mxf⁄t
 ;
 
-116 } 
+119 } 
 	mf⁄t
 ;
 
-117 } 
+120 } 
 	tDC
 ;
 
-120 
+123 
 	mmod
 ;
 
-121 
+124 
 KeySym
  
 	mkeysym
 ;
 
-122 (*
+125 (*
 	mfunc
 )(c⁄° 
 	mArg
  *);
 
-123 c⁄° 
+126 c⁄° 
 Arg
  
 	m¨g
 ;
 
-124 } 
+127 } 
 	tKey
 ;
 
-127 c⁄° *
+130 c⁄° *
 	msymbﬁ
 ;
 
-128 (*
+131 (*
 	m¨ønge
 )(
 	mM⁄ô‹
  *);
 
-129 } 
+132 } 
 	tLayout
 ;
 
-131 
+134 
 	sM⁄ô‹
  {
 
-132 
+135 
 	m…symbﬁ
 [16];
 
-133 
+136 
 	mmÁ˘
 ;
 
-134 
+137 
+	msmÁ˘
+;
+
+138 
 	mnma°î
 ;
 
-135 
+139 
 	mnum
 ;
 
-136 
+140 
 	mby
 ;
 
-137 
+141 
 	mmx
 , 
 	mmy
@@ -3227,7 +3347,7 @@ Arg
 	mmh
 ;
 
-138 
+142 
 	mwx
 , 
 	mwy
@@ -3237,97 +3357,97 @@ Arg
 	mwh
 ;
 
-139 
+143 
 	m£…ags
 ;
 
-140 
+144 
 	m£Œt
 ;
 
-141 
+145 
 	mèg£t
 [2];
 
-142 
+146 
 Boﬁ
  
 	mshowb¨
 ;
 
-143 
+147 
 Boﬁ
  
 	mt›b¨
 ;
 
-144 
+148 
 Clõ¡
  *
 	m˛õ¡s
 ;
 
-145 
+149 
 Clõ¡
  *
 	m£l
 ;
 
-146 
+150 
 Clõ¡
  *
 	m°ack
 ;
 
-147 
+151 
 M⁄ô‹
  *
 	m√xt
 ;
 
-148 
+152 
 Wödow
  
 	mb¨wö
 ;
 
-149 c⁄° 
+153 c⁄° 
 Layout
  *
 	m…
 [2];
 
-153 c⁄° *
+157 c⁄° *
 	m˛ass
 ;
 
-154 c⁄° *
+158 c⁄° *
 	mö°™˚
 ;
 
-155 c⁄° *
+159 c⁄° *
 	mtôÀ
 ;
 
-156 
+160 
 	mègs
 ;
 
-157 
+161 
 Boﬁ
  
 	misÊﬂtög
 ;
 
-158 
+162 
 	mm⁄ô‹
 ;
 
-159 } 
+163 } 
 	tRuÀ
 ;
 
-162 
+166 
 ≠∂yruÀs
 (
 Clõ¡
@@ -3335,7 +3455,7 @@ Clõ¡
 c
 );
 
-163 
+167 
 Boﬁ
  
 ≠∂ysizehöts
@@ -3355,7 +3475,7 @@ h
 öãø˘
 );
 
-164 
+168 
 ¨ønge
 (
 M⁄ô‹
@@ -3363,7 +3483,7 @@ M⁄ô‹
 m
 );
 
-165 
+169 
 ¨øngem⁄
 (
 M⁄ô‹
@@ -3371,7 +3491,7 @@ M⁄ô‹
 m
 );
 
-166 
+170 
 ©èch
 (
 Clõ¡
@@ -3379,7 +3499,7 @@ Clõ¡
 c
 );
 
-167 
+171 
 ©èch°ack
 (
 Clõ¡
@@ -3387,7 +3507,7 @@ Clõ¡
 c
 );
 
-168 
+172 
 buâ⁄¥ess
 (
 XEvít
@@ -3395,15 +3515,15 @@ XEvít
 e
 );
 
-169 
+173 
 checkŸhîwm
 ();
 
-170 
+174 
 ˛ónup
 ();
 
-171 
+175 
 ˛ónupm⁄
 (
 M⁄ô‹
@@ -3411,7 +3531,7 @@ M⁄ô‹
 m⁄
 );
 
-172 
+176 
 ˛órurgít
 (
 Clõ¡
@@ -3419,7 +3539,7 @@ Clõ¡
 c
 );
 
-173 
+177 
 ˛õ¡mesßge
 (
 XEvít
@@ -3427,7 +3547,7 @@ XEvít
 e
 );
 
-174 
+178 
 c⁄figuª
 (
 Clõ¡
@@ -3435,7 +3555,7 @@ Clõ¡
 c
 );
 
-175 
+179 
 c⁄figuªnŸify
 (
 XEvít
@@ -3443,7 +3563,7 @@ XEvít
 e
 );
 
-176 
+180 
 c⁄figuªªque°
 (
 XEvít
@@ -3451,13 +3571,13 @@ XEvít
 e
 );
 
-177 
+181 
 M⁄ô‹
  *
 ¸óãm⁄
 ();
 
-178 
+182 
 de°roynŸify
 (
 XEvít
@@ -3465,7 +3585,7 @@ XEvít
 e
 );
 
-179 
+183 
 dëach
 (
 Clõ¡
@@ -3473,7 +3593,7 @@ Clõ¡
 c
 );
 
-180 
+184 
 dëach°ack
 (
 Clõ¡
@@ -3481,13 +3601,13 @@ Clõ¡
 c
 );
 
-181 
+185 
 dõ
 (c⁄° *
 îr°r
 , ...);
 
-182 
+186 
 M⁄ô‹
  *
 dútom⁄
@@ -3495,7 +3615,7 @@ dútom⁄
 dú
 );
 
-183 
+187 
 døwb¨
 (
 M⁄ô‹
@@ -3503,11 +3623,11 @@ M⁄ô‹
 m
 );
 
-184 
+188 
 døwb¨s
 ();
 
-185 
+189 
 døwsqu¨e
 (
 Boﬁ
@@ -3523,7 +3643,7 @@ cﬁ
 CﬁLa°
 ]);
 
-186 
+190 
 døwãxt
 (c⁄° *
 ãxt
@@ -3537,7 +3657,7 @@ Boﬁ
 övît
 );
 
-187 
+191 
 íã∫Ÿify
 (
 XEvít
@@ -3545,7 +3665,7 @@ XEvít
 e
 );
 
-188 
+192 
 expo£
 (
 XEvít
@@ -3553,7 +3673,7 @@ XEvít
 e
 );
 
-189 
+193 
 focus
 (
 Clõ¡
@@ -3561,7 +3681,7 @@ Clõ¡
 c
 );
 
-190 
+194 
 focusö
 (
 XEvít
@@ -3569,7 +3689,7 @@ XEvít
 e
 );
 
-191 
+195 
 focusm⁄
 (c⁄° 
 Arg
@@ -3577,7 +3697,7 @@ Arg
 ¨g
 );
 
-192 
+196 
 focus°ack
 (c⁄° 
 Arg
@@ -3585,13 +3705,21 @@ Arg
 ¨g
 );
 
-193 
+197 
+move°ack
+(c⁄° 
+Arg
+ *
+¨g
+);
+
+198 
 gëcﬁ‹
 (c⁄° *
 cﬁ°r
 );
 
-194 
+199 
 Boﬁ
  
 gëroŸ±r
@@ -3601,7 +3729,7 @@ x
 y
 );
 
-195 
+200 
 gë°©e
 (
 Wödow
@@ -3609,7 +3737,7 @@ Wödow
 w
 );
 
-196 
+201 
 Boﬁ
  
 gëãxçr›
@@ -3627,7 +3755,7 @@ Atom
 size
 );
 
-197 
+202 
 gøbbuâ⁄s
 (
 Clõ¡
@@ -3639,11 +3767,11 @@ Boﬁ
 focu£d
 );
 
-198 
+203 
 gøbkeys
 ();
 
-199 
+204 
 ö˙ma°î
 (c⁄° 
 Arg
@@ -3651,13 +3779,13 @@ Arg
 ¨g
 );
 
-200 
+205 
 öôf⁄t
 (c⁄° *
 f⁄t°r
 );
 
-201 
+206 
 key¥ess
 (
 XEvít
@@ -3665,7 +3793,7 @@ XEvít
 e
 );
 
-202 
+207 
 kûl˛õ¡
 (c⁄° 
 Arg
@@ -3673,7 +3801,7 @@ Arg
 ¨g
 );
 
-203 
+208 
 m™age
 (
 Wödow
@@ -3685,7 +3813,7 @@ XWödowAâribuãs
 wa
 );
 
-204 
+209 
 m≠pögnŸify
 (
 XEvít
@@ -3693,7 +3821,7 @@ XEvít
 e
 );
 
-205 
+210 
 m≠ªque°
 (
 XEvít
@@ -3701,7 +3829,7 @@ XEvít
 e
 );
 
-206 
+211 
 m⁄o˛e
 (
 M⁄ô‹
@@ -3709,7 +3837,7 @@ M⁄ô‹
 m
 );
 
-207 
+212 
 mŸi⁄nŸify
 (
 XEvít
@@ -3717,7 +3845,7 @@ XEvít
 e
 );
 
-208 
+213 
 movemou£
 (c⁄° 
 Arg
@@ -3725,7 +3853,7 @@ Arg
 ¨g
 );
 
-209 
+214 
 Clõ¡
  *
 √xâûed
@@ -3733,13 +3861,13 @@ Clõ¡
 c
 );
 
-210 
+215 
 p›
 (
 Clõ¡
  *);
 
-211 
+216 
 ¥›îtynŸify
 (
 XEvít
@@ -3747,7 +3875,7 @@ XEvít
 e
 );
 
-212 
+217 
 quô
 (c⁄° 
 Arg
@@ -3755,7 +3883,7 @@ Arg
 ¨g
 );
 
-213 
+218 
 M⁄ô‹
  *
 ª˘tom⁄
@@ -3769,7 +3897,7 @@ w
 h
 );
 
-214 
+219 
 ªsize
 (
 Clõ¡
@@ -3789,7 +3917,7 @@ Boﬁ
 öãø˘
 );
 
-215 
+220 
 ªsize˛õ¡
 (
 Clõ¡
@@ -3805,7 +3933,7 @@ w
 h
 );
 
-216 
+221 
 ªsizemou£
 (c⁄° 
 Arg
@@ -3813,7 +3941,7 @@ Arg
 ¨g
 );
 
-217 
+222 
 ª°ack
 (
 M⁄ô‹
@@ -3821,15 +3949,15 @@ M⁄ô‹
 m
 );
 
-218 
+223 
 run
 ();
 
-219 
+224 
 sˇn
 ();
 
-220 
+225 
 Boﬁ
  
 £ndevít
@@ -3843,7 +3971,7 @@ Atom
 ¥Ÿo
 );
 
-221 
+226 
 £ndm⁄
 (
 Clõ¡
@@ -3855,7 +3983,7 @@ M⁄ô‹
 m
 );
 
-222 
+227 
 £t˛õ¡°©e
 (
 Clõ¡
@@ -3865,7 +3993,7 @@ c
 °©e
 );
 
-223 
+228 
 £tfocus
 (
 Clõ¡
@@ -3873,7 +4001,7 @@ Clõ¡
 c
 );
 
-224 
+229 
 £tfuŒs¸ìn
 (
 Clõ¡
@@ -3885,7 +4013,7 @@ Boﬁ
 fuŒs¸ìn
 );
 
-225 
+230 
 £éayout
 (c⁄° 
 Arg
@@ -3893,7 +4021,7 @@ Arg
 ¨g
 );
 
-226 
+231 
 £tmÁ˘
 (c⁄° 
 Arg
@@ -3901,11 +4029,19 @@ Arg
 ¨g
 );
 
-227 
+232 
+£tsmÁ˘
+(c⁄° 
+Arg
+ *
+¨g
+);
+
+233 
 £tup
 ();
 
-228 
+234 
 showhide
 (
 Clõ¡
@@ -3913,13 +4049,13 @@ Clõ¡
 c
 );
 
-229 
+235 
 sigchld
 (
 unu£d
 );
 
-230 
+236 
 •awn
 (c⁄° 
 Arg
@@ -3927,7 +4063,7 @@ Arg
 ¨g
 );
 
-231 
+237 
 èg
 (c⁄° 
 Arg
@@ -3935,7 +4071,7 @@ Arg
 ¨g
 );
 
-232 
+238 
 ègm⁄
 (c⁄° 
 Arg
@@ -3943,7 +4079,7 @@ Arg
 ¨g
 );
 
-233 
+239 
 ãxäw
 (c⁄° *
 ãxt
@@ -3951,13 +4087,13 @@ Arg
 Àn
 );
 
-234 
+240 
 tûe
 (
 M⁄ô‹
  *);
 
-235 
+241 
 toggÀb¨
 (c⁄° 
 Arg
@@ -3965,7 +4101,7 @@ Arg
 ¨g
 );
 
-236 
+242 
 toggÀÊﬂtög
 (c⁄° 
 Arg
@@ -3973,7 +4109,7 @@ Arg
 ¨g
 );
 
-237 
+243 
 toggÀèg
 (c⁄° 
 Arg
@@ -3981,7 +4117,7 @@ Arg
 ¨g
 );
 
-238 
+244 
 toggÀvõw
 (c⁄° 
 Arg
@@ -3989,7 +4125,7 @@ Arg
 ¨g
 );
 
-239 
+245 
 unfocus
 (
 Clõ¡
@@ -4001,7 +4137,7 @@ Boﬁ
 £tfocus
 );
 
-240 
+246 
 unm™age
 (
 Clõ¡
@@ -4013,7 +4149,7 @@ Boﬁ
 de°royed
 );
 
-241 
+247 
 unm≠nŸify
 (
 XEvít
@@ -4021,13 +4157,13 @@ XEvít
 e
 );
 
-242 
+248 
 Boﬁ
  
 upd©egeom
 ();
 
-243 
+249 
 upd©eb¨pos
 (
 M⁄ô‹
@@ -4035,15 +4171,15 @@ M⁄ô‹
 m
 );
 
-244 
+250 
 upd©eb¨s
 ();
 
-245 
+251 
 upd©íumlockmask
 ();
 
-246 
+252 
 upd©esizehöts
 (
 Clõ¡
@@ -4051,11 +4187,11 @@ Clõ¡
 c
 );
 
-247 
+253 
 upd©e°©us
 ();
 
-248 
+254 
 upd©ewödowty≥
 (
 Clõ¡
@@ -4063,7 +4199,7 @@ Clõ¡
 c
 );
 
-249 
+255 
 upd©ëôÀ
 (
 Clõ¡
@@ -4071,7 +4207,7 @@ Clõ¡
 c
 );
 
-250 
+256 
 upd©ewmhöts
 (
 Clõ¡
@@ -4079,7 +4215,7 @@ Clõ¡
 c
 );
 
-251 
+257 
 võw
 (c⁄° 
 Arg
@@ -4087,7 +4223,7 @@ Arg
 ¨g
 );
 
-252 
+258 
 Clõ¡
  *
 wöto˛õ¡
@@ -4097,7 +4233,7 @@ Wödow
 w
 );
 
-253 
+259 
 M⁄ô‹
  *
 wötom⁄
@@ -4107,7 +4243,7 @@ Wödow
 w
 );
 
-254 
+260 
 xîr‹
 (
 Di•œy
@@ -4119,7 +4255,7 @@ XEº‹Evít
 ì
 );
 
-255 
+261 
 xîr‹dummy
 (
 Di•œy
@@ -4131,7 +4267,7 @@ XEº‹Evít
 ì
 );
 
-256 
+262 
 xîr‹°¨t
 (
 Di•œy
@@ -4143,7 +4279,7 @@ XEº‹Evít
 ì
 );
 
-257 
+263 
 zoom
 (c⁄° 
 Arg
@@ -4151,7 +4287,7 @@ Arg
 ¨g
 );
 
-258 
+264 
 keyªÀa£
 (
 XEvít
@@ -4159,7 +4295,7 @@ XEvít
 e
 );
 
-259 
+265 
 combŸag
 (c⁄° 
 Arg
@@ -4167,7 +4303,7 @@ Arg
 ¨g
 );
 
-260 
+266 
 combovõw
 (c⁄° 
 Arg
@@ -4175,31 +4311,31 @@ Arg
 ¨g
 );
 
-263 c⁄° 
+269 c⁄° 
 	gbrokí
 [] = "broken";
 
-264 
+270 
 	g°ext
 [256];
 
-265 
+271 
 	gs¸ìn
 ;
 
-266 
+272 
 	gsw
 , 
 	gsh
 ;
 
-267 
+273 
 	gbh
 , 
 	gblw
  = 0;
 
-268 (*
+274 (*
 xîr‹xlib
 )(
 Di•œy
@@ -4207,11 +4343,11 @@ Di•œy
 XEº‹Evít
  *);
 
-269 
+275 
 numlockmask
  = 0;
 
-270 (*
+276 (*
 h™dÀr
 [
 LASTEvít
@@ -4219,107 +4355,107 @@ LASTEvít
 XEvít
  *) = {
 
-271 [
+277 [
 Buâ⁄Pªss
 ] = 
 buâ⁄¥ess
 ,
 
-272 [
+278 [
 Buâ⁄Rñó£
 ] = 
 keyªÀa£
 ,
 
-273 [
+279 [
 Clõ¡Mesßge
 ] = 
 ˛õ¡mesßge
 ,
 
-274 [
+280 [
 C⁄figuªReque°
 ] = 
 c⁄figuªªque°
 ,
 
-275 [
+281 [
 C⁄figuªNŸify
 ] = 
 c⁄figuªnŸify
 ,
 
-276 [
+282 [
 De°royNŸify
 ] = 
 de°roynŸify
 ,
 
-277 [
+283 [
 E¡îNŸify
 ] = 
 íã∫Ÿify
 ,
 
-278 [
+284 [
 Expo£
 ] = 
 expo£
 ,
 
-279 [
+285 [
 FocusIn
 ] = 
 focusö
 ,
 
-280 [
+286 [
 KeyRñó£
 ] = 
 keyªÀa£
 ,
 
-281 [
+287 [
 KeyPªss
 ] = 
 key¥ess
 ,
 
-282 [
+288 [
 M≠pögNŸify
 ] = 
 m≠pögnŸify
 ,
 
-283 [
+289 [
 M≠Reque°
 ] = 
 m≠ªque°
 ,
 
-284 [
+290 [
 MŸi⁄NŸify
 ] = 
 mŸi⁄nŸify
 ,
 
-285 [
+291 [
 Pr›îtyNŸify
 ] = 
 ¥›îtynŸify
 ,
 
-286 [
+292 [
 Unm≠NŸify
 ] = 
 unm≠nŸify
 
 
-287 
+293 
 	}
 };
 
-288 
+294 
 Atom
  
 	gwm©om
@@ -4331,7 +4467,7 @@ WMLa°
 NëLa°
 ];
 
-289 
+295 
 Boﬁ
  
 	gru¬ög
@@ -4339,7 +4475,7 @@ Boﬁ
 True
 ;
 
-290 
+296 
 Curs‹
  
 	gcurs‹
@@ -4347,19 +4483,19 @@ Curs‹
 CurLa°
 ];
 
-291 
+297 
 Di•œy
  *
 	gdpy
 ;
 
-292 
+298 
 DC
  
 	gdc
 ;
 
-293 
+299 
 M⁄ô‹
  *
 	gm⁄s
@@ -4369,25 +4505,25 @@ NULL
 	g£lm⁄
  = NULL;
 
-294 
+300 
 Wödow
  
 	groŸ
 ;
 
-295 
+301 
 	gglobÆb‹dî
 ;
 
-296 
+302 
 	gcombo
  = 0;
 
-299 
+305 
 	~"c⁄fig.h
 "
 
-302 
+308 
 	sNumTags
  { 
 	mlimôex˚eded
@@ -4397,7 +4533,7 @@ LENGTH
 ègs
 ) > 31 ? -1 : 1]; };
 
-306 
+312 
 	$keyªÀa£
 (
 XEvít
@@ -4405,15 +4541,15 @@ XEvít
 e
 ) {
 
-307 
+313 
 combo
  = 0;
 
-308 
+314 
 	}
 }
 
-311 
+317 
 	$combŸag
 (c⁄° 
 Arg
@@ -4421,7 +4557,7 @@ Arg
 ¨g
 ) {
 
-312 if(
+318 if(
 £lm⁄
 ->
 £l
@@ -4433,11 +4569,11 @@ ui
 TAGMASK
 ) {
 
-313 i‡(
+319 i‡(
 combo
 ) {
 
-314 
+320 
 £lm⁄
 ->
 £l
@@ -4451,11 +4587,11 @@ ui
 TAGMASK
 ;
 
-316 
+322 
 combo
  = 1;
 
-317 
+323 
 £lm⁄
 ->
 £l
@@ -4469,23 +4605,23 @@ ui
 TAGMASK
 ;
 
-319 
+325 
 	`focus
 (
 NULL
 );
 
-320 
+326 
 	`¨ønge
 (
 £lm⁄
 );
 
-322 
+328 
 	}
 }
 
-325 
+331 
 	$combovõw
 (c⁄° 
 Arg
@@ -4493,7 +4629,7 @@ Arg
 ¨g
 ) {
 
-326 
+332 
 √wègs
  = 
 ¨g
@@ -4503,11 +4639,11 @@ ui
 TAGMASK
 ;
 
-327 i‡(
+333 i‡(
 combo
 ) {
 
-328 
+334 
 £lm⁄
 ->
 èg£t
@@ -4517,21 +4653,21 @@ combo
 √wègs
 ;
 
-330 
+336 
 £lm⁄
 ->
 £…ags
  ^= 1;
 
-331 
+337 
 combo
  = 1;
 
-332 i‡(
+338 i‡(
 √wègs
 )
 
-333 
+339 
 £lm⁄
 ->
 èg£t
@@ -4541,23 +4677,23 @@ combo
 √wègs
 ;
 
-335 
+341 
 	`focus
 (
 NULL
 );
 
-336 
+342 
 	`¨ønge
 (
 £lm⁄
 );
 
-337 
+343 
 	}
 }
 
-340 
+346 
 	$≠∂yruÀs
 (
 Clõ¡
@@ -4565,29 +4701,29 @@ Clõ¡
 c
 ) {
 
-341 c⁄° *
+347 c⁄° *
 ˛ass
 , *
 ö°™˚
 ;
 
-342 
+348 
 i
 ;
 
-343 c⁄° 
+349 c⁄° 
 RuÀ
  *
 r
 ;
 
-344 
+350 
 M⁄ô‹
  *
 m
 ;
 
-345 
+351 
 XCœssHöt
  
 ch
@@ -4595,7 +4731,7 @@ ch
 NULL
 , NULL };
 
-348 
+354 
 c
 ->
 isÊﬂtög
@@ -4603,7 +4739,7 @@ isÊﬂtög
 ègs
  = 0;
 
-349 
+355 
 	`XGëCœssHöt
 (
 dpy
@@ -4615,7 +4751,7 @@ wö
 ch
 );
 
-350 
+356 
 ˛ass
  = 
 ch
@@ -4625,7 +4761,7 @@ ch
 brokí
 ;
 
-351 
+357 
 ö°™˚
  = 
 ch
@@ -4635,7 +4771,7 @@ ch
 brokí
 ;
 
-353 
+359 
 i
  = 0; i < 
 	`LENGTH
@@ -4643,7 +4779,7 @@ i
 ruÀs
 ); i++) {
 
-354 
+360 
 r
  = &
 ruÀs
@@ -4651,7 +4787,7 @@ ruÀs
 i
 ];
 
-355 if((!
+361 if((!
 r
 ->
 tôÀ
@@ -4663,7 +4799,7 @@ c
 «me
 ,Ñ->title))
 
-356 && (!
+362 && (!
 r
 ->
 ˛ass
@@ -4671,7 +4807,7 @@ r
 	`°r°r
 (class,Ñ->class))
 
-357 && (!
+363 && (!
 r
 ->
 ö°™˚
@@ -4679,7 +4815,7 @@ r
 	`°r°r
 (instance,Ñ->instance)))
 
-359 
+365 
 c
 ->
 isÊﬂtög
@@ -4687,7 +4823,7 @@ isÊﬂtög
 r
 ->isfloating;
 
-360 
+366 
 c
 ->
 ègs
@@ -4695,7 +4831,7 @@ c
 r
 ->tags;
 
-361 
+367 
 m
  = 
 m⁄s
@@ -4709,11 +4845,11 @@ m⁄ô‹
 √xt
 );
 
-362 if(
+368 if(
 m
 )
 
-363 
+369 
 c
 ->
 m⁄
@@ -4721,13 +4857,13 @@ m⁄
 m
 ;
 
-366 if(
+372 if(
 ch
 .
 ªs_˛ass
 )
 
-367 
+373 
 	`XFªe
 (
 ch
@@ -4735,13 +4871,13 @@ ch
 ªs_˛ass
 );
 
-368 if(
+374 if(
 ch
 .
 ªs_«me
 )
 
-369 
+375 
 	`XFªe
 (
 ch
@@ -4749,7 +4885,7 @@ ch
 ªs_«me
 );
 
-370 
+376 
 c
 ->
 ègs
@@ -4763,15 +4899,15 @@ m⁄
 £…ags
 ];
 
-371 
+377 
 	}
 }
 
-373 
+379 
 Boﬁ
 
 
-374 
+380 
 	$≠∂ysizehöts
 (
 Clõ¡
@@ -4791,13 +4927,13 @@ Boﬁ
 öãø˘
 ) {
 
-375 
+381 
 Boﬁ
  
 ba£ismö
 ;
 
-376 
+382 
 M⁄ô‹
  *
 m
@@ -4807,29 +4943,29 @@ c
 m⁄
 ;
 
-379 *
+385 *
 w
  = 
 	`MAX
 (1, *w);
 
-380 *
+386 *
 h
  = 
 	`MAX
 (1, *h);
 
-381 if(
+387 if(
 öãø˘
 ) {
 
-382 if(*
+388 if(*
 x
  > 
 sw
 )
 
-383 *
+389 *
 x
  = 
 sw
@@ -4839,13 +4975,13 @@ sw
 c
 );
 
-384 if(*
+390 if(*
 y
  > 
 sh
 )
 
-385 *
+391 *
 y
  = 
 sh
@@ -4854,37 +4990,37 @@ sh
 (
 c
 );
-
-386 if(*
-x
- + *
-w
- + 2 * 
-c
-->
-bw
- < 0)
-
-387 *
-x
- = 0;
-
-388 if(*
-y
- + *
-h
- + 2 * 
-c
-->
-bw
- < 0)
-
-389 *
-y
- = 0;
 
 392 if(*
 x
+ + *
+w
+ + 2 * 
+c
+->
+bw
+ < 0)
+
+393 *
+x
+ = 0;
+
+394 if(*
+y
+ + *
+h
+ + 2 * 
+c
+->
+bw
+ < 0)
+
+395 *
+y
+ = 0;
+
+398 if(*
+x
  >
 m
 ->
@@ -4893,7 +5029,7 @@ wx
 ww
 )
 
-393 *
+399 *
 x
  = 
 m
@@ -4907,7 +5043,7 @@ ww
 c
 );
 
-394 if(*
+400 if(*
 y
  >
 m
@@ -4917,7 +5053,7 @@ wy
 wh
 )
 
-395 *
+401 *
 y
  = 
 m
@@ -4931,7 +5067,7 @@ wh
 c
 );
 
-396 if(*
+402 if(*
 x
  + *
 w
@@ -4945,7 +5081,7 @@ m
 wx
 )
 
-397 *
+403 *
 x
  = 
 m
@@ -4953,7 +5089,7 @@ m
 wx
 ;
 
-398 if(*
+404 if(*
 y
  + *
 h
@@ -4967,7 +5103,7 @@ m
 wy
 )
 
-399 *
+405 *
 y
  = 
 m
@@ -4975,31 +5111,31 @@ m
 wy
 ;
 
-401 if(*
+407 if(*
 h
  < 
 bh
 )
 
-402 *
+408 *
 h
  = 
 bh
 ;
 
-403 if(*
+409 if(*
 w
  < 
 bh
 )
 
-404 *
+410 *
 w
  = 
 bh
 ;
 
-405 if(
+411 if(
 ªsizehöts
  || 
 c
@@ -5015,7 +5151,7 @@ m⁄
 ¨ønge
 ) {
 
-407 
+413 
 ba£ismö
  = 
 c
@@ -5029,11 +5165,11 @@ ba£h
 möh
 ;
 
-408 if(!
+414 if(!
 ba£ismö
 ) {
 
-409 *
+415 *
 w
  -
 c
@@ -5041,7 +5177,7 @@ c
 ba£w
 ;
 
-410 *
+416 *
 h
  -
 c
@@ -5049,7 +5185,7 @@ c
 ba£h
 ;
 
-413 if(
+419 if(
 c
 ->
 möa
@@ -5057,7 +5193,7 @@ möa
 maxa
  > 0) {
 
-414 if(
+420 if(
 c
 ->
 maxa
@@ -5067,7 +5203,7 @@ w
 h
 )
 
-415 *
+421 *
 w
  = *
 h
@@ -5077,7 +5213,7 @@ c
 maxa
  + 0.5;
 
-416 if(
+422 if(
 c
 ->
 möa
@@ -5087,7 +5223,7 @@ h
 w
 )
 
-417 *
+423 *
 h
  = *
 w
@@ -5097,11 +5233,11 @@ c
 möa
  + 0.5;
 
-419 if(
+425 if(
 ba£ismö
 ) {
 
-420 *
+426 *
 w
  -
 c
@@ -5109,7 +5245,7 @@ c
 ba£w
 ;
 
-421 *
+427 *
 h
  -
 c
@@ -5117,13 +5253,13 @@ c
 ba£h
 ;
 
-424 if(
+430 if(
 c
 ->
 öcw
 )
 
-425 *
+431 *
 w
  -*w % 
 c
@@ -5131,13 +5267,13 @@ c
 öcw
 ;
 
-426 if(
+432 if(
 c
 ->
 öch
 )
 
-427 *
+433 *
 h
  -*h % 
 c
@@ -5145,7 +5281,7 @@ c
 öch
 ;
 
-429 *
+435 *
 w
  = 
 	`MAX
@@ -5157,7 +5293,7 @@ ba£w
 möw
 );
 
-430 *
+436 *
 h
  = 
 	`MAX
@@ -5169,13 +5305,13 @@ ba£h
 möh
 );
 
-431 if(
+437 if(
 c
 ->
 maxw
 )
 
-432 *
+438 *
 w
  = 
 	`MIN
@@ -5185,13 +5321,13 @@ c
 maxw
 );
 
-433 if(
+439 if(
 c
 ->
 maxh
 )
 
-434 *
+440 *
 h
  = 
 	`MIN
@@ -5201,7 +5337,7 @@ c
 maxh
 );
 
-436  *
+442  *
 x
  !
 c
@@ -5213,11 +5349,11 @@ w
 h
  != c->h;
 
-437 
+443 
 	}
 }
 
-440 
+446 
 	$¨ønge
 (
 M⁄ô‹
@@ -5225,63 +5361,63 @@ M⁄ô‹
 m
 ) {
 
-441 if(
+447 if(
 m
-)
-
-442 
-	`showhide
-(
-m
-->
-°ack
-);
-
-443 
-m
- = 
-m⁄s
-; m; m = m->
-√xt
-)
-
-444 
-	`showhide
-(
-m
-->
-°ack
-);
-
-445 if(
-m
-)
-
-446 
-	`¨øngem⁄
-(
-m
-);
-
-447 
-m
- = 
-m⁄s
-; m; m = m->
-√xt
 )
 
 448 
+	`showhide
+(
+m
+->
+°ack
+);
+
+449 
+m
+ = 
+m⁄s
+; m; m = m->
+√xt
+)
+
+450 
+	`showhide
+(
+m
+->
+°ack
+);
+
+451 if(
+m
+)
+
+452 
 	`¨øngem⁄
 (
 m
 );
 
-449 
+453 
+m
+ = 
+m⁄s
+; m; m = m->
+√xt
+)
+
+454 
+	`¨øngem⁄
+(
+m
+);
+
+455 
 	}
 }
 
-452 
+458 
 	$¨øngem⁄
 (
 M⁄ô‹
@@ -5289,7 +5425,7 @@ M⁄ô‹
 m
 ) {
 
-453 
+459 
 	`°∫˝y
 (
 m
@@ -5303,7 +5439,7 @@ m
 symbﬁ
 ,  m->ltsymbol);
 
-454 if(
+460 if(
 m
 ->
 …
@@ -5313,7 +5449,7 @@ m
 ¨ønge
 )
 
-455 
+461 
 m
 ->
 …
@@ -5323,48 +5459,18 @@ m
 	`¨ønge
 (m);
 
-456 
+462 
 	`ª°ack
 (
 m
 );
-
-457 
-	}
-}
-
-460 
-	$©èch
-(
-Clõ¡
- *
-c
-) {
-
-461 
-c
-->
-√xt
- = c->
-m⁄
-->
-˛õ¡s
-;
-
-462 
-c
-->
-m⁄
-->
-˛õ¡s
- = c;
 
 463 
 	}
 }
 
 466 
-	$©èch°ack
+	$©èch
 (
 Clõ¡
  *
@@ -5374,11 +5480,11 @@ c
 467 
 c
 ->
-¢ext
+√xt
  = c->
 m⁄
 ->
-°ack
+˛õ¡s
 ;
 
 468 
@@ -5386,7 +5492,7 @@ c
 ->
 m⁄
 ->
-°ack
+˛õ¡s
  = c;
 
 469 
@@ -5394,6 +5500,36 @@ m⁄
 }
 
 472 
+	$©èch°ack
+(
+Clõ¡
+ *
+c
+) {
+
+473 
+c
+->
+¢ext
+ = c->
+m⁄
+->
+°ack
+;
+
+474 
+c
+->
+m⁄
+->
+°ack
+ = c;
+
+475 
+	}
+}
+
+478 
 	$buâ⁄¥ess
 (
 XEvít
@@ -5401,7 +5537,7 @@ XEvít
 e
 ) {
 
-473 
+479 
 i
 , 
 x
@@ -5409,25 +5545,25 @@ x
 ˛ick
 ;
 
-474 
+480 
 Arg
  
 ¨g
  = {0};
 
-475 
+481 
 Clõ¡
  *
 c
 ;
 
-476 
+482 
 M⁄ô‹
  *
 m
 ;
 
-477 
+483 
 XBuâ⁄Pªs£dEvít
  *
 ev
@@ -5437,13 +5573,13 @@ e
 xbuâ⁄
 ;
 
-479 
+485 
 ˛ick
  = 
 ClkRoŸWö
 ;
 
-481 if((
+487 if((
 m
  = 
 	`wötom⁄
@@ -5455,7 +5591,7 @@ wödow
 £lm⁄
 ) {
 
-482 
+488 
 	`unfocus
 (
 £lm⁄
@@ -5465,19 +5601,19 @@ wödow
 True
 );
 
-483 
+489 
 £lm⁄
  = 
 m
 ;
 
-484 
+490 
 	`focus
 (
 NULL
 );
 
-486 if(
+492 if(
 ev
 ->
 wödow
@@ -5487,13 +5623,13 @@ wödow
 b¨wö
 ) {
 
-487 
+493 
 i
  = 
 x
  = 0;
 
-489 
+495 
 x
  +
 	`TEXTW
@@ -5503,7 +5639,7 @@ x
 i
 ]);
 
-490 
+496 
 ev
 ->
 x
@@ -5515,7 +5651,7 @@ i
 ègs
 ));
 
-491 if(
+497 if(
 i
  < 
 	`LENGTH
@@ -5523,13 +5659,13 @@ i
 ègs
 )) {
 
-492 
+498 
 ˛ick
  = 
 ClkTagB¨
 ;
 
-493 
+499 
 ¨g
 .
 ui
@@ -5537,7 +5673,7 @@ ui
 i
 ;
 
-495 if(
+501 if(
 ev
 ->
 x
@@ -5545,13 +5681,13 @@ x
 blw
 )
 
-496 
+502 
 ˛ick
  = 
 ClkLtSymbﬁ
 ;
 
-497 if(
+503 if(
 ev
 ->
 x
@@ -5565,19 +5701,19 @@ ww
 °ext
 ))
 
-498 
+504 
 ˛ick
  = 
 ClkSètusText
 ;
 
-500 
+506 
 ˛ick
  = 
 ClkWöTôÀ
 ;
 
-502 if((
+508 if((
 c
  = 
 	`wöto˛õ¡
@@ -5587,19 +5723,19 @@ ev
 wödow
 ))) {
 
-503 
+509 
 	`focus
 (
 c
 );
 
-504 
+510 
 ˛ick
  = 
 ClkClõ¡Wö
 ;
 
-506 
+512 
 i
  = 0; i < 
 	`LENGTH
@@ -5607,7 +5743,7 @@ i
 buâ⁄s
 ); i++)
 
-507 if(
+513 if(
 ˛ick
  =
 buâ⁄s
@@ -5621,7 +5757,7 @@ buâ⁄
 ev
 ->button
 
-508 && 
+514 && 
 	`CLEANMASK
 (
 buâ⁄s
@@ -5635,7 +5771,7 @@ ev
 °©e
 ))
 
-509 
+515 
 buâ⁄s
 [
 i
@@ -5649,15 +5785,15 @@ ClkTagB¨
 ¨g
 .i == 0 ? &arg : &buttons[i].arg);
 
-510 
+516 
 	}
 }
 
-513 
+519 
 	$checkŸhîwm
 () {
 
-514 
+520 
 xîr‹xlib
  = 
 	`XSëEº‹H™dÀr
@@ -5665,7 +5801,7 @@ xîr‹xlib
 xîr‹°¨t
 );
 
-516 
+522 
 	`XSñe˘I≈ut
 (
 dpy
@@ -5675,7 +5811,7 @@ dpy
 Sub°ru˘uªRedúe˘Mask
 );
 
-517 
+523 
 	`XSync
 (
 dpy
@@ -5683,13 +5819,13 @@ dpy
 FÆ£
 );
 
-518 
+524 
 	`XSëEº‹H™dÀr
 (
 xîr‹
 );
 
-519 
+525 
 	`XSync
 (
 dpy
@@ -5697,15 +5833,15 @@ dpy
 FÆ£
 );
 
-520 
+526 
 	}
 }
 
-523 
+529 
 	$˛ónup
 () {
 
-524 
+530 
 Arg
  
 a
@@ -5713,7 +5849,7 @@ a
 ui
  = ~0};
 
-525 
+531 
 Layout
  
 foo
@@ -5721,19 +5857,19 @@ foo
 NULL
  };
 
-526 
+532 
 M⁄ô‹
  *
 m
 ;
 
-528 
+534 
 	`võw
 (&
 a
 );
 
-529 
+535 
 £lm⁄
 ->
 …
@@ -5743,7 +5879,7 @@ a
 foo
 ;
 
-530 
+536 
 m
  = 
 m⁄s
@@ -5751,13 +5887,13 @@ m⁄s
 √xt
 )
 
-531 
+537 
 m
 ->
 °ack
 )
 
-532 
+538 
 	`unm™age
 (
 m
@@ -5767,7 +5903,7 @@ m
 FÆ£
 );
 
-533 if(
+539 if(
 dc
 .
 f⁄t
@@ -5775,7 +5911,7 @@ f⁄t
 £t
 )
 
-534 
+540 
 	`XFªeF⁄tSë
 (
 dpy
@@ -5787,7 +5923,7 @@ f⁄t
 £t
 );
 
-536 
+542 
 	`XFªeF⁄t
 (
 dpy
@@ -5799,7 +5935,7 @@ f⁄t
 xf⁄t
 );
 
-537 
+543 
 	`XUngøbKey
 (
 dpy
@@ -5811,7 +5947,7 @@ AnyModifõr
 roŸ
 );
 
-538 
+544 
 	`XFªePixm≠
 (
 dpy
@@ -5821,7 +5957,7 @@ dc
 døwabÀ
 );
 
-539 
+545 
 	`XFªeGC
 (
 dpy
@@ -5831,7 +5967,7 @@ dc
 gc
 );
 
-540 
+546 
 	`XFªeCurs‹
 (
 dpy
@@ -5841,7 +5977,7 @@ curs‹
 CurN‹mÆ
 ]);
 
-541 
+547 
 	`XFªeCurs‹
 (
 dpy
@@ -5851,7 +5987,7 @@ curs‹
 CurResize
 ]);
 
-542 
+548 
 	`XFªeCurs‹
 (
 dpy
@@ -5861,17 +5997,17 @@ curs‹
 CurMove
 ]);
 
-543 
+549 
 m⁄s
 )
 
-544 
+550 
 	`˛ónupm⁄
 (
 m⁄s
 );
 
-545 
+551 
 	`XSync
 (
 dpy
@@ -5879,7 +6015,7 @@ dpy
 FÆ£
 );
 
-546 
+552 
 	`XSëI≈utFocus
 (
 dpy
@@ -5891,11 +6027,11 @@ RevîtToPoöãrRoŸ
 CuºítTime
 );
 
-547 
+553 
 	}
 }
 
-550 
+556 
 	$˛ónupm⁄
 (
 M⁄ô‹
@@ -5903,25 +6039,25 @@ M⁄ô‹
 m⁄
 ) {
 
-551 
+557 
 M⁄ô‹
  *
 m
 ;
 
-553 if(
+559 if(
 m⁄
  =
 m⁄s
 )
 
-554 
+560 
 m⁄s
  = m⁄s->
 √xt
 ;
 
-556 
+562 
 m
  = 
 m⁄s
@@ -5931,7 +6067,7 @@ m⁄s
 m⁄
 ; m = m->next);
 
-557 
+563 
 m
 ->
 √xt
@@ -5939,7 +6075,7 @@ m
 m⁄
 ->next;
 
-559 
+565 
 	`XUnm≠Wödow
 (
 dpy
@@ -5949,7 +6085,7 @@ m⁄
 b¨wö
 );
 
-560 
+566 
 	`XDe°royWödow
 (
 dpy
@@ -5959,17 +6095,17 @@ m⁄
 b¨wö
 );
 
-561 
+567 
 	`‰ì
 (
 m⁄
 );
 
-562 
+568 
 	}
 }
 
-565 
+571 
 	$˛órurgít
 (
 Clõ¡
@@ -5977,13 +6113,13 @@ Clõ¡
 c
 ) {
 
-566 
+572 
 XWMHöts
  *
 wmh
 ;
 
-568 
+574 
 c
 ->
 isurgít
@@ -5991,7 +6127,7 @@ isurgít
 FÆ£
 ;
 
-569 if(!(
+575 if(!(
 wmh
  = 
 	`XGëWMHöts
@@ -6003,7 +6139,7 @@ c
 wö
 )))
 
-571 
+577 
 wmh
 ->
 Êags
@@ -6011,7 +6147,7 @@ wmh
 XUrgícyHöt
 ;
 
-572 
+578 
 	`XSëWMHöts
 (
 dpy
@@ -6023,17 +6159,17 @@ wö
 wmh
 );
 
-573 
+579 
 	`XFªe
 (
 wmh
 );
 
-574 
+580 
 	}
 }
 
-577 
+583 
 	$˛õ¡mesßge
 (
 XEvít
@@ -6041,7 +6177,7 @@ XEvít
 e
 ) {
 
-578 
+584 
 XClõ¡MesßgeEvít
  *
 cme
@@ -6051,7 +6187,7 @@ e
 x˛õ¡
 ;
 
-579 
+585 
 Clõ¡
  *
 c
@@ -6063,11 +6199,11 @@ cme
 wödow
 );
 
-581 if(!
+587 if(!
 c
 )
 
-583 if(
+589 if(
 cme
 ->
 mesßge_ty≥
@@ -6077,7 +6213,7 @@ mesßge_ty≥
 NëWMSèã
 ]) {
 
-584 if(
+590 if(
 cme
 ->
 d©a
@@ -6089,7 +6225,7 @@ l
 NëWMFuŒs¸ìn
 ] || cme->data.l[2] ==Çetatom[NetWMFullscreen])
 
-585 
+591 
 	`£tfuŒs¸ìn
 (
 c
@@ -6101,7 +6237,7 @@ d©a
 l
 [0] == 1
 
-586 || (
+592 || (
 cme
 ->
 d©a
@@ -6113,7 +6249,7 @@ c
 isfuŒs¸ìn
 )));
 
-588 if(
+594 if(
 cme
 ->
 mesßge_ty≥
@@ -6123,13 +6259,13 @@ mesßge_ty≥
 NëA˘iveWödow
 ]) {
 
-589 if(!
+595 if(!
 	`ISVISIBLE
 (
 c
 )) {
 
-590 
+596 
 c
 ->
 m⁄
@@ -6137,7 +6273,7 @@ m⁄
 £…ags
  ^= 1;
 
-591 
+597 
 c
 ->
 m⁄
@@ -6149,17 +6285,17 @@ m⁄
 ègs
 ;
 
-593 
+599 
 	`p›
 (
 c
 );
 
-595 
+601 
 	}
 }
 
-598 
+604 
 	$c⁄figuª
 (
 Clõ¡
@@ -6167,13 +6303,13 @@ Clõ¡
 c
 ) {
 
-599 
+605 
 XC⁄figuªEvít
  
 ˚
 ;
 
-601 
+607 
 ˚
 .
 ty≥
@@ -6181,7 +6317,7 @@ ty≥
 C⁄figuªNŸify
 ;
 
-602 
+608 
 ˚
 .
 di•œy
@@ -6189,7 +6325,7 @@ di•œy
 dpy
 ;
 
-603 
+609 
 ˚
 .
 evít
@@ -6199,7 +6335,7 @@ c
 wö
 ;
 
-604 
+610 
 ˚
 .
 wödow
@@ -6209,7 +6345,7 @@ c
 wö
 ;
 
-605 
+611 
 ˚
 .
 x
@@ -6217,7 +6353,7 @@ x
 c
 ->x;
 
-606 
+612 
 ˚
 .
 y
@@ -6225,7 +6361,7 @@ y
 c
 ->y;
 
-607 
+613 
 ˚
 .
 width
@@ -6235,7 +6371,7 @@ c
 w
 ;
 
-608 
+614 
 ˚
 .
 height
@@ -6245,7 +6381,7 @@ c
 h
 ;
 
-609 
+615 
 ˚
 .
 b‹dî_width
@@ -6255,7 +6391,7 @@ c
 bw
 ;
 
-610 
+616 
 ˚
 .
 above
@@ -6263,7 +6399,7 @@ above
 N⁄e
 ;
 
-611 
+617 
 ˚
 .
 ovîride_ªdúe˘
@@ -6271,7 +6407,7 @@ ovîride_ªdúe˘
 FÆ£
 ;
 
-612 
+618 
 	`XSídEvít
 (
 dpy
@@ -6289,11 +6425,11 @@ XEvít
 ˚
 );
 
-613 
+619 
 	}
 }
 
-616 
+622 
 	$c⁄figuªnŸify
 (
 XEvít
@@ -6301,13 +6437,13 @@ XEvít
 e
 ) {
 
-617 
+623 
 M⁄ô‹
  *
 m
 ;
 
-618 
+624 
 XC⁄figuªEvít
  *
 ev
@@ -6317,13 +6453,13 @@ e
 xc⁄figuª
 ;
 
-619 
+625 
 Boﬁ
  
 dúty
 ;
 
-621 if(
+627 if(
 ev
 ->
 wödow
@@ -6331,7 +6467,7 @@ wödow
 roŸ
 ) {
 
-622 
+628 
 dúty
  = (
 sw
@@ -6341,7 +6477,7 @@ ev
 width
 );
 
-623 
+629 
 sw
  = 
 ev
@@ -6349,7 +6485,7 @@ ev
 width
 ;
 
-624 
+630 
 sh
  = 
 ev
@@ -6357,19 +6493,19 @@ ev
 height
 ;
 
-625 if(
+631 if(
 	`upd©egeom
 (Ë|| 
 dúty
 ) {
 
-626 if(
+632 if(
 dc
 .
 døwabÀ
  != 0)
 
-627 
+633 
 	`XFªePixm≠
 (
 dpy
@@ -6379,7 +6515,7 @@ dc
 døwabÀ
 );
 
-628 
+634 
 dc
 .
 døwabÀ
@@ -6399,11 +6535,11 @@ bh
 s¸ìn
 ));
 
-629 
+635 
 	`upd©eb¨s
 ();
 
-630 
+636 
 m
  = 
 m⁄s
@@ -6411,7 +6547,7 @@ m⁄s
 √xt
 )
 
-631 
+637 
 	`XMoveResizeWödow
 (
 dpy
@@ -6429,23 +6565,23 @@ ww
 bh
 );
 
-632 
+638 
 	`focus
 (
 NULL
 );
 
-633 
+639 
 	`¨ønge
 (
 NULL
 );
 
-636 
+642 
 	}
 }
 
-639 
+645 
 	$c⁄figuªªque°
 (
 XEvít
@@ -6453,19 +6589,19 @@ XEvít
 e
 ) {
 
-640 
+646 
 Clõ¡
  *
 c
 ;
 
-641 
+647 
 M⁄ô‹
  *
 m
 ;
 
-642 
+648 
 XC⁄figuªReque°Evít
  *
 ev
@@ -6475,13 +6611,13 @@ e
 xc⁄figuªªque°
 ;
 
-643 
+649 
 XWödowCh™ges
  
 wc
 ;
 
-645 if((
+651 if((
 c
  = 
 	`wöto˛õ¡
@@ -6491,7 +6627,7 @@ ev
 wödow
 ))) {
 
-646 if(
+652 if(
 ev
 ->
 vÆue_mask
@@ -6499,7 +6635,7 @@ vÆue_mask
 CWB‹dîWidth
 )
 
-647 
+653 
 c
 ->
 bw
@@ -6509,7 +6645,7 @@ ev
 b‹dî_width
 ;
 
-648 if(
+654 if(
 c
 ->
 isÊﬂtög
@@ -6523,7 +6659,7 @@ isÊﬂtög
 ¨ønge
 ) {
 
-649 
+655 
 m
  = 
 c
@@ -6531,7 +6667,7 @@ c
 m⁄
 ;
 
-650 if(
+656 if(
 ev
 ->
 vÆue_mask
@@ -6539,7 +6675,7 @@ vÆue_mask
 CWX
 ) {
 
-651 
+657 
 c
 ->
 ﬁdx
@@ -6547,7 +6683,7 @@ c
 x
 ;
 
-652 
+658 
 c
 ->
 x
@@ -6559,7 +6695,7 @@ mx
 ev
 ->x;
 
-654 if(
+660 if(
 ev
 ->
 vÆue_mask
@@ -6567,7 +6703,7 @@ vÆue_mask
 CWY
 ) {
 
-655 
+661 
 c
 ->
 ﬁdy
@@ -6575,7 +6711,7 @@ c
 y
 ;
 
-656 
+662 
 c
 ->
 y
@@ -6587,7 +6723,7 @@ my
 ev
 ->y;
 
-658 if(
+664 if(
 ev
 ->
 vÆue_mask
@@ -6595,7 +6731,7 @@ vÆue_mask
 CWWidth
 ) {
 
-659 
+665 
 c
 ->
 ﬁdw
@@ -6603,7 +6739,7 @@ c
 w
 ;
 
-660 
+666 
 c
 ->
 w
@@ -6613,7 +6749,7 @@ ev
 width
 ;
 
-662 if(
+668 if(
 ev
 ->
 vÆue_mask
@@ -6621,7 +6757,7 @@ vÆue_mask
 CWHeight
 ) {
 
-663 
+669 
 c
 ->
 ﬁdh
@@ -6629,7 +6765,7 @@ c
 h
 ;
 
-664 
+670 
 c
 ->
 h
@@ -6639,7 +6775,7 @@ ev
 height
 ;
 
-666 if((
+672 if((
 c
 ->
 x
@@ -6655,7 +6791,7 @@ mw
 isÊﬂtög
 )
 
-667 
+673 
 c
 ->
 x
@@ -6669,7 +6805,7 @@ mw
 	`WIDTH
 (c) / 2);
 
-668 if((
+674 if((
 c
 ->
 y
@@ -6685,7 +6821,7 @@ mh
 isÊﬂtög
 )
 
-669 
+675 
 c
 ->
 y
@@ -6699,7 +6835,7 @@ mh
 	`HEIGHT
 (c) / 2);
 
-670 if((
+676 if((
 ev
 ->
 vÆue_mask
@@ -6713,19 +6849,19 @@ CWWidth
 CWHeight
 )))
 
-671 
+677 
 	`c⁄figuª
 (
 c
 );
 
-672 if(
+678 if(
 	`ISVISIBLE
 (
 c
 ))
 
-673 
+679 
 	`XMoveResizeWödow
 (
 dpy
@@ -6743,13 +6879,13 @@ w
 h
 );
 
-676 
+682 
 	`c⁄figuª
 (
 c
 );
 
-679 
+685 
 wc
 .
 x
@@ -6757,7 +6893,7 @@ x
 ev
 ->x;
 
-680 
+686 
 wc
 .
 y
@@ -6765,7 +6901,7 @@ y
 ev
 ->y;
 
-681 
+687 
 wc
 .
 width
@@ -6773,7 +6909,7 @@ width
 ev
 ->width;
 
-682 
+688 
 wc
 .
 height
@@ -6781,7 +6917,7 @@ height
 ev
 ->height;
 
-683 
+689 
 wc
 .
 b‹dî_width
@@ -6789,7 +6925,7 @@ b‹dî_width
 ev
 ->border_width;
 
-684 
+690 
 wc
 .
 siblög
@@ -6799,7 +6935,7 @@ ev
 above
 ;
 
-685 
+691 
 wc
 .
 °ack_mode
@@ -6809,7 +6945,7 @@ ev
 dëaû
 ;
 
-686 
+692 
 	`XC⁄figuªWödow
 (
 dpy
@@ -6823,7 +6959,7 @@ vÆue_mask
 wc
 );
 
-688 
+694 
 	`XSync
 (
 dpy
@@ -6831,25 +6967,25 @@ dpy
 FÆ£
 );
 
-689 
+695 
 	}
 }
 
-691 
+697 
 M⁄ô‹
  *
 
-692 
+698 
 	$¸óãm⁄
 () {
 
-693 
+699 
 M⁄ô‹
  *
 m
 ;
 
-695 if(!(
+701 if(!(
 m
  = (
 M⁄ô‹
@@ -6857,43 +6993,49 @@ M⁄ô‹
 	`ˇŒoc
 (1, (Monitor))))
 
-696 
+702 
 	`dõ
 ("Áèl: couldÇŸ mÆloc(Ë%u byãs\n", (
 M⁄ô‹
 ));
 
-697 
+703 
 m
 ->
 èg£t
 [0] = m->tagset[1] = 1;
 
-698 
+704 
 m
 ->
 mÁ˘
  = mfact;
 
-699 
+705 
+m
+->
+smÁ˘
+ = smfact;
+
+706 
 m
 ->
 nma°î
  =Çmaster;
 
-700 
+707 
 m
 ->
 showb¨
  = showbar;
 
-701 
+708 
 m
 ->
 t›b¨
  =Åopbar;
 
-702 
+709 
 m
 ->
 …
@@ -6901,7 +7043,7 @@ m
 œyouts
 [0];
 
-703 
+710 
 m
 ->
 …
@@ -6911,7 +7053,7 @@ m
 	`LENGTH
 (layouts)];
 
-704 
+711 
 	`°∫˝y
 (
 m
@@ -6923,15 +7065,15 @@ m
 symbﬁ
 ,  m->ltsymbol);
 
-705  
+712  
 m
 ;
 
-706 
+713 
 	}
 }
 
-709 
+716 
 	$de°roynŸify
 (
 XEvít
@@ -6939,13 +7081,13 @@ XEvít
 e
 ) {
 
-710 
+717 
 Clõ¡
  *
 c
 ;
 
-711 
+718 
 XDe°royWödowEvít
  *
 ev
@@ -6955,7 +7097,7 @@ e
 xde°roywödow
 ;
 
-713 if((
+720 if((
 c
  = 
 	`wöto˛õ¡
@@ -6965,7 +7107,7 @@ ev
 wödow
 )))
 
-714 
+721 
 	`unm™age
 (
 c
@@ -6973,11 +7115,11 @@ c
 True
 );
 
-715 
+722 
 	}
 }
 
-718 
+725 
 	$dëach
 (
 Clõ¡
@@ -6985,13 +7127,13 @@ Clõ¡
 c
 ) {
 
-719 
+726 
 Clõ¡
  **
 tc
 ;
 
-721 
+728 
 tc
  = &
 c
@@ -7003,7 +7145,7 @@ m⁄
 √xt
 );
 
-722 *
+729 *
 tc
  = 
 c
@@ -7011,11 +7153,11 @@ c
 √xt
 ;
 
-723 
+730 
 	}
 }
 
-726 
+733 
 	$dëach°ack
 (
 Clõ¡
@@ -7023,7 +7165,7 @@ Clõ¡
 c
 ) {
 
-727 
+734 
 Clõ¡
  **
 tc
@@ -7031,7 +7173,7 @@ tc
 t
 ;
 
-729 
+736 
 tc
  = &
 c
@@ -7043,7 +7185,7 @@ m⁄
 ¢ext
 );
 
-730 *
+737 *
 tc
  = 
 c
@@ -7051,7 +7193,7 @@ c
 ¢ext
 ;
 
-732 if(
+739 if(
 c
  =c->
 m⁄
@@ -7059,7 +7201,7 @@ m⁄
 £l
 ) {
 
-733 
+740 
 t
  = 
 c
@@ -7073,7 +7215,7 @@ m⁄
 ¢ext
 );
 
-734 
+741 
 c
 ->
 m⁄
@@ -7083,23 +7225,23 @@ m⁄
 t
 ;
 
-736 
+743 
 	}
 }
 
-739 
+746 
 	$dõ
 (c⁄° *
 îr°r
 , ...) {
 
-740 
+747 
 va_li°
  
 ≠
 ;
 
-742 
+749 
 	`va_°¨t
 (
 ≠
@@ -7107,7 +7249,7 @@ va_li°
 îr°r
 );
 
-743 
+750 
 	`vÂrötf
 (
 °dîr
@@ -7117,33 +7259,33 @@ va_li°
 ≠
 );
 
-744 
+751 
 	`va_íd
 (
 ≠
 );
 
-745 
+752 
 	`exô
 (
 EXIT_FAILURE
 );
 
-746 
+753 
 	}
 }
 
-748 
+755 
 M⁄ô‹
  *
 
-749 
+756 
 	$dútom⁄
 (
 dú
 ) {
 
-750 
+757 
 M⁄ô‹
  *
 m
@@ -7151,11 +7293,11 @@ m
 NULL
 ;
 
-752 if(
+759 if(
 dú
  > 0) {
 
-753 if(!(
+760 if(!(
 m
  = 
 £lm⁄
@@ -7163,19 +7305,19 @@ m
 √xt
 ))
 
-754 
+761 
 m
  = 
 m⁄s
 ;
 
-756 if(
+763 if(
 £lm⁄
  =
 m⁄s
 )
 
-757 
+764 
 m
  = 
 m⁄s
@@ -7183,7 +7325,7 @@ m⁄s
 √xt
 ; m = m->next);
 
-759 
+766 
 m
  = 
 m⁄s
@@ -7193,15 +7335,15 @@ m⁄s
 £lm⁄
 ; m = m->next);
 
-760  
+767  
 m
 ;
 
-761 
+768 
 	}
 }
 
-764 
+771 
 	$døwb¨
 (
 M⁄ô‹
@@ -7209,11 +7351,11 @@ M⁄ô‹
 m
 ) {
 
-765 
+772 
 x
 ;
 
-766 
+773 
 i
 , 
 occ
@@ -7221,17 +7363,17 @@ occ
 urg
  = 0;
 
-767 *
+774 *
 cﬁ
 ;
 
-768 
+775 
 Clõ¡
  *
 c
 ;
 
-770 
+777 
 c
  = 
 m
@@ -7241,7 +7383,7 @@ m
 √xt
 ) {
 
-771 
+778 
 occ
  |
 c
@@ -7249,13 +7391,13 @@ c
 ègs
 ;
 
-772 if(
+779 if(
 c
 ->
 isurgít
 )
 
-773 
+780 
 urg
  |
 c
@@ -7263,13 +7405,13 @@ c
 ègs
 ;
 
-775 
+782 
 dc
 .
 x
  = 0;
 
-776 
+783 
 i
  = 0; i < 
 	`LENGTH
@@ -7277,7 +7419,7 @@ i
 ègs
 ); i++) {
 
-777 
+784 
 dc
 .
 w
@@ -7289,7 +7431,7 @@ w
 i
 ]);
 
-778 
+785 
 cﬁ
  = 
 m
@@ -7307,7 +7449,7 @@ dc
 n‹m
 ;
 
-779 
+786 
 	`døwãxt
 (
 ègs
@@ -7319,7 +7461,7 @@ cﬁ
 urg
  & 1 << i);
 
-780 
+787 
 	`døwsqu¨e
 (
 m
@@ -7333,7 +7475,7 @@ m
 i
 ,
 
-781 
+788 
 occ
  & 1 << 
 i
@@ -7343,7 +7485,7 @@ urg
 cﬁ
 );
 
-782 
+789 
 dc
 .
 x
@@ -7351,7 +7493,7 @@ x
 w
 ;
 
-784 
+791 
 dc
 .
 w
@@ -7365,7 +7507,7 @@ m
 …symbﬁ
 );
 
-785 
+792 
 	`døwãxt
 (
 m
@@ -7379,7 +7521,7 @@ n‹m
 FÆ£
 );
 
-786 
+793 
 dc
 .
 x
@@ -7387,19 +7529,19 @@ x
 w
 ;
 
-787 
+794 
 x
  = 
 dc
 .x;
 
-788 if(
+795 if(
 m
  =
 £lm⁄
 ) {
 
-789 
+796 
 dc
 .
 w
@@ -7409,7 +7551,7 @@ w
 °ext
 );
 
-790 
+797 
 dc
 .
 x
@@ -7421,19 +7563,19 @@ ww
 w
 ;
 
-791 if(
+798 if(
 dc
 .
 x
  < x) {
 
-792 
+799 
 dc
 .
 x
  = x;
 
-793 
+800 
 dc
 .
 w
@@ -7445,7 +7587,7 @@ ww
 x
 ;
 
-795 
+802 
 	`døwãxt
 (
 °ext
@@ -7457,7 +7599,7 @@ n‹m
 FÆ£
 );
 
-798 
+805 
 dc
 .
 x
@@ -7467,7 +7609,7 @@ m
 ww
 ;
 
-799 if((
+806 if((
 dc
 .
 w
@@ -7477,19 +7619,19 @@ x
 bh
 ) {
 
-800 
+807 
 dc
 .
 x
  = x;
 
-801 if(
+808 if(
 m
 ->
 £l
 ) {
 
-802 
+809 
 cﬁ
  = 
 m
@@ -7503,7 +7645,7 @@ dc
 n‹m
 ;
 
-803 
+810 
 	`døwãxt
 (
 m
@@ -7517,7 +7659,7 @@ cﬁ
 FÆ£
 );
 
-804 
+811 
 	`døwsqu¨e
 (
 m
@@ -7533,7 +7675,7 @@ FÆ£
 cﬁ
 );
 
-807 
+814 
 	`døwãxt
 (
 NULL
@@ -7545,7 +7687,7 @@ n‹m
 FÆ£
 );
 
-809 
+816 
 	`XC›yAªa
 (
 dpy
@@ -7565,7 +7707,7 @@ ww
 bh
 , 0, 0);
 
-810 
+817 
 	`XSync
 (
 dpy
@@ -7573,21 +7715,21 @@ dpy
 FÆ£
 );
 
-811 
+818 
 	}
 }
 
-814 
+821 
 	$døwb¨s
 () {
 
-815 
+822 
 M⁄ô‹
  *
 m
 ;
 
-817 
+824 
 m
  = 
 m⁄s
@@ -7595,17 +7737,17 @@ m⁄s
 √xt
 )
 
-818 
+825 
 	`døwb¨
 (
 m
 );
 
-819 
+826 
 	}
 }
 
-822 
+829 
 	$døwsqu¨e
 (
 Boﬁ
@@ -7621,11 +7763,11 @@ cﬁ
 CﬁLa°
 ]) {
 
-823 
+830 
 x
 ;
 
-825 
+832 
 	`XSëF‹eground
 (
 dpy
@@ -7643,7 +7785,7 @@ CﬁBG
 CﬁFG
 ]);
 
-826 
+833 
 x
  = (
 dc
@@ -7655,11 +7797,11 @@ as˚¡
 des˚¡
  + 2) / 4;
 
-827 if(
+834 if(
 fûÀd
 )
 
-828 
+835 
 	`XFûlRe˘™gÀ
 (
 dpy
@@ -7675,11 +7817,11 @@ x
 y
 +1, x+1, x+1);
 
-829 if(
+836 if(
 em±y
 )
 
-830 
+837 
 	`XDøwRe˘™gÀ
 (
 dpy
@@ -7695,11 +7837,11 @@ x
 y
 +1, x, x);
 
-831 
+838 
 	}
 }
 
-834 
+841 
 	$døwãxt
 (c⁄° *
 ãxt
@@ -7713,11 +7855,11 @@ Boﬁ
 övît
 ) {
 
-835 
+842 
 buf
 [256];
 
-836 
+843 
 i
 , 
 x
@@ -7731,7 +7873,7 @@ h
 ﬁí
 ;
 
-838 
+845 
 	`XSëF‹eground
 (
 dpy
@@ -7749,7 +7891,7 @@ CﬁFG
 CﬁBG
 ]);
 
-839 
+846 
 	`XFûlRe˘™gÀ
 (
 dpy
@@ -7769,11 +7911,11 @@ w
 h
 );
 
-840 if(!
+847 if(!
 ãxt
 )
 
-842 
+849 
 ﬁí
  = 
 	`°æí
@@ -7781,7 +7923,7 @@ h
 ãxt
 );
 
-843 
+850 
 h
  = 
 dc
@@ -7793,7 +7935,7 @@ as˚¡
 des˚¡
 ;
 
-844 
+851 
 y
  = 
 dc
@@ -7805,7 +7947,7 @@ f⁄t
 as˚¡
 ;
 
-845 
+852 
 x
  = 
 dc
@@ -7813,7 +7955,7 @@ dc
 h
  / 2);
 
-847 
+854 
 Àn
  = 
 	`MIN
@@ -7833,11 +7975,11 @@ w
 h
 ;Üen--);
 
-848 if(!
+855 if(!
 Àn
 )
 
-850 
+857 
 	`mem˝y
 (
 buf
@@ -7847,13 +7989,13 @@ buf
 Àn
 );
 
-851 if(
+858 if(
 Àn
  < 
 ﬁí
 )
 
-852 
+859 
 i
  = 
 Àn
@@ -7861,7 +8003,7 @@ i
 buf
 [--i] = '.');
 
-853 
+860 
 	`XSëF‹eground
 (
 dpy
@@ -7879,7 +8021,7 @@ CﬁBG
 CﬁFG
 ]);
 
-854 if(
+861 if(
 dc
 .
 f⁄t
@@ -7887,7 +8029,7 @@ f⁄t
 £t
 )
 
-855 
+862 
 	`XmbDøwSåög
 (
 dpy
@@ -7911,7 +8053,7 @@ buf
 Àn
 );
 
-857 
+864 
 	`XDøwSåög
 (
 dpy
@@ -7931,11 +8073,11 @@ buf
 Àn
 );
 
-858 
+865 
 	}
 }
 
-861 
+868 
 	$íã∫Ÿify
 (
 XEvít
@@ -7943,19 +8085,19 @@ XEvít
 e
 ) {
 
-862 
+869 
 Clõ¡
  *
 c
 ;
 
-863 
+870 
 M⁄ô‹
  *
 m
 ;
 
-864 
+871 
 XCrossögEvít
  *
 ev
@@ -7965,7 +8107,7 @@ e
 x¸ossög
 ;
 
-866 if((
+873 if((
 ev
 ->
 mode
@@ -7981,7 +8123,7 @@ wödow
 roŸ
 )
 
-868 
+875 
 c
  = 
 	`wöto˛õ¡
@@ -7991,7 +8133,7 @@ ev
 wödow
 );
 
-869 
+876 
 m
  = 
 c
@@ -8005,13 +8147,13 @@ ev
 wödow
 );
 
-870 if(
+877 if(
 m
  !
 £lm⁄
 ) {
 
-871 
+878 
 	`unfocus
 (
 £lm⁄
@@ -8021,13 +8163,13 @@ m
 True
 );
 
-872 
+879 
 £lm⁄
  = 
 m
 ;
 
-874 if(!
+881 if(!
 c
  || c =
 £lm⁄
@@ -8035,17 +8177,17 @@ c
 £l
 )
 
-876 
+883 
 	`focus
 (
 c
 );
 
-877 
+884 
 	}
 }
 
-880 
+887 
 	$expo£
 (
 XEvít
@@ -8053,13 +8195,13 @@ XEvít
 e
 ) {
 
-881 
+888 
 M⁄ô‹
  *
 m
 ;
 
-882 
+889 
 XExpo£Evít
  *
 ev
@@ -8069,7 +8211,7 @@ e
 xexpo£
 ;
 
-884 if(
+891 if(
 ev
 ->
 cou¡
@@ -8081,17 +8223,17 @@ m
 wödow
 )))
 
-885 
+892 
 	`døwb¨
 (
 m
 );
 
-886 
+893 
 	}
 }
 
-889 
+896 
 	$focus
 (
 Clõ¡
@@ -8099,13 +8241,13 @@ Clõ¡
 c
 ) {
 
-890 if(!
+897 if(!
 c
  || !
 	`ISVISIBLE
 (c))
 
-891 
+898 
 c
  = 
 £lm⁄
@@ -8117,7 +8259,7 @@ c
 ¢ext
 );
 
-893 if(
+900 if(
 £lm⁄
 ->
 £l
@@ -8125,7 +8267,7 @@ c
 c
 )
 
-894 
+901 
 	`unfocus
 (
 £lm⁄
@@ -8135,11 +8277,11 @@ c
 FÆ£
 );
 
-895 if(
+902 if(
 c
 ) {
 
-896 if(
+903 if(
 c
 ->
 m⁄
@@ -8147,7 +8289,7 @@ m⁄
 £lm⁄
 )
 
-897 
+904 
 £lm⁄
  = 
 c
@@ -8155,31 +8297,31 @@ c
 m⁄
 ;
 
-898 if(
+905 if(
 c
 ->
 isurgít
 )
 
-899 
+906 
 	`˛órurgít
 (
 c
 );
 
-900 
+907 
 	`dëach°ack
 (
 c
 );
 
-901 
+908 
 	`©èch°ack
 (
 c
 );
 
-902 
+909 
 	`gøbbuâ⁄s
 (
 c
@@ -8187,7 +8329,7 @@ c
 True
 );
 
-903 
+910 
 	`XSëWödowB‹dî
 (
 dpy
@@ -8203,13 +8345,13 @@ dc
 CﬁB‹dî
 ]);
 
-904 
+911 
 	`£tfocus
 (
 c
 );
 
-907 
+914 
 	`XSëI≈utFocus
 (
 dpy
@@ -8221,7 +8363,7 @@ RevîtToPoöãrRoŸ
 CuºítTime
 );
 
-908 
+915 
 £lm⁄
 ->
 £l
@@ -8229,15 +8371,15 @@ CuºítTime
 c
 ;
 
-909 
+916 
 	`døwb¨s
 ();
 
-910 
+917 
 	}
 }
 
-913 
+920 
 	$focusö
 (
 XEvít
@@ -8245,7 +8387,7 @@ XEvít
 e
 ) {
 
-914 
+921 
 XFocusCh™geEvít
  *
 ev
@@ -8255,7 +8397,7 @@ e
 xfocus
 ;
 
-916 if(
+923 if(
 £lm⁄
 ->
 £l
@@ -8267,7 +8409,7 @@ wödow
 wö
 )
 
-917 
+924 
 	`£tfocus
 (
 £lm⁄
@@ -8275,11 +8417,11 @@ wö
 £l
 );
 
-918 
+925 
 	}
 }
 
-921 
+928 
 	$focusm⁄
 (c⁄° 
 Arg
@@ -8287,19 +8429,19 @@ Arg
 ¨g
 ) {
 
-922 
+929 
 M⁄ô‹
  *
 m
 ;
 
-924 if(!
+931 if(!
 m⁄s
 ->
 √xt
 )
 
-926 if((
+933 if((
 m
  = 
 	`dútom⁄
@@ -8311,7 +8453,7 @@ i
 £lm⁄
 )
 
-928 
+935 
 	`unfocus
 (
 £lm⁄
@@ -8321,23 +8463,23 @@ i
 True
 );
 
-929 
+936 
 £lm⁄
  = 
 m
 ;
 
-930 
+937 
 	`focus
 (
 NULL
 );
 
-931 
+938 
 	}
 }
 
-934 
+941 
 	$focus°ack
 (c⁄° 
 Arg
@@ -8345,7 +8487,7 @@ Arg
 ¨g
 ) {
 
-935 
+942 
 Clõ¡
  *
 c
@@ -8355,19 +8497,19 @@ NULL
 i
 ;
 
-937 if(!
+944 if(!
 £lm⁄
 ->
 £l
 )
 
-939 if(
+946 if(
 ¨g
 ->
 i
  > 0) {
 
-940 
+947 
 c
  = 
 £lm⁄
@@ -8379,11 +8521,11 @@ c
 	`ISVISIBLE
 (c); c = c->next);
 
-941 if(!
+948 if(!
 c
 )
 
-942 
+949 
 c
  = 
 £lm⁄
@@ -8395,7 +8537,7 @@ c
 √xt
 );
 
-945 
+952 
 i
  = 
 £lm⁄
@@ -8407,65 +8549,333 @@ i
 √xt
 )
 
-946 if(
+953 if(
 	`ISVISIBLE
 (
 i
 ))
 
-947 
+954 
 c
  = 
 i
 ;
 
-948 if(!
+955 if(!
 c
 )
 
-949 ; 
+956 ; 
 i
 ; i = i->
 √xt
 )
 
-950 if(
+957 if(
 	`ISVISIBLE
 (
 i
 ))
 
-951 
+958 
 c
  = 
 i
 ;
 
-953 if(
+960 if(
 c
 ) {
 
-954 
+961 
 	`focus
 (
 c
 );
 
-955 
+962 
 	`ª°ack
 (
 £lm⁄
 );
 
-957 
+964 
 	}
 }
 
-959 
+967 
+	$move°ack
+(c⁄° 
+Arg
+ *
+¨g
+) {
+
+968 
+Clõ¡
+ *
+c
+ = 
+NULL
+, *
+p
+ = NULL, *
+pc
+ = NULL, *
+i
+;
+
+970 if(
+¨g
+->
+i
+ > 0) {
+
+972 
+c
+ = 
+£lm⁄
+->
+£l
+->
+√xt
+; c && (!
+	`ISVISIBLE
+(cË|| c->
+isÊﬂtög
+); c = c->next);
+
+973 if(!
+c
+)
+
+974 
+c
+ = 
+£lm⁄
+->
+˛õ¡s
+; c && (!
+	`ISVISIBLE
+(cË|| c->
+isÊﬂtög
+); c = c->
+√xt
+);
+
+979 
+i
+ = 
+£lm⁄
+->
+˛õ¡s
+; i !£lm⁄->
+£l
+; i = i->
+√xt
+)
+
+980 if(
+	`ISVISIBLE
+(
+i
+Ë&& !i->
+isÊﬂtög
+)
+
+981 
+c
+ = 
+i
+;
+
+982 if(!
+c
+)
+
+983 ; 
+i
+; i = i->
+√xt
+)
+
+984 if(
+	`ISVISIBLE
+(
+i
+Ë&& !i->
+isÊﬂtög
+)
+
+985 
+c
+ = 
+i
+;
+
+988 
+i
+ = 
+£lm⁄
+->
+˛õ¡s
+; i && (!
+p
+ || !
+pc
+); i = i->
+√xt
+) {
+
+989 if(
+i
+->
+√xt
+ =
+£lm⁄
+->
+£l
+)
+
+990 
+p
+ = 
+i
+;
+
+991 if(
+i
+->
+√xt
+ =
+c
+)
+
+992 
+pc
+ = 
+i
+;
+
+996 if(
+c
+ && c !
+£lm⁄
+->
+£l
+) {
+
+997 
+Clõ¡
+ *
+ãmp
+ = 
+£lm⁄
+->
+£l
+->
+√xt
+==
+c
+?selmon->sel:selmon->sel->next;
+
+998 
+£lm⁄
+->
+£l
+->
+√xt
+ = 
+c
+->next==selmon->sel?c:c->next;
+
+999 
+c
+->
+√xt
+ = 
+ãmp
+;
+
+1001 if(
+p
+ &&Ö !
+c
+)
+
+1002 
+p
+->
+√xt
+ = 
+c
+;
+
+1003 if(
+pc
+ &&Ö¯!
+£lm⁄
+->
+£l
+)
+
+1004 
+pc
+->
+√xt
+ = 
+£lm⁄
+->
+£l
+;
+
+1006 if(
+£lm⁄
+->
+£l
+ =£lm⁄->
+˛õ¡s
+)
+
+1007 
+£lm⁄
+->
+˛õ¡s
+ = 
+c
+;
+
+1008 if(
+c
+ =
+£lm⁄
+->
+˛õ¡s
+)
+
+1009 
+£lm⁄
+->
+˛õ¡s
+ = sñm⁄->
+£l
+;
+
+1011 
+	`¨ønge
+(
+£lm⁄
+);
+
+1013 
+	}
+}
+
+1015 
 Atom
 
 
-960 
+1016 
 	$gë©om¥›
 (
 Clõ¡
@@ -8477,21 +8887,21 @@ Atom
 ¥›
 ) {
 
-961 
+1017 
 di
 ;
 
-962 
+1018 
 dl
 ;
 
-963 *
+1019 *
 p
  = 
 NULL
 ;
 
-964 
+1020 
 Atom
  
 da
@@ -8501,7 +8911,7 @@ da
 N⁄e
 ;
 
-966 if(
+1022 if(
 	`XGëWödowPr›îty
 (
 dpy
@@ -8519,7 +8929,7 @@ FÆ£
 XA_ATOM
 ,
 
-967 &
+1023 &
 da
 , &
 di
@@ -8531,7 +8941,7 @@ p
 Suc˚ss
  &&Ö) {
 
-968 
+1024 
 ©om
  = *(
 Atom
@@ -8539,27 +8949,27 @@ Atom
 p
 ;
 
-969 
+1025 
 	`XFªe
 (
 p
 );
 
-971  
+1027  
 ©om
 ;
 
-972 
+1028 
 	}
 }
 
-975 
+1031 
 	$gëcﬁ‹
 (c⁄° *
 cﬁ°r
 ) {
 
-976 
+1032 
 Cﬁ‹m≠
  
 cm≠
@@ -8571,13 +8981,13 @@ dpy
 s¸ìn
 );
 
-977 
+1033 
 XCﬁ‹
  
 cﬁ‹
 ;
 
-979 if(!
+1035 if(!
 	`XAŒocNamedCﬁ‹
 (
 dpy
@@ -8589,27 +8999,27 @@ cﬁ°r
 cﬁ‹
 , &color))
 
-980 
+1036 
 	`dõ
 ("îr‹, c™nŸáŒoˇã cﬁ‹ '%s'\n", 
 cﬁ°r
 );
 
-981  
+1037  
 cﬁ‹
 .
 pixñ
 ;
 
-982 
+1038 
 	}
 }
 
-984 
+1040 
 Boﬁ
 
 
-985 
+1041 
 	$gëroŸ±r
 (*
 x
@@ -8617,21 +9027,21 @@ x
 y
 ) {
 
-986 
+1042 
 di
 ;
 
-987 
+1043 
 dui
 ;
 
-988 
+1044 
 Wödow
  
 dummy
 ;
 
-990  
+1046  
 	`XQuîyPoöãr
 (
 dpy
@@ -8649,11 +9059,11 @@ di
 dui
 );
 
-991 
+1047 
 	}
 }
 
-994 
+1050 
 	$gë°©e
 (
 Wödow
@@ -8661,33 +9071,33 @@ Wödow
 w
 ) {
 
-995 
+1051 
 f‹m©
 ;
 
-996 
+1052 
 ªsu…
  = -1;
 
-997 *
+1053 *
 p
  = 
 NULL
 ;
 
-998 
+1054 
 n
 , 
 exåa
 ;
 
-999 
+1055 
 Atom
  
 ªÆ
 ;
 
-1001 if(
+1057 if(
 	`XGëWödowPr›îty
 (
 dpy
@@ -8701,7 +9111,7 @@ WMSèã
 FÆ£
 , wmatom[WMState],
 
-1002 &
+1058 &
 ªÆ
 , &
 f‹m©
@@ -8715,35 +9125,35 @@ p
 Suc˚ss
 )
 
-1004 if(
+1060 if(
 n
  != 0)
 
-1005 
+1061 
 ªsu…
  = *
 p
 ;
 
-1006 
+1062 
 	`XFªe
 (
 p
 );
 
-1007  
+1063  
 ªsu…
 ;
 
-1008 
+1064 
 	}
 }
 
-1010 
+1066 
 Boﬁ
 
 
-1011 
+1067 
 	$gëãxçr›
 (
 Wödow
@@ -8759,37 +9169,37 @@ Atom
 size
 ) {
 
-1012 **
+1068 **
 li°
  = 
 NULL
 ;
 
-1013 
+1069 
 n
 ;
 
-1014 
+1070 
 XTextPr›îty
  
 «me
 ;
 
-1016 if(!
+1072 if(!
 ãxt
  || 
 size
  == 0)
 
-1017  
+1073  
 FÆ£
 ;
 
-1018 
+1074 
 ãxt
 [0] = '\0';
 
-1019 
+1075 
 	`XGëTextPr›îty
 (
 dpy
@@ -8801,17 +9211,17 @@ w
 ©om
 );
 
-1020 if(!
+1076 if(!
 «me
 .
 nôems
 )
 
-1021  
+1077  
 FÆ£
 ;
 
-1022 if(
+1078 if(
 «me
 .
 ícodög
@@ -8819,7 +9229,7 @@ FÆ£
 XA_STRING
 )
 
-1023 
+1079 
 	`°∫˝y
 (
 ãxt
@@ -8831,7 +9241,7 @@ vÆue
 size
  - 1);
 
-1025 if(
+1081 if(
 	`XmbTextPr›îtyToTextLi°
 (
 dpy
@@ -8845,7 +9255,7 @@ n
 Suc˚ss
  &&Ç > 0 && *list) {
 
-1026 
+1082 
 	`°∫˝y
 (
 ãxt
@@ -8855,19 +9265,19 @@ li°
 size
  - 1);
 
-1027 
+1083 
 	`XFªeSåögLi°
 (
 li°
 );
 
-1030 
+1086 
 ãxt
 [
 size
  - 1] = '\0';
 
-1031 
+1087 
 	`XFªe
 (
 «me
@@ -8875,15 +9285,15 @@ size
 vÆue
 );
 
-1032  
+1088  
 True
 ;
 
-1033 
+1089 
 	}
 }
 
-1036 
+1092 
 	$gøbbuâ⁄s
 (
 Clõ¡
@@ -8895,17 +9305,17 @@ Boﬁ
 focu£d
 ) {
 
-1037 
+1093 
 	`upd©íumlockmask
 ();
 
-1039 
+1095 
 i
 , 
 j
 ;
 
-1040 
+1096 
 modifõrs
 [] = { 0, 
 LockMask
@@ -8913,7 +9323,7 @@ LockMask
 numlockmask
 ,Çumlockmask|LockMask };
 
-1041 
+1097 
 	`XUngøbBuâ⁄
 (
 dpy
@@ -8927,11 +9337,11 @@ c
 wö
 );
 
-1042 if(
+1098 if(
 focu£d
 ) {
 
-1043 
+1099 
 i
  = 0; i < 
 	`LENGTH
@@ -8939,7 +9349,7 @@ i
 buâ⁄s
 ); i++)
 
-1044 if(
+1100 if(
 buâ⁄s
 [
 i
@@ -8949,7 +9359,7 @@ i
 ClkClõ¡Wö
 )
 
-1045 
+1101 
 j
  = 0; j < 
 	`LENGTH
@@ -8957,7 +9367,7 @@ j
 modifõrs
 ); j++)
 
-1046 
+1102 
 	`XGøbBuâ⁄
 (
 dpy
@@ -8969,7 +9379,7 @@ i
 buâ⁄
 ,
 
-1047 
+1103 
 buâ⁄s
 [
 i
@@ -8981,7 +9391,7 @@ modifõrs
 j
 ],
 
-1048 
+1104 
 c
 ->
 wö
@@ -8991,7 +9401,7 @@ FÆ£
 BUTTONMASK
 ,
 
-1049 
+1105 
 GøbModeAsync
 , 
 GøbModeSync
@@ -8999,7 +9409,7 @@ GøbModeSync
 N⁄e
 , None);
 
-1052 
+1108 
 	`XGøbBuâ⁄
 (
 dpy
@@ -9015,7 +9425,7 @@ wö
 FÆ£
 ,
 
-1053 
+1109 
 BUTTONMASK
 , 
 GøbModeAsync
@@ -9025,25 +9435,25 @@ GøbModeSync
 N⁄e
 , None);
 
-1055 
+1111 
 	}
 }
 
-1058 
+1114 
 	$gøbkeys
 () {
 
-1059 
+1115 
 	`upd©íumlockmask
 ();
 
-1061 
+1117 
 i
 , 
 j
 ;
 
-1062 
+1118 
 modifõrs
 [] = { 0, 
 LockMask
@@ -9051,13 +9461,13 @@ LockMask
 numlockmask
 ,Çumlockmask|LockMask };
 
-1063 
+1119 
 KeyCode
  
 code
 ;
 
-1065 
+1121 
 	`XUngøbKey
 (
 dpy
@@ -9069,7 +9479,7 @@ AnyModifõr
 roŸ
 );
 
-1066 
+1122 
 i
  = 0; i < 
 	`LENGTH
@@ -9077,7 +9487,7 @@ i
 keys
 ); i++)
 
-1067 if((
+1123 if((
 code
  = 
 	`XKeysymToKeycode
@@ -9091,7 +9501,7 @@ i
 keysym
 )))
 
-1068 
+1124 
 j
  = 0; j < 
 	`LENGTH
@@ -9099,7 +9509,7 @@ j
 modifõrs
 ); j++)
 
-1069 
+1125 
 	`XGøbKey
 (
 dpy
@@ -9119,17 +9529,17 @@ j
 roŸ
 ,
 
-1070 
+1126 
 True
 , 
 GøbModeAsync
 , GrabModeAsync);
 
-1072 
+1128 
 	}
 }
 
-1075 
+1131 
 	$ö˙ma°î
 (c⁄° 
 Arg
@@ -9137,7 +9547,7 @@ Arg
 ¨g
 ) {
 
-1076 
+1132 
 £lm⁄
 ->
 nma°î
@@ -9149,33 +9559,33 @@ nma°î
 i
 , 0);
 
-1077 
+1133 
 	`¨ønge
 (
 £lm⁄
 );
 
-1078 
+1134 
 	}
 }
 
-1081 
+1137 
 	$öôf⁄t
 (c⁄° *
 f⁄t°r
 ) {
 
-1082 *
+1138 *
 def
 , **
 missög
 ;
 
-1083 
+1139 
 n
 ;
 
-1085 
+1141 
 dc
 .
 f⁄t
@@ -9195,15 +9605,15 @@ n
 def
 );
 
-1086 if(
+1142 if(
 missög
 ) {
 
-1087 
+1143 
 n
 --)
 
-1088 
+1144 
 	`Ârötf
 (
 °dîr
@@ -9213,13 +9623,13 @@ missög
 n
 ]);
 
-1089 
+1145 
 	`XFªeSåögLi°
 (
 missög
 );
 
-1091 if(
+1147 if(
 dc
 .
 f⁄t
@@ -9227,17 +9637,17 @@ f⁄t
 £t
 ) {
 
-1092 
+1148 
 XF⁄tSåu˘
  **
 xf⁄ts
 ;
 
-1093 **
+1149 **
 f⁄t_«mes
 ;
 
-1095 
+1151 
 dc
 .
 f⁄t
@@ -9247,7 +9657,7 @@ as˚¡
 des˚¡
  = 0;
 
-1096 
+1152 
 	`XExã¡sOfF⁄tSë
 (
 dc
@@ -9257,7 +9667,7 @@ f⁄t
 £t
 );
 
-1097 
+1153 
 n
  = 
 	`XF⁄tsOfF⁄tSë
@@ -9273,11 +9683,11 @@ xf⁄ts
 f⁄t_«mes
 );
 
-1098 
+1154 
 n
 --) {
 
-1099 
+1155 
 dc
 .
 f⁄t
@@ -9289,7 +9699,7 @@ as˚¡
 xf⁄ts
 )->ascent);
 
-1100 
+1156 
 dc
 .
 f⁄t
@@ -9301,11 +9711,11 @@ des˚¡
 xf⁄ts
 )->descent);
 
-1101 
+1157 
 xf⁄ts
 ++;
 
-1105 if(!(
+1161 if(!(
 dc
 .
 f⁄t
@@ -9319,7 +9729,7 @@ dpy
 f⁄t°r
 ))
 
-1106 && !(
+1162 && !(
 dc
 .
 f⁄t
@@ -9331,13 +9741,13 @@ xf⁄t
 dpy
 , "fixed")))
 
-1107 
+1163 
 	`dõ
 ("îr‹, c™nŸÜﬂd f⁄t: '%s'\n", 
 f⁄t°r
 );
 
-1108 
+1164 
 dc
 .
 f⁄t
@@ -9347,7 +9757,7 @@ as˚¡
 xf⁄t
 ->ascent;
 
-1109 
+1165 
 dc
 .
 f⁄t
@@ -9357,7 +9767,7 @@ des˚¡
 xf⁄t
 ->descent;
 
-1111 
+1167 
 dc
 .
 f⁄t
@@ -9369,19 +9779,19 @@ as˚¡
 des˚¡
 ;
 
-1112 
+1168 
 	}
 }
 
-1114 #ifde‡
+1170 #ifde‡
 XINERAMA
 
 
-1115 
+1171 
 Boﬁ
 
 
-1116 
+1172 
 	$isuniquegeom
 (
 XöîamaS¸ìnInfo
@@ -9395,11 +9805,11 @@ n
 öfo
 ) {
 
-1117 
+1173 
 n
 --)
 
-1118 if(
+1174 if(
 unique
 [
 n
@@ -9411,7 +9821,7 @@ x_‹g
 y_‹g
  == info->y_org
 
-1119 && 
+1175 && 
 unique
 [
 n
@@ -9423,19 +9833,19 @@ width
 height
  == info->height)
 
-1120  
+1176  
 FÆ£
 ;
 
-1121  
+1177  
 True
 ;
 
-1122 
+1178 
 	}
 }
 
-1126 
+1182 
 	$key¥ess
 (
 XEvít
@@ -9443,23 +9853,23 @@ XEvít
 e
 ) {
 
-1127 
+1183 
 i
 ;
 
-1128 
+1184 
 KeySym
  
 keysym
 ;
 
-1129 
+1185 
 XKeyEvít
  *
 ev
 ;
 
-1131 
+1187 
 ev
  = &
 e
@@ -9467,7 +9877,7 @@ e
 xkey
 ;
 
-1132 
+1188 
 keysym
  = 
 	`XKeycodeToKeysym
@@ -9481,7 +9891,7 @@ ev
 keycode
 , 0);
 
-1133 
+1189 
 i
  = 0; i < 
 	`LENGTH
@@ -9489,7 +9899,7 @@ i
 keys
 ); i++)
 
-1134 if(
+1190 if(
 keysym
  =
 keys
@@ -9497,7 +9907,7 @@ keys
 i
 ].keysym
 
-1135 && 
+1191 && 
 	`CLEANMASK
 (
 keys
@@ -9511,7 +9921,7 @@ ev
 °©e
 )
 
-1136 && 
+1192 && 
 keys
 [
 i
@@ -9519,7 +9929,7 @@ i
 func
 )
 
-1137 
+1193 
 keys
 [
 i
@@ -9529,11 +9939,11 @@ i
 ¨g
 ));
 
-1138 
+1194 
 	}
 }
 
-1141 
+1197 
 	$kûl˛õ¡
 (c⁄° 
 Arg
@@ -9541,13 +9951,13 @@ Arg
 ¨g
 ) {
 
-1142 if(!
+1198 if(!
 £lm⁄
 ->
 £l
 )
 
-1144 if(!
+1200 if(!
 	`£ndevít
 (
 £lm⁄
@@ -9559,19 +9969,19 @@ wm©om
 WMDñëe
 ])) {
 
-1145 
+1201 
 	`XGøbSîvî
 (
 dpy
 );
 
-1146 
+1202 
 	`XSëEº‹H™dÀr
 (
 xîr‹dummy
 );
 
-1147 
+1203 
 	`XSëClo£DownMode
 (
 dpy
@@ -9579,7 +9989,7 @@ dpy
 De°royAŒ
 );
 
-1148 
+1204 
 	`XKûlClõ¡
 (
 dpy
@@ -9591,7 +10001,7 @@ dpy
 wö
 );
 
-1149 
+1205 
 	`XSync
 (
 dpy
@@ -9599,23 +10009,23 @@ dpy
 FÆ£
 );
 
-1150 
+1206 
 	`XSëEº‹H™dÀr
 (
 xîr‹
 );
 
-1151 
+1207 
 	`XUngøbSîvî
 (
 dpy
 );
 
-1153 
+1209 
 	}
 }
 
-1156 
+1212 
 	$m™age
 (
 Wödow
@@ -9627,7 +10037,7 @@ XWödowAâribuãs
 wa
 ) {
 
-1157 
+1213 
 Clõ¡
  *
 c
@@ -9637,7 +10047,7 @@ t
 NULL
 ;
 
-1158 
+1214 
 Wödow
  
 å™s
@@ -9645,13 +10055,13 @@ Wödow
 N⁄e
 ;
 
-1159 
+1215 
 XWödowCh™ges
  
 wc
 ;
 
-1161 if(!(
+1217 if(!(
 c
  = 
 	`ˇŒoc
@@ -9659,13 +10069,13 @@ c
 Clõ¡
 ))))
 
-1162 
+1218 
 	`dõ
 ("Áèl: couldÇŸ mÆloc(Ë%u byãs\n", (
 Clõ¡
 ));
 
-1163 
+1219 
 c
 ->
 wö
@@ -9673,13 +10083,13 @@ wö
 w
 ;
 
-1164 
+1220 
 	`upd©ëôÀ
 (
 c
 );
 
-1165 if(
+1221 if(
 	`XGëTønsõ¡F‹Höt
 (
 dpy
@@ -9693,7 +10103,7 @@ t
 	`wöto˛õ¡
 (trans))) {
 
-1166 
+1222 
 c
 ->
 m⁄
@@ -9701,7 +10111,7 @@ m⁄
 t
 ->mon;
 
-1167 
+1223 
 c
 ->
 ègs
@@ -9709,7 +10119,7 @@ c
 t
 ->tags;
 
-1170 
+1226 
 c
 ->
 m⁄
@@ -9717,13 +10127,13 @@ m⁄
 £lm⁄
 ;
 
-1171 
+1227 
 	`≠∂yruÀs
 (
 c
 );
 
-1174 
+1230 
 c
 ->
 x
@@ -9733,7 +10143,7 @@ x
 wa
 ->x;
 
-1175 
+1231 
 c
 ->
 y
@@ -9743,7 +10153,7 @@ y
 wa
 ->y;
 
-1176 
+1232 
 c
 ->
 w
@@ -9755,7 +10165,7 @@ wa
 width
 ;
 
-1177 
+1233 
 c
 ->
 h
@@ -9767,7 +10177,7 @@ wa
 height
 ;
 
-1178 
+1234 
 c
 ->
 ﬁdbw
@@ -9777,7 +10187,7 @@ wa
 b‹dî_width
 ;
 
-1180 if(
+1236 if(
 c
 ->
 x
@@ -9791,7 +10201,7 @@ mx
 mw
 )
 
-1181 
+1237 
 c
 ->
 x
@@ -9805,7 +10215,7 @@ mw
 	`WIDTH
 (c);
 
-1182 if(
+1238 if(
 c
 ->
 y
@@ -9819,7 +10229,7 @@ my
 mh
 )
 
-1183 
+1239 
 c
 ->
 y
@@ -9833,7 +10243,7 @@ mh
 	`HEIGHT
 (c);
 
-1184 
+1240 
 c
 ->
 x
@@ -9845,7 +10255,7 @@ m⁄
 mx
 );
 
-1186 
+1242 
 c
 ->
 y
@@ -9865,7 +10275,7 @@ w
 wx
 )
 
-1187 && (
+1243 && (
 c
 ->
 x
@@ -9883,7 +10293,7 @@ bh
 my
 );
 
-1188 
+1244 
 c
 ->
 bw
@@ -9891,7 +10301,7 @@ bw
 b‹dîpx
 ;
 
-1190 
+1246 
 wc
 .
 b‹dî_width
@@ -9901,7 +10311,7 @@ c
 bw
 ;
 
-1191 
+1247 
 	`XC⁄figuªWödow
 (
 dpy
@@ -9913,7 +10323,7 @@ CWB‹dîWidth
 wc
 );
 
-1192 
+1248 
 	`XSëWödowB‹dî
 (
 dpy
@@ -9927,31 +10337,31 @@ n‹m
 CﬁB‹dî
 ]);
 
-1193 
+1249 
 	`c⁄figuª
 (
 c
 );
 
-1194 
+1250 
 	`upd©ewödowty≥
 (
 c
 );
 
-1195 
+1251 
 	`upd©esizehöts
 (
 c
 );
 
-1196 
+1252 
 	`upd©ewmhöts
 (
 c
 );
 
-1197 
+1253 
 	`XSñe˘I≈ut
 (
 dpy
@@ -9967,7 +10377,7 @@ Pr›îtyCh™geMask
 Såu˘uªNŸifyMask
 );
 
-1198 
+1254 
 	`gøbbuâ⁄s
 (
 c
@@ -9975,13 +10385,13 @@ c
 FÆ£
 );
 
-1199 if(!
+1255 if(!
 c
 ->
 isÊﬂtög
 )
 
-1200 
+1256 
 c
 ->
 isÊﬂtög
@@ -9995,13 +10405,13 @@ N⁄e
 isfixed
 ;
 
-1201 if(
+1257 if(
 c
 ->
 isÊﬂtög
 )
 
-1202 
+1258 
 	`XRai£Wödow
 (
 dpy
@@ -10011,19 +10421,19 @@ c
 wö
 );
 
-1203 
+1259 
 	`©èch
 (
 c
 );
 
-1204 
+1260 
 	`©èch°ack
 (
 c
 );
 
-1205 
+1261 
 	`XMoveResizeWödow
 (
 dpy
@@ -10043,7 +10453,7 @@ w
 h
 );
 
-1206 
+1262 
 	`£t˛õ¡°©e
 (
 c
@@ -10051,7 +10461,7 @@ c
 N‹mÆSèã
 );
 
-1207 i‡(
+1263 i‡(
 c
 ->
 m⁄
@@ -10059,7 +10469,7 @@ m⁄
 £lm⁄
 )
 
-1208 
+1264 
 	`unfocus
 (
 £lm⁄
@@ -10069,7 +10479,7 @@ m⁄
 FÆ£
 );
 
-1209 
+1265 
 c
 ->
 m⁄
@@ -10077,7 +10487,7 @@ m⁄
 £l
  = c;
 
-1210 
+1266 
 	`¨ønge
 (
 c
@@ -10085,7 +10495,7 @@ c
 m⁄
 );
 
-1211 
+1267 
 	`XM≠Wödow
 (
 dpy
@@ -10095,17 +10505,17 @@ c
 wö
 );
 
-1212 
+1268 
 	`focus
 (
 NULL
 );
 
-1213 
+1269 
 	}
 }
 
-1216 
+1272 
 	$m≠pögnŸify
 (
 XEvít
@@ -10113,7 +10523,7 @@ XEvít
 e
 ) {
 
-1217 
+1273 
 XM≠pögEvít
  *
 ev
@@ -10123,13 +10533,13 @@ e
 xm≠pög
 ;
 
-1219 
+1275 
 	`XRe‰eshKeybﬂrdM≠pög
 (
 ev
 );
 
-1220 if(
+1276 if(
 ev
 ->
 ªque°
@@ -10137,15 +10547,15 @@ ev
 M≠pögKeybﬂrd
 )
 
-1221 
+1277 
 	`gøbkeys
 ();
 
-1222 
+1278 
 	}
 }
 
-1225 
+1281 
 	$m≠ªque°
 (
 XEvít
@@ -10153,13 +10563,13 @@ XEvít
 e
 ) {
 
-1226 
+1282 
 XWödowAâribuãs
  
 wa
 ;
 
-1227 
+1283 
 XM≠Reque°Evít
  *
 ev
@@ -10169,7 +10579,7 @@ e
 xm≠ªque°
 ;
 
-1229 if(!
+1285 if(!
 	`XGëWödowAâribuãs
 (
 dpy
@@ -10181,13 +10591,13 @@ wödow
 wa
 ))
 
-1231 if(
+1287 if(
 wa
 .
 ovîride_ªdúe˘
 )
 
-1233 if(!
+1289 if(!
 	`wöto˛õ¡
 (
 ev
@@ -10195,7 +10605,7 @@ ev
 wödow
 ))
 
-1234 
+1290 
 	`m™age
 (
 ev
@@ -10205,11 +10615,11 @@ wödow
 wa
 );
 
-1235 
+1291 
 	}
 }
 
-1238 
+1294 
 	$m⁄o˛e
 (
 M⁄ô‹
@@ -10217,17 +10627,17 @@ M⁄ô‹
 m
 ) {
 
-1239 
+1295 
 n
  = 0;
 
-1240 
+1296 
 Clõ¡
  *
 c
 ;
 
-1242 
+1298 
 c
  = 
 m
@@ -10237,21 +10647,21 @@ m
 √xt
 )
 
-1243 if(
+1299 if(
 	`ISVISIBLE
 (
 c
 ))
 
-1244 
+1300 
 n
 ++;
 
-1245 if(
+1301 if(
 n
  > 0)
 
-1246 
+1302 
 	`¢¥ötf
 (
 m
@@ -10261,7 +10671,7 @@ m
 n
 );
 
-1247 
+1303 
 c
  = 
 	`√xâûed
@@ -10273,7 +10683,7 @@ m
 √xt
 ))
 
-1248 
+1304 
 	`ªsize
 (
 c
@@ -10293,11 +10703,11 @@ wh
 FÆ£
 );
 
-1249 
+1305 
 	}
 }
 
-1252 
+1308 
 	$mŸi⁄nŸify
 (
 XEvít
@@ -10305,7 +10715,7 @@ XEvít
 e
 ) {
 
-1253 
+1309 
 M⁄ô‹
  *
 m⁄
@@ -10313,13 +10723,13 @@ m⁄
 NULL
 ;
 
-1254 
+1310 
 M⁄ô‹
  *
 m
 ;
 
-1255 
+1311 
 XMŸi⁄Evít
  *
 ev
@@ -10329,7 +10739,7 @@ e
 xmŸi⁄
 ;
 
-1257 if(
+1313 if(
 ev
 ->
 wödow
@@ -10337,7 +10747,7 @@ wödow
 roŸ
 )
 
-1259 if((
+1315 if((
 m
  = 
 	`ª˘tom⁄
@@ -10351,29 +10761,29 @@ y_roŸ
 m⁄
  && mon) {
 
-1260 
+1316 
 £lm⁄
  = 
 m
 ;
 
-1261 
+1317 
 	`focus
 (
 NULL
 );
 
-1263 
+1319 
 m⁄
  = 
 m
 ;
 
-1264 
+1320 
 	}
 }
 
-1267 
+1323 
 	$movemou£
 (c⁄° 
 Arg
@@ -10381,7 +10791,7 @@ Arg
 ¨g
 ) {
 
-1268 
+1324 
 x
 , 
 y
@@ -10395,25 +10805,25 @@ nx
 ny
 ;
 
-1269 
+1325 
 Clõ¡
  *
 c
 ;
 
-1270 
+1326 
 M⁄ô‹
  *
 m
 ;
 
-1271 
+1327 
 XEvít
  
 ev
 ;
 
-1273 if(!(
+1329 if(!(
 c
  = 
 £lm⁄
@@ -10421,13 +10831,13 @@ c
 £l
 ))
 
-1275 
+1331 
 	`ª°ack
 (
 £lm⁄
 );
 
-1276 
+1332 
 ocx
  = 
 c
@@ -10435,7 +10845,7 @@ c
 x
 ;
 
-1277 
+1333 
 ocy
  = 
 c
@@ -10443,7 +10853,7 @@ c
 y
 ;
 
-1278 if(
+1334 if(
 	`XGøbPoöãr
 (
 dpy
@@ -10457,7 +10867,7 @@ MOUSEMASK
 GøbModeAsync
 , GrabModeAsync,
 
-1279 
+1335 
 N⁄e
 , 
 curs‹
@@ -10469,7 +10879,7 @@ CuºítTime
 GøbSuc˚ss
 )
 
-1281 if(!
+1337 if(!
 	`gëroŸ±r
 (&
 x
@@ -10477,7 +10887,7 @@ x
 y
 ))
 
-1284 
+1340 
 	`XMaskEvít
 (
 dpy
@@ -10491,25 +10901,25 @@ Sub°ru˘uªRedúe˘Mask
 ev
 );
 
-1285 
+1341 
 ev
 .
 ty≥
 ) {
 
-1286 
+1342 
 C⁄figuªReque°
 :
 
-1287 
+1343 
 Expo£
 :
 
-1288 
+1344 
 M≠Reque°
 :
 
-1289 
+1345 
 h™dÀr
 [
 ev
@@ -10517,11 +10927,11 @@ ev
 ty≥
 ](&ev);
 
-1291 
+1347 
 MŸi⁄NŸify
 :
 
-1292 
+1348 
 nx
  = 
 ocx
@@ -10533,7 +10943,7 @@ xmŸi⁄
 x
  - x);
 
-1293 
+1349 
 ny
  = 
 ocy
@@ -10545,7 +10955,7 @@ xmŸi⁄
 y
  - y);
 
-1294 if(
+1350 if(
 nx
  >
 £lm⁄
@@ -10555,7 +10965,7 @@ wx
 ww
 
 
-1295 && 
+1351 && 
 ny
  >
 £lm⁄
@@ -10565,7 +10975,7 @@ wy
 wh
 ) {
 
-1296 if(
+1352 if(
 	`abs
 (
 £lm⁄
@@ -10577,7 +10987,7 @@ nx
 ¢≠
 )
 
-1297 
+1353 
 nx
  = 
 £lm⁄
@@ -10585,7 +10995,7 @@ nx
 wx
 ;
 
-1298 if(
+1354 if(
 	`abs
 ((
 £lm⁄
@@ -10603,7 +11013,7 @@ c
 ¢≠
 )
 
-1299 
+1355 
 nx
  = 
 £lm⁄
@@ -10617,7 +11027,7 @@ ww
 c
 );
 
-1300 if(
+1356 if(
 	`abs
 (
 £lm⁄
@@ -10629,7 +11039,7 @@ ny
 ¢≠
 )
 
-1301 
+1357 
 ny
  = 
 £lm⁄
@@ -10637,7 +11047,7 @@ ny
 wy
 ;
 
-1302 if(
+1358 if(
 	`abs
 ((
 £lm⁄
@@ -10655,7 +11065,7 @@ c
 ¢≠
 )
 
-1303 
+1359 
 ny
  = 
 £lm⁄
@@ -10669,7 +11079,7 @@ wh
 c
 );
 
-1304 if(!
+1360 if(!
 c
 ->
 isÊﬂtög
@@ -10683,7 +11093,7 @@ isÊﬂtög
 ¨ønge
 
 
-1305 && (
+1361 && (
 	`abs
 (
 nx
@@ -10699,13 +11109,13 @@ ny
 y
 ) > snap))
 
-1306 
+1362 
 	`toggÀÊﬂtög
 (
 NULL
 );
 
-1308 if(!
+1364 if(!
 £lm⁄
 ->
 …
@@ -10719,7 +11129,7 @@ c
 isÊﬂtög
 )
 
-1309 
+1365 
 	`ªsize
 (
 c
@@ -10735,7 +11145,7 @@ h
 True
 );
 
-1312 } 
+1368 } 
 ev
 .
 ty≥
@@ -10743,7 +11153,7 @@ ty≥
 Buâ⁄Rñó£
 );
 
-1313 
+1369 
 	`XUngøbPoöãr
 (
 dpy
@@ -10751,7 +11161,7 @@ dpy
 CuºítTime
 );
 
-1314 if((
+1370 if((
 m
  = 
 	`ª˘tom⁄
@@ -10769,7 +11179,7 @@ h
 £lm⁄
 ) {
 
-1315 
+1371 
 	`£ndm⁄
 (
 c
@@ -10777,27 +11187,27 @@ c
 m
 );
 
-1316 
+1372 
 £lm⁄
  = 
 m
 ;
 
-1317 
+1373 
 	`focus
 (
 NULL
 );
 
-1319 
+1375 
 	}
 }
 
-1321 
+1377 
 Clõ¡
  *
 
-1322 
+1378 
 	$√xâûed
 (
 Clõ¡
@@ -10805,7 +11215,7 @@ Clõ¡
 c
 ) {
 
-1323 ; 
+1379 ; 
 c
  && (c->
 isÊﬂtög
@@ -10815,15 +11225,15 @@ isÊﬂtög
 √xt
 );
 
-1324  
+1380  
 c
 ;
 
-1325 
+1381 
 	}
 }
 
-1328 
+1384 
 	$p›
 (
 Clõ¡
@@ -10831,25 +11241,25 @@ Clõ¡
 c
 ) {
 
-1329 
+1385 
 	`dëach
 (
 c
 );
 
-1330 
+1386 
 	`©èch
 (
 c
 );
 
-1331 
+1387 
 	`focus
 (
 c
 );
 
-1332 
+1388 
 	`¨ønge
 (
 c
@@ -10857,11 +11267,11 @@ c
 m⁄
 );
 
-1333 
+1389 
 	}
 }
 
-1336 
+1392 
 	$¥›îtynŸify
 (
 XEvít
@@ -10869,19 +11279,19 @@ XEvít
 e
 ) {
 
-1337 
+1393 
 Clõ¡
  *
 c
 ;
 
-1338 
+1394 
 Wödow
  
 å™s
 ;
 
-1339 
+1395 
 XPr›îtyEvít
  *
 ev
@@ -10891,7 +11301,7 @@ e
 x¥›îty
 ;
 
-1341 if((
+1397 if((
 ev
 ->
 wödow
@@ -10903,11 +11313,11 @@ roŸ
 XA_WM_NAME
 ))
 
-1342 
+1398 
 	`upd©e°©us
 ();
 
-1343 if(
+1399 if(
 ev
 ->
 °©e
@@ -10915,7 +11325,7 @@ ev
 Pr›îtyDñëe
 )
 
-1345 if((
+1401 if((
 c
  = 
 	`wöto˛õ¡
@@ -10925,17 +11335,17 @@ ev
 wödow
 ))) {
 
-1346 
+1402 
 ev
 ->
 ©om
 ) {
 
-1348 
+1404 
 XA_WM_TRANSIENT_FOR
 :
 
-1349 if(!
+1405 if(!
 c
 ->
 isÊﬂtög
@@ -10949,7 +11359,7 @@ wö
 å™s
 )) &&
 
-1350 (
+1406 (
 c
 ->
 isÊﬂtög
@@ -10961,7 +11371,7 @@ isÊﬂtög
 NULL
 ))
 
-1351 
+1407 
 	`¨ønge
 (
 c
@@ -10969,31 +11379,31 @@ c
 m⁄
 );
 
-1353 
+1409 
 XA_WM_NORMAL_HINTS
 :
 
-1354 
+1410 
 	`upd©esizehöts
 (
 c
 );
 
-1356 
+1412 
 XA_WM_HINTS
 :
 
-1357 
+1413 
 	`upd©ewmhöts
 (
 c
 );
 
-1358 
+1414 
 	`døwb¨s
 ();
 
-1361 if(
+1417 if(
 ev
 ->
 ©om
@@ -11005,13 +11415,13 @@ XA_WM_NAME
 NëWMName
 ]) {
 
-1362 
+1418 
 	`upd©ëôÀ
 (
 c
 );
 
-1363 if(
+1419 if(
 c
  =c->
 m⁄
@@ -11019,7 +11429,7 @@ m⁄
 £l
 )
 
-1364 
+1420 
 	`døwb¨
 (
 c
@@ -11027,7 +11437,7 @@ c
 m⁄
 );
 
-1366 if(
+1422 if(
 ev
 ->
 ©om
@@ -11037,17 +11447,17 @@ ev
 NëWMWödowTy≥
 ])
 
-1367 
+1423 
 	`upd©ewödowty≥
 (
 c
 );
 
-1369 
+1425 
 	}
 }
 
-1372 
+1428 
 	$quô
 (c⁄° 
 Arg
@@ -11055,21 +11465,21 @@ Arg
 ¨g
 ) {
 
-1373 
+1429 
 ru¬ög
  = 
 FÆ£
 ;
 
-1374 
+1430 
 	}
 }
 
-1376 
+1432 
 M⁄ô‹
  *
 
-1377 
+1433 
 	$ª˘tom⁄
 (
 x
@@ -11081,7 +11491,7 @@ w
 h
 ) {
 
-1378 
+1434 
 M⁄ô‹
  *
 m
@@ -11091,13 +11501,13 @@ r
 £lm⁄
 ;
 
-1379 
+1435 
 a
 , 
 ¨ó
  = 0;
 
-1381 
+1437 
 m
  = 
 m⁄s
@@ -11105,7 +11515,7 @@ m⁄s
 √xt
 )
 
-1382 if((
+1438 if((
 a
  = 
 	`INTERSECT
@@ -11123,27 +11533,27 @@ m
 ¨ó
 ) {
 
-1383 
+1439 
 ¨ó
  = 
 a
 ;
 
-1384 
+1440 
 r
  = 
 m
 ;
 
-1386  
+1442  
 r
 ;
 
-1387 
+1443 
 	}
 }
 
-1390 
+1446 
 	$ªsize
 (
 Clõ¡
@@ -11163,7 +11573,7 @@ Boﬁ
 öãø˘
 ) {
 
-1391 if(
+1447 if(
 	`≠∂ysizehöts
 (
 c
@@ -11179,7 +11589,7 @@ h
 öãø˘
 ))
 
-1392 
+1448 
 	`ªsize˛õ¡
 (
 c
@@ -11193,11 +11603,11 @@ w
 h
 );
 
-1393 
+1449 
 	}
 }
 
-1396 
+1452 
 	$ªsize˛õ¡
 (
 Clõ¡
@@ -11213,13 +11623,13 @@ w
 h
 ) {
 
-1397 
+1453 
 XWödowCh™ges
  
 wc
 ;
 
-1399 if(
+1455 if(
 c
 ->
 isÊﬂtög
@@ -11235,11 +11645,11 @@ isÊﬂtög
 NULL
 ) {
 
-1400 
+1456 
 globÆb‹dî
  = 0;
 
-1402 i‡(
+1458 i‡(
 £lm⁄
 ->
 …
@@ -11251,19 +11661,19 @@ globÆb‹dî
 m⁄o˛e
 )
 
-1403 
+1459 
 globÆb‹dî
  = 0 - 
 b‹dîpx
 ;
 
-1405 
+1461 
 globÆb‹dî
  = 
 g≠px
 ;
 
-1408 
+1464 
 c
 ->
 ﬁdx
@@ -11275,7 +11685,7 @@ wc
 globÆb‹dî
 ;
 
-1409 
+1465 
 c
 ->
 ﬁdy
@@ -11287,7 +11697,7 @@ wc
 globÆb‹dî
 ;
 
-1410 
+1466 
 c
 ->
 ﬁdw
@@ -11301,7 +11711,7 @@ width
 globÆb‹dî
 ;
 
-1411 
+1467 
 c
 ->
 ﬁdh
@@ -11315,7 +11725,7 @@ height
 globÆb‹dî
 ;
 
-1412 
+1468 
 wc
 .
 b‹dî_width
@@ -11325,7 +11735,7 @@ c
 bw
 ;
 
-1413 
+1469 
 	`XC⁄figuªWödow
 (
 dpy
@@ -11347,13 +11757,13 @@ CWB‹dîWidth
 wc
 );
 
-1414 
+1470 
 	`c⁄figuª
 (
 c
 );
 
-1415 
+1471 
 	`XSync
 (
 dpy
@@ -11361,11 +11771,11 @@ dpy
 FÆ£
 );
 
-1416 
+1472 
 	}
 }
 
-1419 
+1475 
 	$ªsizemou£
 (c⁄° 
 Arg
@@ -11373,37 +11783,37 @@ Arg
 ¨g
 ) {
 
-1420 
+1476 
 ocx
 , 
 ocy
 ;
 
-1421 
+1477 
 nw
 , 
 nh
 ;
 
-1422 
+1478 
 Clõ¡
  *
 c
 ;
 
-1423 
+1479 
 M⁄ô‹
  *
 m
 ;
 
-1424 
+1480 
 XEvít
  
 ev
 ;
 
-1426 if(!(
+1482 if(!(
 c
  = 
 £lm⁄
@@ -11411,13 +11821,13 @@ c
 £l
 ))
 
-1428 
+1484 
 	`ª°ack
 (
 £lm⁄
 );
 
-1429 
+1485 
 ocx
  = 
 c
@@ -11425,7 +11835,7 @@ c
 x
 ;
 
-1430 
+1486 
 ocy
  = 
 c
@@ -11433,7 +11843,7 @@ c
 y
 ;
 
-1431 if(
+1487 if(
 	`XGøbPoöãr
 (
 dpy
@@ -11447,7 +11857,7 @@ MOUSEMASK
 GøbModeAsync
 , GrabModeAsync,
 
-1432 
+1488 
 N⁄e
 , 
 curs‹
@@ -11459,7 +11869,7 @@ CuºítTime
 GøbSuc˚ss
 )
 
-1434 
+1490 
 	`XW¨pPoöãr
 (
 dpy
@@ -11477,7 +11887,7 @@ bw
 h
  + c->bw - 1);
 
-1436 
+1492 
 	`XMaskEvít
 (
 dpy
@@ -11491,25 +11901,25 @@ Sub°ru˘uªRedúe˘Mask
 ev
 );
 
-1437 
+1493 
 ev
 .
 ty≥
 ) {
 
-1438 
+1494 
 C⁄figuªReque°
 :
 
-1439 
+1495 
 Expo£
 :
 
-1440 
+1496 
 M≠Reque°
 :
 
-1441 
+1497 
 h™dÀr
 [
 ev
@@ -11517,11 +11927,11 @@ ev
 ty≥
 ](&ev);
 
-1443 
+1499 
 MŸi⁄NŸify
 :
 
-1444 
+1500 
 nw
  = 
 	`MAX
@@ -11539,7 +11949,7 @@ c
 bw
  + 1, 1);
 
-1445 
+1501 
 nh
  = 
 	`MAX
@@ -11557,7 +11967,7 @@ c
 bw
  + 1, 1);
 
-1446 if(
+1502 if(
 c
 ->
 m⁄
@@ -11571,7 +11981,7 @@ nw
 ww
 
 
-1447 && 
+1503 && 
 c
 ->
 m⁄
@@ -11585,7 +11995,7 @@ nh
 wh
 )
 
-1449 if(!
+1505 if(!
 c
 ->
 isÊﬂtög
@@ -11599,7 +12009,7 @@ isÊﬂtög
 ¨ønge
 
 
-1450 && (
+1506 && (
 	`abs
 (
 nw
@@ -11615,13 +12025,13 @@ nh
 h
 ) > snap))
 
-1451 
+1507 
 	`toggÀÊﬂtög
 (
 NULL
 );
 
-1453 if(!
+1509 if(!
 £lm⁄
 ->
 …
@@ -11635,7 +12045,7 @@ c
 isÊﬂtög
 )
 
-1454 
+1510 
 	`ªsize
 (
 c
@@ -11651,7 +12061,7 @@ nh
 True
 );
 
-1457 } 
+1513 } 
 ev
 .
 ty≥
@@ -11659,7 +12069,7 @@ ty≥
 Buâ⁄Rñó£
 );
 
-1458 
+1514 
 	`XW¨pPoöãr
 (
 dpy
@@ -11677,7 +12087,7 @@ bw
 h
  + c->bw - 1);
 
-1459 
+1515 
 	`XUngøbPoöãr
 (
 dpy
@@ -11685,7 +12095,7 @@ dpy
 CuºítTime
 );
 
-1460 
+1516 
 	`XCheckMaskEvít
 (
 dpy
@@ -11695,7 +12105,7 @@ E¡îWödowMask
 ev
 ));
 
-1461 if((
+1517 if((
 m
  = 
 	`ª˘tom⁄
@@ -11713,7 +12123,7 @@ h
 £lm⁄
 ) {
 
-1462 
+1518 
 	`£ndm⁄
 (
 c
@@ -11721,23 +12131,23 @@ c
 m
 );
 
-1463 
+1519 
 £lm⁄
  = 
 m
 ;
 
-1464 
+1520 
 	`focus
 (
 NULL
 );
 
-1466 
+1522 
 	}
 }
 
-1469 
+1525 
 	$ª°ack
 (
 M⁄ô‹
@@ -11745,37 +12155,37 @@ M⁄ô‹
 m
 ) {
 
-1470 
+1526 
 Clõ¡
  *
 c
 ;
 
-1471 
+1527 
 XEvít
  
 ev
 ;
 
-1472 
+1528 
 XWödowCh™ges
  
 wc
 ;
 
-1474 
+1530 
 	`døwb¨
 (
 m
 );
 
-1475 if(!
+1531 if(!
 m
 ->
 £l
 )
 
-1477 if(
+1533 if(
 m
 ->
 £l
@@ -11789,7 +12199,7 @@ isÊﬂtög
 ¨ønge
 )
 
-1478 
+1534 
 	`XRai£Wödow
 (
 dpy
@@ -11801,7 +12211,7 @@ m
 wö
 );
 
-1479 if(
+1535 if(
 m
 ->
 …
@@ -11811,7 +12221,7 @@ m
 ¨ønge
 ) {
 
-1480 
+1536 
 wc
 .
 °ack_mode
@@ -11819,7 +12229,7 @@ wc
 Bñow
 ;
 
-1481 
+1537 
 wc
 .
 siblög
@@ -11829,7 +12239,7 @@ m
 b¨wö
 ;
 
-1482 
+1538 
 c
  = 
 m
@@ -11839,7 +12249,7 @@ m
 ¢ext
 )
 
-1483 if(!
+1539 if(!
 c
 ->
 isÊﬂtög
@@ -11847,7 +12257,7 @@ isÊﬂtög
 	`ISVISIBLE
 (c)) {
 
-1484 
+1540 
 	`XC⁄figuªWödow
 (
 dpy
@@ -11863,7 +12273,7 @@ CWSèckMode
 wc
 );
 
-1485 
+1541 
 wc
 .
 siblög
@@ -11873,7 +12283,7 @@ c
 wö
 ;
 
-1488 
+1544 
 	`XSync
 (
 dpy
@@ -11881,7 +12291,7 @@ dpy
 FÆ£
 );
 
-1489 
+1545 
 	`XCheckMaskEvít
 (
 dpy
@@ -11891,21 +12301,21 @@ E¡îWödowMask
 ev
 ));
 
-1490 
+1546 
 	}
 }
 
-1493 
+1549 
 	$run
 () {
 
-1494 
+1550 
 XEvít
  
 ev
 ;
 
-1496 
+1552 
 	`XSync
 (
 dpy
@@ -11913,7 +12323,7 @@ dpy
 FÆ£
 );
 
-1497 
+1553 
 ru¬ög
  && !
 	`XNextEvít
@@ -11923,7 +12333,7 @@ dpy
 ev
 ))
 
-1498 if(
+1554 if(
 h™dÀr
 [
 ev
@@ -11931,7 +12341,7 @@ ev
 ty≥
 ])
 
-1499 
+1555 
 h™dÀr
 [
 ev
@@ -11939,21 +12349,21 @@ ev
 ty≥
 ](&ev);
 
-1500 
+1556 
 	}
 }
 
-1503 
+1559 
 	$sˇn
 () {
 
-1504 
+1560 
 i
 , 
 num
 ;
 
-1505 
+1561 
 Wödow
  
 d1
@@ -11965,13 +12375,13 @@ wös
 NULL
 ;
 
-1506 
+1562 
 XWödowAâribuãs
  
 wa
 ;
 
-1508 if(
+1564 if(
 	`XQuîyTªe
 (
 dpy
@@ -11987,13 +12397,13 @@ wös
 num
 )) {
 
-1509 
+1565 
 i
  = 0; i < 
 num
 ; i++) {
 
-1510 if(!
+1566 if(!
 	`XGëWödowAâribuãs
 (
 dpy
@@ -12005,7 +12415,7 @@ i
 wa
 )
 
-1511 || 
+1567 || 
 wa
 .
 ovîride_ªdúe˘
@@ -12021,7 +12431,7 @@ i
 d1
 ))
 
-1513 if(
+1569 if(
 wa
 .
 m≠_°©e
@@ -12037,7 +12447,7 @@ i
 Ic⁄icSèã
 )
 
-1514 
+1570 
 	`m™age
 (
 wös
@@ -12047,13 +12457,13 @@ i
 wa
 );
 
-1516 
+1572 
 i
  = 0; i < 
 num
 ; i++) {
 
-1517 if(!
+1573 if(!
 	`XGëWödowAâribuãs
 (
 dpy
@@ -12065,7 +12475,7 @@ i
 wa
 ))
 
-1519 if(
+1575 if(
 	`XGëTønsõ¡F‹Höt
 (
 dpy
@@ -12077,7 +12487,7 @@ i
 d1
 )
 
-1520 && (
+1576 && (
 wa
 .
 m≠_°©e
@@ -12093,7 +12503,7 @@ i
 Ic⁄icSèã
 ))
 
-1521 
+1577 
 	`m™age
 (
 wös
@@ -12103,21 +12513,21 @@ i
 wa
 );
 
-1523 if(
+1579 if(
 wös
 )
 
-1524 
+1580 
 	`XFªe
 (
 wös
 );
 
-1526 
+1582 
 	}
 }
 
-1529 
+1585 
 	$£ndm⁄
 (
 Clõ¡
@@ -12129,7 +12539,7 @@ M⁄ô‹
 m
 ) {
 
-1530 if(
+1586 if(
 c
 ->
 m⁄
@@ -12137,7 +12547,7 @@ m⁄
 m
 )
 
-1532 
+1588 
 	`unfocus
 (
 c
@@ -12145,19 +12555,19 @@ c
 True
 );
 
-1533 
+1589 
 	`dëach
 (
 c
 );
 
-1534 
+1590 
 	`dëach°ack
 (
 c
 );
 
-1535 
+1591 
 c
 ->
 m⁄
@@ -12165,7 +12575,7 @@ m⁄
 m
 ;
 
-1536 
+1592 
 c
 ->
 ègs
@@ -12177,35 +12587,35 @@ m
 £…ags
 ];
 
-1537 
+1593 
 	`©èch
 (
 c
 );
 
-1538 
+1594 
 	`©èch°ack
 (
 c
 );
 
-1539 
+1595 
 	`focus
 (
 NULL
 );
 
-1540 
+1596 
 	`¨ønge
 (
 NULL
 );
 
-1541 
+1597 
 	}
 }
 
-1544 
+1600 
 	$£t˛õ¡°©e
 (
 Clõ¡
@@ -12215,7 +12625,7 @@ c
 °©e
 ) {
 
-1545 
+1601 
 d©a
 [] = { 
 °©e
@@ -12223,7 +12633,7 @@ d©a
 N⁄e
  };
 
-1547 
+1603 
 	`XCh™gePr›îty
 (
 dpy
@@ -12237,21 +12647,21 @@ wm©om
 WMSèã
 ], wmatom[WMState], 32,
 
-1548 
+1604 
 Pr›ModeRïœ˚
 , (*)
 d©a
 , 2);
 
-1549 
+1605 
 	}
 }
 
-1551 
+1607 
 Boﬁ
 
 
-1552 
+1608 
 	$£ndevít
 (
 Clõ¡
@@ -12263,17 +12673,17 @@ Atom
 ¥Ÿo
 ) {
 
-1553 
+1609 
 n
 ;
 
-1554 
+1610 
 Atom
  *
 ¥Ÿocﬁs
 ;
 
-1555 
+1611 
 Boﬁ
  
 exi°s
@@ -12281,13 +12691,13 @@ exi°s
 FÆ£
 ;
 
-1556 
+1612 
 XEvít
  
 ev
 ;
 
-1558 if(
+1614 if(
 	`XGëWMPrŸocﬁs
 (
 dpy
@@ -12301,13 +12711,13 @@ wö
 n
 )) {
 
-1559 !
+1615 !
 exi°s
  && 
 n
 --)
 
-1560 
+1616 
 exi°s
  = 
 ¥Ÿocﬁs
@@ -12317,17 +12727,17 @@ n
 ¥Ÿo
 ;
 
-1561 
+1617 
 	`XFªe
 (
 ¥Ÿocﬁs
 );
 
-1563 if(
+1619 if(
 exi°s
 ) {
 
-1564 
+1620 
 ev
 .
 ty≥
@@ -12335,7 +12745,7 @@ ty≥
 Clõ¡Mesßge
 ;
 
-1565 
+1621 
 ev
 .
 x˛õ¡
@@ -12347,7 +12757,7 @@ c
 wö
 ;
 
-1566 
+1622 
 ev
 .
 x˛õ¡
@@ -12359,7 +12769,7 @@ wm©om
 WMPrŸocﬁs
 ];
 
-1567 
+1623 
 ev
 .
 x˛õ¡
@@ -12367,7 +12777,7 @@ x˛õ¡
 f‹m©
  = 32;
 
-1568 
+1624 
 ev
 .
 x˛õ¡
@@ -12379,7 +12789,7 @@ l
 ¥Ÿo
 ;
 
-1569 
+1625 
 ev
 .
 x˛õ¡
@@ -12391,7 +12801,7 @@ l
 CuºítTime
 ;
 
-1570 
+1626 
 	`XSídEvít
 (
 dpy
@@ -12407,15 +12817,15 @@ NoEvítMask
 ev
 );
 
-1572  
+1628  
 exi°s
 ;
 
-1573 
+1629 
 	}
 }
 
-1576 
+1632 
 	$£tfocus
 (
 Clõ¡
@@ -12423,13 +12833,13 @@ Clõ¡
 c
 ) {
 
-1577 if(!
+1633 if(!
 c
 ->
 √vîfocus
 )
 
-1578 
+1634 
 	`XSëI≈utFocus
 (
 dpy
@@ -12443,7 +12853,7 @@ RevîtToPoöãrRoŸ
 CuºítTime
 );
 
-1579 
+1635 
 	`£ndevít
 (
 c
@@ -12453,11 +12863,11 @@ wm©om
 WMTakeFocus
 ]);
 
-1580 
+1636 
 	}
 }
 
-1583 
+1639 
 	$£tfuŒs¸ìn
 (
 Clõ¡
@@ -12469,11 +12879,11 @@ Boﬁ
 fuŒs¸ìn
 ) {
 
-1584 if(
+1640 if(
 fuŒs¸ìn
 ) {
 
-1585 
+1641 
 	`XCh™gePr›îty
 (
 dpy
@@ -12489,7 +12899,7 @@ NëWMSèã
 XA_ATOM
 , 32,
 
-1586 
+1642 
 Pr›ModeRïœ˚
 , (*)&
 √ètom
@@ -12497,7 +12907,7 @@ Pr›ModeRïœ˚
 NëWMFuŒs¸ìn
 ], 1);
 
-1587 
+1643 
 c
 ->
 isfuŒs¸ìn
@@ -12505,7 +12915,7 @@ isfuŒs¸ìn
 True
 ;
 
-1588 
+1644 
 c
 ->
 ﬁd°©e
@@ -12513,7 +12923,7 @@ c
 isÊﬂtög
 ;
 
-1589 
+1645 
 c
 ->
 ﬁdbw
@@ -12521,13 +12931,13 @@ c
 bw
 ;
 
-1590 
+1646 
 c
 ->
 bw
  = 0;
 
-1591 
+1647 
 c
 ->
 isÊﬂtög
@@ -12535,7 +12945,7 @@ isÊﬂtög
 True
 ;
 
-1592 
+1648 
 	`ªsize˛õ¡
 (
 c
@@ -12551,7 +12961,7 @@ mw
 mh
 );
 
-1593 
+1649 
 	`XRai£Wödow
 (
 dpy
@@ -12561,7 +12971,7 @@ c
 wö
 );
 
-1596 
+1652 
 	`XCh™gePr›îty
 (
 dpy
@@ -12577,11 +12987,11 @@ NëWMSèã
 XA_ATOM
 , 32,
 
-1597 
+1653 
 Pr›ModeRïœ˚
 , (*)0, 0);
 
-1598 
+1654 
 c
 ->
 isfuŒs¸ìn
@@ -12589,7 +12999,7 @@ isfuŒs¸ìn
 FÆ£
 ;
 
-1599 
+1655 
 c
 ->
 isÊﬂtög
@@ -12597,7 +13007,7 @@ isÊﬂtög
 ﬁd°©e
 ;
 
-1600 
+1656 
 c
 ->
 bw
@@ -12605,7 +13015,7 @@ bw
 ﬁdbw
 ;
 
-1601 
+1657 
 c
 ->
 x
@@ -12613,7 +13023,7 @@ x
 ﬁdx
 ;
 
-1602 
+1658 
 c
 ->
 y
@@ -12621,7 +13031,7 @@ y
 ﬁdy
 ;
 
-1603 
+1659 
 c
 ->
 w
@@ -12629,7 +13039,7 @@ w
 ﬁdw
 ;
 
-1604 
+1660 
 c
 ->
 h
@@ -12637,7 +13047,7 @@ h
 ﬁdh
 ;
 
-1605 
+1661 
 	`ªsize˛õ¡
 (
 c
@@ -12651,7 +13061,7 @@ w
 h
 );
 
-1606 
+1662 
 	`¨ønge
 (
 c
@@ -12659,11 +13069,11 @@ c
 m⁄
 );
 
-1608 
+1664 
 	}
 }
 
-1611 
+1667 
 	$£éayout
 (c⁄° 
 Arg
@@ -12671,7 +13081,7 @@ Arg
 ¨g
 ) {
 
-1612 if(!
+1668 if(!
 ¨g
  || !¨g->
 v
@@ -12683,19 +13093,19 @@ v
 £Œt
 ])
 
-1613 
+1669 
 £lm⁄
 ->
 £Œt
  ^= 1;
 
-1614 if(
+1670 if(
 ¨g
  &&árg->
 v
 )
 
-1615 
+1671 
 £lm⁄
 ->
 …
@@ -12709,7 +13119,7 @@ Layout
 v
 ;
 
-1616 
+1672 
 	`°∫˝y
 (
 £lm⁄
@@ -12723,29 +13133,29 @@ v
 symbﬁ
 ,  selmon->ltsymbol);
 
-1617 if(
+1673 if(
 £lm⁄
 ->
 £l
 )
 
-1618 
+1674 
 	`¨ønge
 (
 £lm⁄
 );
 
-1620 
+1676 
 	`døwb¨
 (
 £lm⁄
 );
 
-1621 
+1677 
 	}
 }
 
-1625 
+1681 
 	$£tmÁ˘
 (c⁄° 
 Arg
@@ -12753,11 +13163,11 @@ Arg
 ¨g
 ) {
 
-1626 
+1682 
 f
 ;
 
-1628 if(!
+1684 if(!
 ¨g
  || !
 £lm⁄
@@ -12769,7 +13179,7 @@ f
 ¨ønge
 )
 
-1630 
+1686 
 f
  = 
 ¨g
@@ -12779,11 +13189,11 @@ f
 mÁ˘
  :árg->f - 1.0;
 
-1631 if(
+1687 if(
 f
  < 0.1 || f > 0.9)
 
-1633 
+1689 
 £lm⁄
 ->
 mÁ˘
@@ -12791,31 +13201,87 @@ mÁ˘
 f
 ;
 
-1634 
+1690 
 	`¨ønge
 (
 £lm⁄
 );
 
-1635 
+1691 
 	}
 }
 
-1638 
+1694 
+	$£tsmÁ˘
+(c⁄° 
+Arg
+ *
+¨g
+) {
+
+1695 
+sf
+;
+
+1697 if(!
+¨g
+ || !
+£lm⁄
+->
+…
+[£lm⁄->
+£Œt
+]->
+¨ønge
+)
+
+1699 
+sf
+ = 
+¨g
+->s‡< 1.0 ?árg->s‡+ 
+£lm⁄
+->
+smÁ˘
+ :árg->sf - 1.0;
+
+1700 if(
+sf
+ < 0 || sf > 0.9)
+
+1702 
+£lm⁄
+->
+smÁ˘
+ = 
+sf
+;
+
+1703 
+	`¨ønge
+(
+£lm⁄
+);
+
+1704 
+	}
+}
+
+1707 
 	$£tup
 () {
 
-1639 
+1708 
 XSëWödowAâribuãs
  
 wa
 ;
 
-1642 
+1711 
 	`sigchld
 (0);
 
-1645 
+1714 
 s¸ìn
  = 
 	`DeÁu…S¸ìn
@@ -12823,7 +13289,7 @@ s¸ìn
 dpy
 );
 
-1646 
+1715 
 roŸ
  = 
 	`RoŸWödow
@@ -12833,13 +13299,13 @@ dpy
 s¸ìn
 );
 
-1647 
+1716 
 	`öôf⁄t
 (
 f⁄t
 );
 
-1648 
+1717 
 sw
  = 
 	`Di•œyWidth
@@ -12849,7 +13315,7 @@ dpy
 s¸ìn
 );
 
-1649 
+1718 
 sh
  = 
 	`Di•œyHeight
@@ -12859,7 +13325,7 @@ dpy
 s¸ìn
 );
 
-1650 
+1719 
 bh
  = 
 dc
@@ -12871,11 +13337,11 @@ f⁄t
 height
  + 2;
 
-1651 
+1720 
 	`upd©egeom
 ();
 
-1653 
+1722 
 wm©om
 [
 WMPrŸocﬁs
@@ -12887,7 +13353,7 @@ dpy
 FÆ£
 );
 
-1654 
+1723 
 wm©om
 [
 WMDñëe
@@ -12899,7 +13365,7 @@ dpy
 FÆ£
 );
 
-1655 
+1724 
 wm©om
 [
 WMSèã
@@ -12911,7 +13377,7 @@ dpy
 FÆ£
 );
 
-1656 
+1725 
 wm©om
 [
 WMTakeFocus
@@ -12923,7 +13389,7 @@ dpy
 FÆ£
 );
 
-1657 
+1726 
 √ètom
 [
 NëA˘iveWödow
@@ -12935,7 +13401,7 @@ dpy
 FÆ£
 );
 
-1658 
+1727 
 √ètom
 [
 NëSuµ‹ãd
@@ -12947,7 +13413,7 @@ dpy
 FÆ£
 );
 
-1659 
+1728 
 √ètom
 [
 NëWMName
@@ -12959,7 +13425,7 @@ dpy
 FÆ£
 );
 
-1660 
+1729 
 √ètom
 [
 NëWMSèã
@@ -12971,7 +13437,7 @@ dpy
 FÆ£
 );
 
-1661 
+1730 
 √ètom
 [
 NëWMFuŒs¸ìn
@@ -12983,7 +13449,7 @@ dpy
 FÆ£
 );
 
-1662 
+1731 
 √ètom
 [
 NëWMWödowTy≥
@@ -12995,7 +13461,7 @@ dpy
 FÆ£
 );
 
-1663 
+1732 
 √ètom
 [
 NëWMWödowTy≥Dülog
@@ -13007,7 +13473,7 @@ dpy
 FÆ£
 );
 
-1665 
+1734 
 curs‹
 [
 CurN‹mÆ
@@ -13019,7 +13485,7 @@ dpy
 XC_À·_±r
 );
 
-1666 
+1735 
 curs‹
 [
 CurResize
@@ -13031,7 +13497,7 @@ dpy
 XC_sizög
 );
 
-1667 
+1736 
 curs‹
 [
 CurMove
@@ -13043,7 +13509,7 @@ dpy
 XC_Êeur
 );
 
-1669 
+1738 
 dc
 .
 n‹m
@@ -13055,7 +13521,7 @@ CﬁB‹dî
 n‹mb‹dîcﬁ‹
 );
 
-1670 
+1739 
 dc
 .
 n‹m
@@ -13067,7 +13533,7 @@ CﬁBG
 n‹mbgcﬁ‹
 );
 
-1671 
+1740 
 dc
 .
 n‹m
@@ -13079,7 +13545,7 @@ CﬁFG
 n‹mfgcﬁ‹
 );
 
-1672 
+1741 
 dc
 .
 £l
@@ -13091,7 +13557,7 @@ CﬁB‹dî
 £lb‹dîcﬁ‹
 );
 
-1673 
+1742 
 dc
 .
 £l
@@ -13103,7 +13569,7 @@ CﬁBG
 £lbgcﬁ‹
 );
 
-1674 
+1743 
 dc
 .
 £l
@@ -13115,7 +13581,7 @@ CﬁFG
 £lfgcﬁ‹
 );
 
-1675 
+1744 
 dc
 .
 døwabÀ
@@ -13135,7 +13601,7 @@ bh
 	`DeÁu…Dïth
 (dpy, screen));
 
-1676 
+1745 
 dc
 .
 gc
@@ -13149,7 +13615,7 @@ roŸ
 NULL
 );
 
-1677 
+1746 
 	`XSëLöeAâribuãs
 (
 dpy
@@ -13165,7 +13631,7 @@ C≠Buâ
 JoöMôî
 );
 
-1678 if(!
+1747 if(!
 dc
 .
 f⁄t
@@ -13173,7 +13639,7 @@ f⁄t
 £t
 )
 
-1679 
+1748 
 	`XSëF⁄t
 (
 dpy
@@ -13189,15 +13655,15 @@ xf⁄t
 fid
 );
 
-1681 
+1750 
 	`upd©eb¨s
 ();
 
-1682 
+1751 
 	`upd©e°©us
 ();
 
-1684 
+1753 
 	`XCh™gePr›îty
 (
 dpy
@@ -13211,7 +13677,7 @@ NëSuµ‹ãd
 XA_ATOM
 , 32,
 
-1685 
+1754 
 Pr›ModeRïœ˚
 , (*Ë
 √ètom
@@ -13219,7 +13685,7 @@ Pr›ModeRïœ˚
 NëLa°
 );
 
-1687 
+1756 
 wa
 .
 curs‹
@@ -13227,7 +13693,7 @@ curs‹
 CurN‹mÆ
 ];
 
-1688 
+1757 
 wa
 .
 evít_mask
@@ -13241,7 +13707,7 @@ Buâ⁄PªssMask
 PoöãrMŸi⁄Mask
 
 
-1689 |
+1758 |
 E¡îWödowMask
 |
 LóveWödowMask
@@ -13251,7 +13717,7 @@ Såu˘uªNŸifyMask
 Pr›îtyCh™geMask
 ;
 
-1690 
+1759 
 	`XCh™geWödowAâribuãs
 (
 dpy
@@ -13265,7 +13731,7 @@ CWCurs‹
 wa
 );
 
-1691 
+1760 
 	`XSñe˘I≈ut
 (
 dpy
@@ -13277,15 +13743,15 @@ wa
 evít_mask
 );
 
-1692 
+1761 
 	`gøbkeys
 ();
 
-1693 
+1762 
 	}
 }
 
-1696 
+1765 
 	$showhide
 (
 Clõ¡
@@ -13293,17 +13759,17 @@ Clõ¡
 c
 ) {
 
-1697 if(!
+1766 if(!
 c
 )
 
-1699 if(
+1768 if(
 	`ISVISIBLE
 (
 c
 )) {
 
-1700 
+1769 
 	`XMoveWödow
 (
 dpy
@@ -13317,7 +13783,7 @@ x
 y
 );
 
-1701 if((!
+1770 if((!
 c
 ->
 m⁄
@@ -13333,7 +13799,7 @@ isÊﬂtög
 isfuŒs¸ìn
 )
 
-1702 
+1771 
 	`ªsize
 (
 c
@@ -13349,7 +13815,7 @@ h
 FÆ£
 );
 
-1703 
+1772 
 	`showhide
 (
 c
@@ -13357,7 +13823,7 @@ c
 ¢ext
 );
 
-1706 
+1775 
 	`showhide
 (
 c
@@ -13365,7 +13831,7 @@ c
 ¢ext
 );
 
-1707 
+1776 
 	`XMoveWödow
 (
 dpy
@@ -13379,17 +13845,17 @@ wö
 y
 );
 
-1709 
+1778 
 	}
 }
 
-1712 
+1781 
 	$sigchld
 (
 unu£d
 ) {
 
-1713 if(
+1782 if(
 	`sig«l
 (
 SIGCHLD
@@ -13399,11 +13865,11 @@ sigchld
 SIG_ERR
 )
 
-1714 
+1783 
 	`dõ
 ("Can't install SIGCHLD handler");
 
-1715 0 < 
+1784 0 < 
 	`waôpid
 (-1, 
 NULL
@@ -13411,11 +13877,11 @@ NULL
 WNOHANG
 ));
 
-1716 
+1785 
 	}
 }
 
-1719 
+1788 
 	$•awn
 (c⁄° 
 Arg
@@ -13423,15 +13889,15 @@ Arg
 ¨g
 ) {
 
-1720 if(
+1789 if(
 	`f‹k
 () == 0) {
 
-1721 if(
+1790 if(
 dpy
 )
 
-1722 
+1791 
 	`˛o£
 (
 	`C⁄√˘i⁄Numbî
@@ -13439,11 +13905,11 @@ dpy
 dpy
 ));
 
-1723 
+1792 
 	`£tsid
 ();
 
-1724 
+1793 
 	`execvp
 (((**)
 ¨g
@@ -13451,7 +13917,7 @@ dpy
 v
 )[0], (**)arg->v);
 
-1725 
+1794 
 	`Ârötf
 (
 °dîr
@@ -13461,21 +13927,21 @@ v
 v
 )[0]);
 
-1726 
+1795 
 	`≥º‹
 (" failed");
 
-1727 
+1796 
 	`exô
 (
 EXIT_SUCCESS
 );
 
-1729 
+1798 
 	}
 }
 
-1732 
+1801 
 	$èg
 (c⁄° 
 Arg
@@ -13483,7 +13949,7 @@ Arg
 ¨g
 ) {
 
-1733 if(
+1802 if(
 £lm⁄
 ->
 £l
@@ -13495,7 +13961,7 @@ ui
 TAGMASK
 ) {
 
-1734 
+1803 
 £lm⁄
 ->
 £l
@@ -13509,23 +13975,23 @@ ui
 TAGMASK
 ;
 
-1735 
+1804 
 	`focus
 (
 NULL
 );
 
-1736 
+1805 
 	`¨ønge
 (
 £lm⁄
 );
 
-1738 
+1807 
 	}
 }
 
-1741 
+1810 
 	$ègm⁄
 (c⁄° 
 Arg
@@ -13533,7 +13999,7 @@ Arg
 ¨g
 ) {
 
-1742 if(!
+1811 if(!
 £lm⁄
 ->
 £l
@@ -13543,7 +14009,7 @@ m⁄s
 √xt
 )
 
-1744 
+1813 
 	`£ndm⁄
 (
 £lm⁄
@@ -13557,11 +14023,11 @@ m⁄s
 i
 ));
 
-1745 
+1814 
 	}
 }
 
-1748 
+1817 
 	$ãxäw
 (c⁄° *
 ãxt
@@ -13569,13 +14035,13 @@ i
 Àn
 ) {
 
-1749 
+1818 
 XRe˘™gÀ
  
 r
 ;
 
-1751 if(
+1820 if(
 dc
 .
 f⁄t
@@ -13583,7 +14049,7 @@ f⁄t
 £t
 ) {
 
-1752 
+1821 
 	`XmbTextExã¡s
 (
 dc
@@ -13601,13 +14067,13 @@ NULL
 r
 );
 
-1753  
+1822  
 r
 .
 width
 ;
 
-1755  
+1824  
 	`XTextWidth
 (
 dc
@@ -13621,11 +14087,11 @@ xf⁄t
 Àn
 );
 
-1756 
+1825 
 	}
 }
 
-1759 
+1828 
 	$tûe
 (
 M⁄ô‹
@@ -13633,12 +14099,14 @@ M⁄ô‹
 m
 ) {
 
-1760 
+1829 
 i
 , 
 n
 , 
 h
+, 
+smh
 , 
 mw
 , 
@@ -13647,13 +14115,13 @@ my
 ty
 ;
 
-1761 
+1830 
 Clõ¡
  *
 c
 ;
 
-1763 
+1832 
 n
  = 0, 
 c
@@ -13667,11 +14135,11 @@ m
 √xt
 ),Ç++);
 
-1764 if(
+1833 if(
 n
  == 0)
 
-1767 if(
+1836 if(
 n
  > 
 m
@@ -13679,7 +14147,7 @@ m
 nma°î
 )
 
-1768 
+1837 
 mw
  = 
 m
@@ -13691,7 +14159,7 @@ ww
 mÁ˘
  : 0;
 
-1770 
+1839 
 mw
  = 
 m
@@ -13699,7 +14167,7 @@ m
 ww
 ;
 
-1771 
+1840 
 i
  = 
 my
@@ -13717,7 +14185,7 @@ m
 √xt
 ), i++)
 
-1772 if(
+1841 if(
 i
  < 
 m
@@ -13725,7 +14193,7 @@ m
 nma°î
 ) {
 
-1773 
+1842 
 h
  = (
 m
@@ -13743,7 +14211,7 @@ nma°î
 i
 );
 
-1774 
+1843 
 	`ªsize
 (
 c
@@ -13765,7 +14233,7 @@ h
 FÆ£
 );
 
-1775 
+1844 
 my
  +
 	`HEIGHT
@@ -13773,7 +14241,25 @@ my
 c
 );
 
-1778 
+1847 
+smh
+ = 
+m
+->
+mh
+ * m->
+smÁ˘
+;
+
+1848 if(!(
+	`√xâûed
+(
+c
+->
+√xt
+)))
+
+1849 
 h
  = (
 m
@@ -13787,7 +14273,83 @@ n
 i
 );
 
-1779 
+1851 
+h
+ = (
+m
+->
+wh
+ - 
+smh
+ - 
+ty
+Ë/ (
+n
+ - 
+i
+);
+
+1852 if(
+h
+ < 
+möwsz
+) {
+
+1853 
+c
+->
+isÊﬂtög
+ = 
+True
+;
+
+1854 
+	`XRai£Wödow
+(
+dpy
+, 
+c
+->
+wö
+);
+
+1855 
+	`ªsize
+(
+c
+, 
+m
+->
+mx
+ + (m->
+mw
+ / 2 - 
+	`WIDTH
+(cË/ 2), m->
+my
+ + (m->
+mh
+ / 2 - 
+	`HEIGHT
+(cË/ 2), m->
+ww
+ - mw - (2*c->
+bw
+), 
+h
+ - (2*c->bw), 
+FÆ£
+);
+
+1856 
+ty
+ -
+	`HEIGHT
+(
+c
+);
+
+1859 
 	`ªsize
 (
 c
@@ -13811,7 +14373,25 @@ h
 FÆ£
 );
 
-1780 
+1860 if(!(
+	`√xâûed
+(
+c
+->
+√xt
+)))
+
+1861 
+ty
+ +
+	`HEIGHT
+(
+c
+Ë+ 
+smh
+;
+
+1863 
 ty
  +
 	`HEIGHT
@@ -13819,11 +14399,11 @@ ty
 c
 );
 
-1782 
+1865 
 	}
 }
 
-1785 
+1868 
 	$toggÀb¨
 (c⁄° 
 Arg
@@ -13831,19 +14411,19 @@ Arg
 ¨g
 ) {
 
-1786 
+1869 
 £lm⁄
 ->
 showb¨
  = !selmon->showbar;
 
-1787 
+1870 
 	`upd©eb¨pos
 (
 £lm⁄
 );
 
-1788 
+1871 
 	`XMoveResizeWödow
 (
 dpy
@@ -13861,17 +14441,17 @@ ww
 bh
 );
 
-1789 
+1872 
 	`¨ønge
 (
 £lm⁄
 );
 
-1790 
+1873 
 	}
 }
 
-1793 
+1876 
 	$toggÀÊﬂtög
 (c⁄° 
 Arg
@@ -13879,13 +14459,13 @@ Arg
 ¨g
 ) {
 
-1794 if(!
+1877 if(!
 £lm⁄
 ->
 £l
 )
 
-1796 
+1879 
 £lm⁄
 ->
 £l
@@ -13895,7 +14475,7 @@ isÊﬂtög
 isfixed
 ;
 
-1797 if(
+1880 if(
 £lm⁄
 ->
 £l
@@ -13903,7 +14483,7 @@ isfixed
 isÊﬂtög
 )
 
-1798 
+1881 
 	`ªsize
 (
 £lm⁄
@@ -13915,7 +14495,7 @@ x
 y
 ,
 
-1799 
+1882 
 £lm⁄
 ->
 £l
@@ -13927,17 +14507,17 @@ h
 FÆ£
 );
 
-1800 
+1883 
 	`¨ønge
 (
 £lm⁄
 );
 
-1801 
+1884 
 	}
 }
 
-1804 
+1887 
 	$toggÀèg
 (c⁄° 
 Arg
@@ -13945,17 +14525,17 @@ Arg
 ¨g
 ) {
 
-1805 
+1888 
 √wègs
 ;
 
-1807 if(!
+1890 if(!
 £lm⁄
 ->
 £l
 )
 
-1809 
+1892 
 √wègs
  = 
 £lm⁄
@@ -13971,11 +14551,11 @@ ui
 TAGMASK
 );
 
-1810 if(
+1893 if(
 √wègs
 ) {
 
-1811 
+1894 
 £lm⁄
 ->
 £l
@@ -13985,23 +14565,23 @@ TAGMASK
 √wègs
 ;
 
-1812 
+1895 
 	`focus
 (
 NULL
 );
 
-1813 
+1896 
 	`¨ønge
 (
 £lm⁄
 );
 
-1815 
+1898 
 	}
 }
 
-1818 
+1901 
 	$toggÀvõw
 (c⁄° 
 Arg
@@ -14009,7 +14589,7 @@ Arg
 ¨g
 ) {
 
-1819 
+1902 
 √wèg£t
  = 
 £lm⁄
@@ -14025,11 +14605,11 @@ ui
 TAGMASK
 );
 
-1821 if(
+1904 if(
 √wèg£t
 ) {
 
-1822 
+1905 
 £lm⁄
 ->
 èg£t
@@ -14039,23 +14619,23 @@ TAGMASK
 √wèg£t
 ;
 
-1823 
+1906 
 	`focus
 (
 NULL
 );
 
-1824 
+1907 
 	`¨ønge
 (
 £lm⁄
 );
 
-1826 
+1909 
 	}
 }
 
-1829 
+1912 
 	$unfocus
 (
 Clõ¡
@@ -14067,11 +14647,11 @@ Boﬁ
 £tfocus
 ) {
 
-1830 if(!
+1913 if(!
 c
 )
 
-1832 
+1915 
 	`gøbbuâ⁄s
 (
 c
@@ -14079,7 +14659,7 @@ c
 FÆ£
 );
 
-1833 
+1916 
 	`XSëWödowB‹dî
 (
 dpy
@@ -14095,11 +14675,11 @@ n‹m
 CﬁB‹dî
 ]);
 
-1834 if(
+1917 if(
 £tfocus
 )
 
-1835 
+1918 
 	`XSëI≈utFocus
 (
 dpy
@@ -14111,11 +14691,11 @@ RevîtToPoöãrRoŸ
 CuºítTime
 );
 
-1836 
+1919 
 	}
 }
 
-1839 
+1922 
 	$unm™age
 (
 Clõ¡
@@ -14127,7 +14707,7 @@ Boﬁ
 de°royed
 ) {
 
-1840 
+1923 
 M⁄ô‹
  *
 m
@@ -14137,29 +14717,29 @@ c
 m⁄
 ;
 
-1841 
+1924 
 XWödowCh™ges
  
 wc
 ;
 
-1844 
+1927 
 	`dëach
 (
 c
 );
 
-1845 
+1928 
 	`dëach°ack
 (
 c
 );
 
-1846 if(!
+1929 if(!
 de°royed
 ) {
 
-1847 
+1930 
 wc
 .
 b‹dî_width
@@ -14169,19 +14749,19 @@ c
 ﬁdbw
 ;
 
-1848 
+1931 
 	`XGøbSîvî
 (
 dpy
 );
 
-1849 
+1932 
 	`XSëEº‹H™dÀr
 (
 xîr‹dummy
 );
 
-1850 
+1933 
 	`XC⁄figuªWödow
 (
 dpy
@@ -14195,7 +14775,7 @@ CWB‹dîWidth
 wc
 );
 
-1851 
+1934 
 	`XUngøbBuâ⁄
 (
 dpy
@@ -14209,7 +14789,7 @@ c
 wö
 );
 
-1852 
+1935 
 	`£t˛õ¡°©e
 (
 c
@@ -14217,7 +14797,7 @@ c
 WôhdøwnSèã
 );
 
-1853 
+1936 
 	`XSync
 (
 dpy
@@ -14225,41 +14805,41 @@ dpy
 FÆ£
 );
 
-1854 
+1937 
 	`XSëEº‹H™dÀr
 (
 xîr‹
 );
 
-1855 
+1938 
 	`XUngøbSîvî
 (
 dpy
 );
 
-1857 
+1940 
 	`‰ì
 (
 c
 );
 
-1858 
+1941 
 	`focus
 (
 NULL
 );
 
-1859 
+1942 
 	`¨ønge
 (
 m
 );
 
-1860 
+1943 
 	}
 }
 
-1863 
+1946 
 	$unm≠nŸify
 (
 XEvít
@@ -14267,13 +14847,13 @@ XEvít
 e
 ) {
 
-1864 
+1947 
 Clõ¡
  *
 c
 ;
 
-1865 
+1948 
 XUnm≠Evít
  *
 ev
@@ -14283,7 +14863,7 @@ e
 xunm≠
 ;
 
-1867 if((
+1950 if((
 c
  = 
 	`wöto˛õ¡
@@ -14293,13 +14873,13 @@ ev
 wödow
 ))) {
 
-1868 if(
+1951 if(
 ev
 ->
 £nd_evít
 )
 
-1869 
+1952 
 	`£t˛õ¡°©e
 (
 c
@@ -14307,7 +14887,7 @@ c
 WôhdøwnSèã
 );
 
-1871 
+1954 
 	`unm™age
 (
 c
@@ -14315,39 +14895,39 @@ c
 FÆ£
 );
 
-1873 
+1956 
 	}
 }
 
-1876 
+1959 
 	$upd©eb¨s
 () {
 
-1877 
+1960 
 M⁄ô‹
  *
 m
 ;
 
-1878 
+1961 
 XSëWödowAâribuãs
  
 wa
  = {
 
-1879 .
+1962 .
 ovîride_ªdúe˘
  = 
 True
 ,
 
-1880 .
+1963 .
 background_pixm≠
  = 
 P¨ítRñ©ive
 ,
 
-1881 .
+1964 .
 evít_mask
  = 
 Buâ⁄PªssMask
@@ -14355,7 +14935,7 @@ Buâ⁄PªssMask
 ExposuªMask
 
 
-1883 
+1966 
 m
  = 
 m⁄s
@@ -14363,7 +14943,7 @@ m⁄s
 √xt
 ) {
 
-1884 
+1967 
 m
 ->
 b¨wö
@@ -14387,7 +14967,7 @@ bh
 s¸ìn
 ),
 
-1885 
+1968 
 C›yFromP¨ít
 , 
 	`DeÁu…VisuÆ
@@ -14397,7 +14977,7 @@ dpy
 s¸ìn
 ),
 
-1886 
+1969 
 CWOvîrideRedúe˘
 |
 CWBackPixm≠
@@ -14407,7 +14987,7 @@ CWEvítMask
 wa
 );
 
-1887 
+1970 
 	`XDeföeCurs‹
 (
 dpy
@@ -14421,7 +15001,7 @@ curs‹
 CurN‹mÆ
 ]);
 
-1888 
+1971 
 	`XM≠Rai£d
 (
 dpy
@@ -14431,11 +15011,11 @@ m
 b¨wö
 );
 
-1890 
+1973 
 	}
 }
 
-1893 
+1976 
 	$upd©eb¨pos
 (
 M⁄ô‹
@@ -14443,7 +15023,7 @@ M⁄ô‹
 m
 ) {
 
-1894 
+1977 
 m
 ->
 wy
@@ -14451,7 +15031,7 @@ wy
 my
 ;
 
-1895 
+1978 
 m
 ->
 wh
@@ -14459,13 +15039,13 @@ wh
 mh
 ;
 
-1896 if(
+1979 if(
 m
 ->
 showb¨
 ) {
 
-1897 
+1980 
 m
 ->
 wh
@@ -14473,7 +15053,7 @@ wh
 bh
 ;
 
-1898 
+1981 
 m
 ->
 by
@@ -14485,7 +15065,7 @@ wy
 wh
 ;
 
-1899 
+1982 
 m
 ->
 wy
@@ -14495,7 +15075,7 @@ t›b¨
 bh
  : m->wy;
 
-1902 
+1985 
 m
 ->
 by
@@ -14503,19 +15083,19 @@ by
 bh
 ;
 
-1903 
+1986 
 	}
 }
 
-1905 
+1988 
 Boﬁ
 
 
-1906 
+1989 
 	$upd©egeom
 () {
 
-1907 
+1990 
 Boﬁ
  
 dúty
@@ -14523,17 +15103,17 @@ dúty
 FÆ£
 ;
 
-1909 #ifde‡
+1992 #ifde‡
 XINERAMA
 
 
-1910 if(
+1993 if(
 	`XöîamaIsA˘ive
 (
 dpy
 )) {
 
-1911 
+1994 
 i
 , 
 j
@@ -14543,19 +15123,19 @@ n
 ¬
 ;
 
-1912 
+1995 
 Clõ¡
  *
 c
 ;
 
-1913 
+1996 
 M⁄ô‹
  *
 m
 ;
 
-1914 
+1997 
 XöîamaS¸ìnInfo
  *
 öfo
@@ -14567,7 +15147,7 @@ dpy
 ¬
 );
 
-1915 
+1998 
 XöîamaS¸ìnInfo
  *
 unique
@@ -14575,7 +15155,7 @@ unique
 NULL
 ;
 
-1917 
+2000 
 n
  = 0, 
 m
@@ -14585,7 +15165,7 @@ m⁄s
 √xt
 ,Ç++);
 
-1919 if(!(
+2002 if(!(
 unique
  = (
 XöîamaS¸ìnInfo
@@ -14595,7 +15175,7 @@ XöîamaS¸ìnInfo
 ¬
 )))
 
-1920 
+2003 
 	`dõ
 ("Áèl: couldÇŸ mÆloc(Ë%u byãs\n", (
 XöîamaS¸ìnInfo
@@ -14603,7 +15183,7 @@ XöîamaS¸ìnInfo
 ¬
 );
 
-1921 
+2004 
 i
  = 0, 
 j
@@ -14611,7 +15191,7 @@ j
 ¬
 ; i++)
 
-1922 if(
+2005 if(
 	`isuniquegeom
 (
 unique
@@ -14623,7 +15203,7 @@ j
 i
 ]))
 
-1923 
+2006 
 	`mem˝y
 (&
 unique
@@ -14637,25 +15217,25 @@ i
 XöîamaS¸ìnInfo
 ));
 
-1924 
+2007 
 	`XFªe
 (
 öfo
 );
 
-1925 
+2008 
 ¬
  = 
 j
 ;
 
-1926 if(
+2009 if(
 n
  <
 ¬
 ) {
 
-1927 
+2010 
 i
  = 0; i < (
 ¬
@@ -14663,7 +15243,7 @@ i
 n
 ); i++) {
 
-1928 
+2011 
 m
  = 
 m⁄s
@@ -14671,11 +15251,11 @@ m⁄s
 √xt
 ; m = m->next);
 
-1929 if(
+2012 if(
 m
 )
 
-1930 
+2013 
 m
 ->
 √xt
@@ -14683,13 +15263,13 @@ m
 	`¸óãm⁄
 ();
 
-1932 
+2015 
 m⁄s
  = 
 	`¸óãm⁄
 ();
 
-1934 
+2017 
 i
  = 0, 
 m
@@ -14701,13 +15281,13 @@ m⁄s
 √xt
 , i++)
 
-1935 if(
+2018 if(
 i
  >
 n
 
 
-1936 || (
+2019 || (
 unique
 [
 i
@@ -14723,7 +15303,7 @@ y_‹g
 my
 
 
-1937 || 
+2020 || 
 unique
 [
 i
@@ -14739,13 +15319,13 @@ height
 mh
 ))
 
-1939 
+2022 
 dúty
  = 
 True
 ;
 
-1940 
+2023 
 m
 ->
 num
@@ -14753,7 +15333,7 @@ num
 i
 ;
 
-1941 
+2024 
 m
 ->
 mx
@@ -14767,7 +15347,7 @@ i
 x_‹g
 ;
 
-1942 
+2025 
 m
 ->
 my
@@ -14781,7 +15361,7 @@ i
 y_‹g
 ;
 
-1943 
+2026 
 m
 ->
 mw
@@ -14795,7 +15375,7 @@ i
 width
 ;
 
-1944 
+2027 
 m
 ->
 mh
@@ -14809,13 +15389,13 @@ i
 height
 ;
 
-1945 
+2028 
 	`upd©eb¨pos
 (
 m
 );
 
-1949 
+2032 
 i
  = 
 ¬
@@ -14823,7 +15403,7 @@ i
 n
 ; i++) {
 
-1950 
+2033 
 m
  = 
 m⁄s
@@ -14831,19 +15411,19 @@ m⁄s
 √xt
 ; m = m->next);
 
-1951 
+2034 
 m
 ->
 ˛õ¡s
 ) {
 
-1952 
+2035 
 dúty
  = 
 True
 ;
 
-1953 
+2036 
 c
  = 
 m
@@ -14851,7 +15431,7 @@ m
 ˛õ¡s
 ;
 
-1954 
+2037 
 m
 ->
 ˛õ¡s
@@ -14861,13 +15441,13 @@ c
 √xt
 ;
 
-1955 
+2038 
 	`dëach°ack
 (
 c
 );
 
-1956 
+2039 
 c
 ->
 m⁄
@@ -14875,53 +15455,53 @@ m⁄
 m⁄s
 ;
 
-1957 
+2040 
 	`©èch
 (
 c
 );
 
-1958 
+2041 
 	`©èch°ack
 (
 c
 );
 
-1960 if(
+2043 if(
 m
  =
 £lm⁄
 )
 
-1961 
+2044 
 £lm⁄
  = 
 m⁄s
 ;
 
-1962 
+2045 
 	`˛ónupm⁄
 (
 m
 );
 
-1965 
+2048 
 	`‰ì
 (
 unique
 );
 
-1971 if(!
+2054 if(!
 m⁄s
 )
 
-1972 
+2055 
 m⁄s
  = 
 	`¸óãm⁄
 ();
 
-1973 if(
+2056 if(
 m⁄s
 ->
 mw
@@ -14933,13 +15513,13 @@ mh
 sh
 ) {
 
-1974 
+2057 
 dúty
  = 
 True
 ;
 
-1975 
+2058 
 m⁄s
 ->
 mw
@@ -14949,7 +15529,7 @@ ww
 sw
 ;
 
-1976 
+2059 
 m⁄s
 ->
 mh
@@ -14959,23 +15539,23 @@ wh
 sh
 ;
 
-1977 
+2060 
 	`upd©eb¨pos
 (
 m⁄s
 );
 
-1980 if(
+2063 if(
 dúty
 ) {
 
-1981 
+2064 
 £lm⁄
  = 
 m⁄s
 ;
 
-1982 
+2065 
 £lm⁄
  = 
 	`wötom⁄
@@ -14983,35 +15563,35 @@ m⁄s
 roŸ
 );
 
-1984  
+2067  
 dúty
 ;
 
-1985 
+2068 
 	}
 }
 
-1988 
+2071 
 	$upd©íumlockmask
 () {
 
-1989 
+2072 
 i
 , 
 j
 ;
 
-1990 
+2073 
 XModifõrKeym≠
  *
 modm≠
 ;
 
-1992 
+2075 
 numlockmask
  = 0;
 
-1993 
+2076 
 modm≠
  = 
 	`XGëModifõrM≠pög
@@ -15019,11 +15599,11 @@ modm≠
 dpy
 );
 
-1994 
+2077 
 i
  = 0; i < 8; i++)
 
-1995 
+2078 
 j
  = 0; j < 
 modm≠
@@ -15031,7 +15611,7 @@ modm≠
 max_key≥rmod
 ; j++)
 
-1996 if(
+2079 if(
 modm≠
 ->
 modifõrm≠
@@ -15043,7 +15623,7 @@ max_key≥rmod
 j
 ]
 
-1997 =
+2080 =
 	`XKeysymToKeycode
 (
 dpy
@@ -15051,23 +15631,23 @@ dpy
 XK_Num_Lock
 ))
 
-1998 
+2081 
 numlockmask
  = (1 << 
 i
 );
 
-1999 
+2082 
 	`XFªeModifõrm≠
 (
 modm≠
 );
 
-2000 
+2083 
 	}
 }
 
-2003 
+2086 
 	$upd©esizehöts
 (
 Clõ¡
@@ -15075,17 +15655,17 @@ Clõ¡
 c
 ) {
 
-2004 
+2087 
 msize
 ;
 
-2005 
+2088 
 XSizeHöts
  
 size
 ;
 
-2007 if(!
+2090 if(!
 	`XGëWMN‹mÆHöts
 (
 dpy
@@ -15099,7 +15679,7 @@ size
 msize
 ))
 
-2009 
+2092 
 size
 .
 Êags
@@ -15107,7 +15687,7 @@ size
 PSize
 ;
 
-2010 if(
+2093 if(
 size
 .
 Êags
@@ -15115,7 +15695,7 @@ size
 PBa£Size
 ) {
 
-2011 
+2094 
 c
 ->
 ba£w
@@ -15125,7 +15705,7 @@ size
 ba£_width
 ;
 
-2012 
+2095 
 c
 ->
 ba£h
@@ -15135,7 +15715,7 @@ size
 ba£_height
 ;
 
-2014 if(
+2097 if(
 size
 .
 Êags
@@ -15143,7 +15723,7 @@ size
 PMöSize
 ) {
 
-2015 
+2098 
 c
 ->
 ba£w
@@ -15153,7 +15733,7 @@ size
 mö_width
 ;
 
-2016 
+2099 
 c
 ->
 ba£h
@@ -15163,7 +15743,7 @@ size
 mö_height
 ;
 
-2019 
+2102 
 c
 ->
 ba£w
@@ -15171,7 +15751,7 @@ ba£w
 ba£h
  = 0;
 
-2020 if(
+2103 if(
 size
 .
 Êags
@@ -15179,7 +15759,7 @@ size
 PResizeInc
 ) {
 
-2021 
+2104 
 c
 ->
 öcw
@@ -15189,7 +15769,7 @@ size
 width_öc
 ;
 
-2022 
+2105 
 c
 ->
 öch
@@ -15199,7 +15779,7 @@ size
 height_öc
 ;
 
-2025 
+2108 
 c
 ->
 öcw
@@ -15207,7 +15787,7 @@ c
 öch
  = 0;
 
-2026 if(
+2109 if(
 size
 .
 Êags
@@ -15215,7 +15795,7 @@ size
 PMaxSize
 ) {
 
-2027 
+2110 
 c
 ->
 maxw
@@ -15225,7 +15805,7 @@ size
 max_width
 ;
 
-2028 
+2111 
 c
 ->
 maxh
@@ -15235,7 +15815,7 @@ size
 max_height
 ;
 
-2031 
+2114 
 c
 ->
 maxw
@@ -15243,7 +15823,7 @@ maxw
 maxh
  = 0;
 
-2032 if(
+2115 if(
 size
 .
 Êags
@@ -15251,7 +15831,7 @@ size
 PMöSize
 ) {
 
-2033 
+2116 
 c
 ->
 möw
@@ -15261,7 +15841,7 @@ size
 mö_width
 ;
 
-2034 
+2117 
 c
 ->
 möh
@@ -15271,7 +15851,7 @@ size
 mö_height
 ;
 
-2036 if(
+2119 if(
 size
 .
 Êags
@@ -15279,7 +15859,7 @@ size
 PBa£Size
 ) {
 
-2037 
+2120 
 c
 ->
 möw
@@ -15289,7 +15869,7 @@ size
 ba£_width
 ;
 
-2038 
+2121 
 c
 ->
 möh
@@ -15299,7 +15879,7 @@ size
 ba£_height
 ;
 
-2041 
+2124 
 c
 ->
 möw
@@ -15307,7 +15887,7 @@ möw
 möh
  = 0;
 
-2042 if(
+2125 if(
 size
 .
 Êags
@@ -15315,7 +15895,7 @@ size
 PA•e˘
 ) {
 
-2043 
+2126 
 c
 ->
 möa
@@ -15329,7 +15909,7 @@ y
 x
 ;
 
-2044 
+2127 
 c
 ->
 maxa
@@ -15343,7 +15923,7 @@ x
 y
 ;
 
-2047 
+2130 
 c
 ->
 maxa
@@ -15351,7 +15931,7 @@ maxa
 möa
  = 0.0;
 
-2048 
+2131 
 c
 ->
 isfixed
@@ -15365,7 +15945,7 @@ maxh
 möh
 
 
-2049 && 
+2132 && 
 c
 ->
 maxw
@@ -15377,11 +15957,11 @@ maxh
 möh
 );
 
-2050 
+2133 
 	}
 }
 
-2053 
+2136 
 	$upd©ëôÀ
 (
 Clõ¡
@@ -15389,7 +15969,7 @@ Clõ¡
 c
 ) {
 
-2054 if(!
+2137 if(!
 	`gëãxçr›
 (
 c
@@ -15403,7 +15983,7 @@ NëWMName
 «me
 ,  c->name))
 
-2055 
+2138 
 	`gëãxçr›
 (
 c
@@ -15415,13 +15995,13 @@ XA_WM_NAME
 «me
 ,  c->name);
 
-2056 if(
+2139 if(
 c
 ->
 «me
 [0] == '\0')
 
-2057 
+2140 
 	`°r˝y
 (
 c
@@ -15431,15 +16011,15 @@ c
 brokí
 );
 
-2058 
+2141 
 	}
 }
 
-2061 
+2144 
 	$upd©e°©us
 () {
 
-2062 if(!
+2145 if(!
 	`gëãxçr›
 (
 roŸ
@@ -15449,7 +16029,7 @@ XA_WM_NAME
 °ext
 , (stext)))
 
-2063 
+2146 
 	`°r˝y
 (
 °ext
@@ -15457,17 +16037,17 @@ XA_WM_NAME
 VERSION
 );
 
-2064 
+2147 
 	`døwb¨
 (
 £lm⁄
 );
 
-2065 
+2148 
 	}
 }
 
-2068 
+2151 
 	$upd©ewödowty≥
 (
 Clõ¡
@@ -15475,7 +16055,7 @@ Clõ¡
 c
 ) {
 
-2069 
+2152 
 Atom
  
 °©e
@@ -15489,7 +16069,7 @@ c
 NëWMSèã
 ]);
 
-2070 
+2153 
 Atom
  
 wty≥
@@ -15503,7 +16083,7 @@ c
 NëWMWödowTy≥
 ]);
 
-2072 if(
+2155 if(
 °©e
  =
 √ètom
@@ -15511,7 +16091,7 @@ NëWMWödowTy≥
 NëWMFuŒs¸ìn
 ])
 
-2073 
+2156 
 	`£tfuŒs¸ìn
 (
 c
@@ -15519,7 +16099,7 @@ c
 True
 );
 
-2075 if(
+2158 if(
 wty≥
  =
 √ètom
@@ -15527,7 +16107,7 @@ wty≥
 NëWMWödowTy≥Dülog
 ])
 
-2076 
+2159 
 c
 ->
 isÊﬂtög
@@ -15535,11 +16115,11 @@ isÊﬂtög
 True
 ;
 
-2077 
+2160 
 	}
 }
 
-2080 
+2163 
 	$upd©ewmhöts
 (
 Clõ¡
@@ -15547,13 +16127,13 @@ Clõ¡
 c
 ) {
 
-2081 
+2164 
 XWMHöts
  *
 wmh
 ;
 
-2083 if((
+2166 if((
 wmh
  = 
 	`XGëWMHöts
@@ -15565,7 +16145,7 @@ c
 wö
 ))) {
 
-2084 if(
+2167 if(
 c
  =
 £lm⁄
@@ -15579,7 +16159,7 @@ wmh
 XUrgícyHöt
 ) {
 
-2085 
+2168 
 wmh
 ->
 Êags
@@ -15587,7 +16167,7 @@ wmh
 XUrgícyHöt
 ;
 
-2086 
+2169 
 	`XSëWMHöts
 (
 dpy
@@ -15599,7 +16179,7 @@ wö
 wmh
 );
 
-2089 
+2172 
 c
 ->
 isurgít
@@ -15615,7 +16195,7 @@ True
 FÆ£
 ;
 
-2090 if(
+2173 if(
 wmh
 ->
 Êags
@@ -15623,7 +16203,7 @@ wmh
 I≈utHöt
 )
 
-2091 
+2174 
 c
 ->
 √vîfocus
@@ -15633,7 +16213,7 @@ wmh
 öput
 ;
 
-2093 
+2176 
 c
 ->
 √vîfocus
@@ -15641,17 +16221,17 @@ c
 FÆ£
 ;
 
-2094 
+2177 
 	`XFªe
 (
 wmh
 );
 
-2096 
+2179 
 	}
 }
 
-2099 
+2182 
 	$võw
 (c⁄° 
 Arg
@@ -15659,7 +16239,7 @@ Arg
 ¨g
 ) {
 
-2100 if((
+2183 if((
 ¨g
 ->
 ui
@@ -15673,13 +16253,13 @@ TAGMASK
 £…ags
 ])
 
-2102 
+2185 
 £lm⁄
 ->
 £…ags
  ^= 1;
 
-2103 if(
+2186 if(
 ¨g
 ->
 ui
@@ -15687,7 +16267,7 @@ ui
 TAGMASK
 )
 
-2104 
+2187 
 £lm⁄
 ->
 èg£t
@@ -15701,27 +16281,27 @@ ui
 TAGMASK
 ;
 
-2105 
+2188 
 	`focus
 (
 NULL
 );
 
-2106 
+2189 
 	`¨ønge
 (
 £lm⁄
 );
 
-2107 
+2190 
 	}
 }
 
-2109 
+2192 
 Clõ¡
  *
 
-2110 
+2193 
 	$wöto˛õ¡
 (
 Wödow
@@ -15729,19 +16309,19 @@ Wödow
 w
 ) {
 
-2111 
+2194 
 Clõ¡
  *
 c
 ;
 
-2112 
+2195 
 M⁄ô‹
  *
 m
 ;
 
-2114 
+2197 
 m
  = 
 m⁄s
@@ -15749,7 +16329,7 @@ m⁄s
 √xt
 )
 
-2115 
+2198 
 c
  = 
 m
@@ -15759,7 +16339,7 @@ m
 √xt
 )
 
-2116 if(
+2199 if(
 c
 ->
 wö
@@ -15767,23 +16347,23 @@ wö
 w
 )
 
-2117  
+2200  
 c
 ;
 
-2118  
+2201  
 NULL
 ;
 
-2119 
+2202 
 	}
 }
 
-2121 
+2204 
 M⁄ô‹
  *
 
-2122 
+2205 
 	$wötom⁄
 (
 Wödow
@@ -15791,25 +16371,25 @@ Wödow
 w
 ) {
 
-2123 
+2206 
 x
 , 
 y
 ;
 
-2124 
+2207 
 Clõ¡
  *
 c
 ;
 
-2125 
+2208 
 M⁄ô‹
  *
 m
 ;
 
-2127 if(
+2210 if(
 w
  =
 roŸ
@@ -15821,7 +16401,7 @@ x
 y
 ))
 
-2128  
+2211  
 	`ª˘tom⁄
 (
 x
@@ -15829,7 +16409,7 @@ x
 y
 , 1, 1);
 
-2129 
+2212 
 m
  = 
 m⁄s
@@ -15837,7 +16417,7 @@ m⁄s
 √xt
 )
 
-2130 if(
+2213 if(
 w
  =
 m
@@ -15845,11 +16425,11 @@ m
 b¨wö
 )
 
-2131  
+2214  
 m
 ;
 
-2132 if((
+2215 if((
 c
  = 
 	`wöto˛õ¡
@@ -15857,21 +16437,21 @@ c
 w
 )))
 
-2133  
+2216  
 c
 ->
 m⁄
 ;
 
-2134  
+2217  
 £lm⁄
 ;
 
-2135 
+2218 
 	}
 }
 
-2141 
+2224 
 	$xîr‹
 (
 Di•œy
@@ -15883,7 +16463,7 @@ XEº‹Evít
 ì
 ) {
 
-2142 if(
+2225 if(
 ì
 ->
 îr‹_code
@@ -15891,7 +16471,7 @@ XEº‹Evít
 BadWödow
 
 
-2143 || (
+2226 || (
 ì
 ->
 ªque°_code
@@ -15903,7 +16483,7 @@ X_SëI≈utFocus
 BadM©ch
 )
 
-2144 || (
+2227 || (
 ì
 ->
 ªque°_code
@@ -15915,7 +16495,7 @@ X_PﬁyText8
 BadDøwabÀ
 )
 
-2145 || (
+2228 || (
 ì
 ->
 ªque°_code
@@ -15927,7 +16507,7 @@ X_PﬁyFûlRe˘™gÀ
 BadDøwabÀ
 )
 
-2146 || (
+2229 || (
 ì
 ->
 ªque°_code
@@ -15939,7 +16519,7 @@ X_PﬁySegmít
 BadDøwabÀ
 )
 
-2147 || (
+2230 || (
 ì
 ->
 ªque°_code
@@ -15951,7 +16531,7 @@ X_C⁄figuªWödow
 BadM©ch
 )
 
-2148 || (
+2231 || (
 ì
 ->
 ªque°_code
@@ -15963,7 +16543,7 @@ X_GøbBuâ⁄
 BadAc˚ss
 )
 
-2149 || (
+2232 || (
 ì
 ->
 ªque°_code
@@ -15975,7 +16555,7 @@ X_GøbKey
 BadAc˚ss
 )
 
-2150 || (
+2233 || (
 ì
 ->
 ªque°_code
@@ -15987,13 +16567,13 @@ X_C›yAªa
 BadDøwabÀ
 ))
 
-2152 
+2235 
 	`Ârötf
 (
 °dîr
 , "dwm: fatalÉrror:Ñequest code=%d,Érror code=%d\n",
 
-2153 
+2236 
 ì
 ->
 ªque°_code
@@ -16001,7 +16581,7 @@ BadDøwabÀ
 îr‹_code
 );
 
-2154  
+2237  
 	`xîr‹xlib
 (
 dpy
@@ -16009,11 +16589,11 @@ dpy
 ì
 );
 
-2155 
+2238 
 	}
 }
 
-2158 
+2241 
 	$xîr‹dummy
 (
 Di•œy
@@ -16025,11 +16605,11 @@ XEº‹Evít
 ì
 ) {
 
-2160 
+2243 
 	}
 }
 
-2165 
+2248 
 	$xîr‹°¨t
 (
 Di•œy
@@ -16041,15 +16621,15 @@ XEº‹Evít
 ì
 ) {
 
-2166 
+2249 
 	`dõ
 ("dwm:ánother window manager isálreadyÑunning\n");
 
-2168 
+2251 
 	}
 }
 
-2171 
+2254 
 	$zoom
 (c⁄° 
 Arg
@@ -16057,7 +16637,7 @@ Arg
 ¨g
 ) {
 
-2172 
+2255 
 Clõ¡
  *
 c
@@ -16067,7 +16647,7 @@ c
 £l
 ;
 
-2174 if(!
+2257 if(!
 £lm⁄
 ->
 …
@@ -16077,7 +16657,7 @@ c
 ¨ønge
 
 
-2175 || (
+2258 || (
 £lm⁄
 ->
 £l
@@ -16085,7 +16665,7 @@ c
 isÊﬂtög
 ))
 
-2177 if(
+2260 if(
 c
  =
 	`√xâûed
@@ -16095,7 +16675,7 @@ c
 ˛õ¡s
 ))
 
-2178 if(!
+2261 if(!
 c
  || !(¯
 	`√xâûed
@@ -16103,17 +16683,17 @@ c
 √xt
 )))
 
-2180 
+2263 
 	`p›
 (
 c
 );
 
-2181 
+2264 
 	}
 }
 
-2184 
+2267 
 	$maö
 (
 ¨gc
@@ -16121,7 +16701,7 @@ c
 ¨gv
 []) {
 
-2185 if(
+2268 if(
 ¨gc
  =2 && !
 	`°rcmp
@@ -16129,21 +16709,21 @@ c
 ¨gv
 [1]))
 
-2186 
+2269 
 	`dõ
 ("dwm-"
 VERSION
 ", ¬© 2006-2011 dwmÉngineers, see LICENSE for details\n");
 
-2187 if(
+2270 if(
 ¨gc
  != 1)
 
-2188 
+2271 
 	`dõ
 ("usage: dwm [-v]\n");
 
-2189 if(!
+2272 if(!
 	`£éoˇÀ
 (
 LC_CTYPE
@@ -16151,13 +16731,13 @@ LC_CTYPE
 	`XSuµ‹tsLoˇÀ
 ())
 
-2190 
+2273 
 	`Âuts
 ("w¨nög:ÇÿloˇÀ suµ‹t\n", 
 °dîr
 );
 
-2191 if(!(
+2274 if(!(
 dpy
  = 
 	`XO≥nDi•œy
@@ -16165,41 +16745,41 @@ dpy
 NULL
 )))
 
-2192 
+2275 
 	`dõ
 ("dwm: cannot open display\n");
 
-2193 
+2276 
 	`checkŸhîwm
 ();
 
-2194 
+2277 
 	`£tup
 ();
 
-2195 
+2278 
 	`sˇn
 ();
 
-2196 
+2279 
 	`run
 ();
 
-2197 
+2280 
 	`˛ónup
 ();
 
-2198 
+2281 
 	`XClo£Di•œy
 (
 dpy
 );
 
-2199  
+2282  
 EXIT_SUCCESS
 ;
 
-2200 
+2283 
 	}
 }
 
@@ -56557,47 +57137,51 @@ __END_DECLS
 
 	@config.h
 
-8 c⁄° 
+10 c⁄° 
 	gf⁄t
 [] = "-*-terminus-medium-r-*-*-16-*-*-*-*-*-*-*";
 
-9 c⁄° 
+11 c⁄° 
 	gn‹mb‹dîcﬁ‹
 [] = "#444444";
 
-10 c⁄° 
+12 c⁄° 
 	gn‹mbgcﬁ‹
 [] = "#222222";
 
-11 c⁄° 
+13 c⁄° 
 	gn‹mfgcﬁ‹
 [] = "#bbbbbb";
 
-12 c⁄° 
+14 c⁄° 
 	g£lb‹dîcﬁ‹
 [] = "#005577";
 
-13 c⁄° 
+15 c⁄° 
 	g£lbgcﬁ‹
 [] = "#005577";
 
-14 c⁄° 
+16 c⁄° 
 	g£lfgcﬁ‹
 [] = "#eeeeee";
 
-15 c⁄° 
+17 c⁄° 
 	gb‹dîpx
  = 3;
 
-16 c⁄° 
+18 c⁄° 
 	gg≠px
  = 6;
 
-17 c⁄° 
+19 c⁄° 
 	g¢≠
  = 32;
 
-18 c⁄° 
+20 c⁄° 
+	gmöwsz
+ = 20;
+
+21 c⁄° 
 Boﬁ
  
 	gshowb¨
@@ -56605,7 +57189,7 @@ Boﬁ
 True
 ;
 
-19 c⁄° 
+22 c⁄° 
 Boﬁ
  
 	gt›b¨
@@ -56613,139 +57197,143 @@ Boﬁ
 True
 ;
 
-22 c⁄° *
+25 c⁄° *
 	gègs
 [] = { "1", "2", "3", "4", "5", "6", "7", "8", "9" };
 
-24 c⁄° 
+27 c⁄° 
 RuÀ
  
 	gruÀs
 [] = {
 
-26 { "URxvt", 
+29 { "URxvt", 
 NULL
 , "øngî", 1 << 1, 
 FÆ£
 , -1 },
 
-27 { "Thu«r", 
+30 { "Thu«r", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-28 { "Pidgö", 
+31 { "Pidgö", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-29 { "f⁄tf‹ge", 
+32 { "f⁄tf‹ge", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-30 { "Bcom∑ª", 
+33 { "Bcom∑ª", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-31 { "LóÂad", 
+34 { "LóÂad", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-32 { "Lx≠≥¨™˚", 
+35 { "Lx≠≥¨™˚", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-33 { "E˛ù£", 
+36 { "E˛ù£", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-34 { "Evö˚", 
+37 { "Evö˚", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-35 { "FBRódî", 
+38 { "FBRódî", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-36 { "Fúefox", 
+39 { "Fúefox", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-37 { "Chromium", 
+40 { "Chromium", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-38 { "luakô", 
+41 { "luakô", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-39 { "Gimp", 
+42 { "Gimp", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-40 { "Ario", 
+43 { "Ario", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-41 { "Q∑eq", 
+44 { "Q∑eq", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-42 { "D¨kèbÀ", 
+45 { "D¨kèbÀ", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-43 { "Pavuc⁄åﬁ", 
+46 { "Pavuc⁄åﬁ", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-44 { "Sm∂ayî", 
+47 { "Sm∂ayî", 
 NULL
 , NULL, 1 << 1, 
 FÆ£
 , -1 },
 
-48 c⁄° 
+51 c⁄° 
 	gmÁ˘
  = 0.55;
 
-49 c⁄° 
+52 c⁄° 
+	gsmÁ˘
+ = 0.00;
+
+53 c⁄° 
 	gnma°î
  = 1;
 
-50 c⁄° 
+54 c⁄° 
 Boﬁ
  
 	gªsizehöts
@@ -56753,25 +57341,25 @@ Boﬁ
 FÆ£
 ;
 
-52 c⁄° 
+56 c⁄° 
 Layout
  
 	gœyouts
 [] = {
 
-54 { "[]=", 
+58 { "[]=", 
 tûe
  },
 
-55 { "><>", 
+59 { "><>", 
 NULL
  },
 
-56 { "[M]", 
+60 { "[M]", 
 m⁄o˛e
  },
 
-60 
+64 
 	#MODKEY
  
 Mod4Mask
@@ -56779,7 +57367,7 @@ Mod4Mask
 
 	)
 
-61 
+65 
 	#A…Mask
  
 Mod1Mask
@@ -56787,7 +57375,7 @@ Mod1Mask
 
 	)
 
-62 
+66 
 	#TAGKEYS
 (
 KEY
@@ -56795,7 +57383,7 @@ KEY
 TAG
 ) \
 
-63 { 
+67 { 
 MODKEY
 , 
 KEY
@@ -56807,7 +57395,7 @@ ui
 TAG
 } }, \
 
-64 { 
+68 { 
 MODKEY
 |
 C⁄åﬁMask
@@ -56821,7 +57409,7 @@ ui
 TAG
 } }, \
 
-65 { 
+69 { 
 MODKEY
 |
 Shi·Mask
@@ -56835,7 +57423,7 @@ ui
 TAG
 } }, \
 
-66 { 
+70 { 
 MODKEY
 |
 C⁄åﬁMask
@@ -56853,7 +57441,7 @@ TAG
 
 	)
 
-69 
+73 
 	#SHCMD
 (
 cmd
@@ -56865,7 +57453,7 @@ NULL
 
 	)
 
-72 c⁄° *
+76 c⁄° *
 	gdmíucmd
 [] = { "dmíu_run", "-‚", 
 f⁄t
@@ -56881,103 +57469,103 @@ n‹mfgcﬁ‹
 NULL
  };
 
-73 c⁄° *
+77 c⁄° *
 	gãrmcmd
 [] = { "urxvtc", 
 NULL
  };
 
-74 c⁄° *
+78 c⁄° *
 	gøngîcmd
 [] = { "urxvtc", "-e", "øngî", 
 NULL
  };
 
-75 c⁄° *
+79 c⁄° *
 	gthu«rcmd
 [] = { "thu«r", 
 NULL
  };
 
-76 c⁄° *
+80 c⁄° *
 	gthu«rsucmd
 [] = { "gksu", "thu«r", 
 NULL
  };
 
-77 c⁄° *
+81 c⁄° *
 	gs¸Ÿcmd
 [] = { "s¸Ÿ", "-q", "100", "-e", "mv\ $f\ ~/img/s¸ìnshŸs", 
 NULL
  };
 
-78 c⁄° *
+82 c⁄° *
 	glocks¸ìncmd
 [] = { "xs¸ìnßvî-comm™d", "--lock", 
 NULL
  };
 
-79 c⁄° *
+83 c⁄° *
 	gmpd∂aycmd
 [] = { "mpd∂ay", 
 NULL
  };
 
-80 c⁄° *
+84 c⁄° *
 	gdwmmíucmd
 [] = { "dwm-míu", 
 NULL
  };
 
-81 c⁄° *
+85 c⁄° *
 	gaudiomuãvﬁcmd
 [] = { "amixî", "-q", "£t", "Ma°î", "toggÀ", 
 NULL
  };
 
-82 c⁄° *
+86 c⁄° *
 	gaudiodecvﬁcmd
 [] = { "amixî", "-q", "£t", "Ma°î", "5%-", 
 NULL
  };
 
-83 c⁄° *
+87 c⁄° *
 	gaudioöcvﬁcmd
 [] = { "amixî", "-q", "£t", "Ma°î", "5%+", 
 NULL
  };
 
-84 c⁄° *
+88 c⁄° *
 	gmp˘oggÀcmd
 [] = { "mpc", "toggÀ", 
 NULL
  };
 
-85 c⁄° *
+89 c⁄° *
 	gmpc°›cmd
 [] = { "mpc", "°›", 
 NULL
  };
 
-86 c⁄° *
+90 c⁄° *
 	gmp˝ªvcmd
 [] = { "mpc", "¥ev", 
 NULL
  };
 
-87 c⁄° *
+91 c⁄° *
 	gmp˙extcmd
 [] = { "mpc", "√xt", 
 NULL
  };
 
-89 
+93 
 Key
  
 	gkeys
 [] = {
 
-91 { 
+95 { 
 MODKEY
 , 
 XK_p
@@ -56989,7 +57577,7 @@ v
 dmíucmd
  } },
 
-92 { 
+96 { 
 	gMODKEY
 |
 	gShi·Mask
@@ -57003,7 +57591,7 @@ dmíucmd
 ãrmcmd
  } },
 
-93 { 
+97 { 
 	gMODKEY
 , 
 	gXK_e
@@ -57015,7 +57603,7 @@ dmíucmd
 øngîcmd
  } },
 
-94 { 
+98 { 
 	gMODKEY
 , 
 	gXK_w
@@ -57027,7 +57615,7 @@ dmíucmd
 thu«rcmd
  } },
 
-95 { 
+99 { 
 	gMODKEY
 |
 	gShi·Mask
@@ -57041,7 +57629,7 @@ thu«rcmd
 thu«rsucmd
  } },
 
-96 { 0, 0xff61, 
+100 { 0, 0xff61, 
 	g•awn
 , {.
 	gv
@@ -57049,7 +57637,7 @@ thu«rsucmd
 s¸Ÿcmd
  } },
 
-97 { 
+101 { 
 	gC⁄åﬁMask
 |
 	gA…Mask
@@ -57063,7 +57651,7 @@ s¸Ÿcmd
 locks¸ìncmd
  } },
 
-98 { 
+102 { 
 	gMODKEY
 , 
 	gXK_o
@@ -57075,7 +57663,7 @@ locks¸ìncmd
 mpd∂aycmd
  } },
 
-99 { 
+103 { 
 	gMODKEY
 , 
 	gXK_gøve
@@ -57087,7 +57675,7 @@ mpd∂aycmd
 dwmmíucmd
  } },
 
-100 { 0, 0x1008ff11, 
+104 { 0, 0x1008ff11, 
 	g•awn
 , {.
 	gv
@@ -57095,7 +57683,7 @@ dwmmíucmd
 audiodecvﬁcmd
  } },
 
-101 { 0, 0x1008ff12, 
+105 { 0, 0x1008ff12, 
 	g•awn
 , {.
 	gv
@@ -57103,7 +57691,7 @@ audiodecvﬁcmd
 audiomuãvﬁcmd
  } },
 
-102 { 0, 0x1008ff13, 
+106 { 0, 0x1008ff13, 
 	g•awn
 , {.
 	gv
@@ -57111,7 +57699,7 @@ audiomuãvﬁcmd
 audioöcvﬁcmd
  } },
 
-103 { 0, 0x1008ff14, 
+107 { 0, 0x1008ff14, 
 	g•awn
 , {.
 	gv
@@ -57119,7 +57707,7 @@ audioöcvﬁcmd
 mp˘oggÀcmd
  } },
 
-104 { 0, 0x1008ff15, 
+108 { 0, 0x1008ff15, 
 	g•awn
 , {.
 	gv
@@ -57127,7 +57715,7 @@ mp˘oggÀcmd
 mpc°›cmd
  } },
 
-105 { 0, 0x1008ff16, 
+109 { 0, 0x1008ff16, 
 	g•awn
 , {.
 	gv
@@ -57135,7 +57723,7 @@ mpc°›cmd
 mp˝ªvcmd
  } },
 
-106 { 0, 0x1008ff17, 
+110 { 0, 0x1008ff17, 
 	g•awn
 , {.
 	gv
@@ -57143,7 +57731,7 @@ mp˝ªvcmd
 mp˙extcmd
  } },
 
-107 { 
+111 { 
 	gMODKEY
 , 
 	gXK_b
@@ -57151,7 +57739,7 @@ mp˙extcmd
 	gtoggÀb¨
 , {0} },
 
-108 { 
+112 { 
 	gMODKEY
 , 
 	gXK_j
@@ -57161,7 +57749,7 @@ mp˙extcmd
 	gi
  = +1 } },
 
-109 { 
+113 { 
 	gMODKEY
 , 
 	gXK_k
@@ -57171,7 +57759,31 @@ mp˙extcmd
 	gi
  = -1 } },
 
-110 { 
+114 { 
+	gMODKEY
+|
+	gShi·Mask
+, 
+	gXK_j
+, 
+	gmove°ack
+, {.
+	gi
+ = +1 } },
+
+115 { 
+	gMODKEY
+|
+	gShi·Mask
+, 
+	gXK_k
+, 
+	gmove°ack
+, {.
+	gi
+ = -1 } },
+
+116 { 
 	gMODKEY
 , 
 	gXK_i
@@ -57181,7 +57793,7 @@ mp˙extcmd
 	gi
  = +1 } },
 
-111 { 
+117 { 
 	gMODKEY
 , 
 	gXK_d
@@ -57191,7 +57803,7 @@ mp˙extcmd
 	gi
  = -1 } },
 
-112 { 
+118 { 
 	gMODKEY
 , 
 	gXK_h
@@ -57201,7 +57813,7 @@ mp˙extcmd
 	gf
  = -0.05} },
 
-113 { 
+119 { 
 	gMODKEY
 , 
 	gXK_l
@@ -57211,7 +57823,31 @@ mp˙extcmd
 	gf
  = +0.05} },
 
-114 { 
+120 { 
+	gMODKEY
+|
+	gShi·Mask
+, 
+	gXK_h
+, 
+	g£tsmÁ˘
+, {.
+	gf
+ = +0.05} },
+
+121 { 
+	gMODKEY
+|
+	gShi·Mask
+, 
+	gXK_l
+, 
+	g£tsmÁ˘
+, {.
+	gf
+ = -0.05} },
+
+122 { 
 	gMODKEY
 , 
 	gXK_Rëu∫
@@ -57219,7 +57855,7 @@ mp˙extcmd
 	gzoom
 , {0} },
 
-115 { 
+123 { 
 	gMODKEY
 , 
 	gXK_Tab
@@ -57227,7 +57863,7 @@ mp˙extcmd
 	gvõw
 , {0} },
 
-116 { 
+124 { 
 	gMODKEY
 |
 	gShi·Mask
@@ -57237,7 +57873,7 @@ mp˙extcmd
 	gkûl˛õ¡
 , {0} },
 
-117 { 
+125 { 
 	gMODKEY
 , 
 	gXK_t
@@ -57249,7 +57885,7 @@ mp˙extcmd
 œyouts
 [0]} },
 
-118 { 
+126 { 
 	gMODKEY
 , 
 	gXK_f
@@ -57261,7 +57897,7 @@ mp˙extcmd
 œyouts
 [1]} },
 
-119 { 
+127 { 
 	gMODKEY
 , 
 	gXK_m
@@ -57273,7 +57909,7 @@ mp˙extcmd
 œyouts
 [2]} },
 
-120 { 
+128 { 
 	gMODKEY
 , 
 	gXK_•a˚
@@ -57281,7 +57917,7 @@ mp˙extcmd
 	g£éayout
 , {0} },
 
-121 { 
+129 { 
 	gMODKEY
 |
 	gShi·Mask
@@ -57291,7 +57927,7 @@ mp˙extcmd
 	gtoggÀÊﬂtög
 , {0} },
 
-122 { 
+130 { 
 	gMODKEY
 , 
 	gXK_0
@@ -57301,7 +57937,7 @@ mp˙extcmd
 	gui
  = ~0 } },
 
-123 { 
+131 { 
 	gMODKEY
 |
 	gShi·Mask
@@ -57313,7 +57949,7 @@ mp˙extcmd
 	gui
  = ~0 } },
 
-124 { 
+132 { 
 	gMODKEY
 , 
 	gXK_comma
@@ -57323,7 +57959,7 @@ mp˙extcmd
 	gi
  = -1 } },
 
-125 { 
+133 { 
 	gMODKEY
 , 
 	gXK_≥riod
@@ -57333,7 +57969,7 @@ mp˙extcmd
 	gi
  = +1 } },
 
-126 { 
+134 { 
 	gMODKEY
 |
 	gShi·Mask
@@ -57345,7 +57981,7 @@ mp˙extcmd
 	gi
  = -1 } },
 
-127 { 
+135 { 
 	gMODKEY
 |
 	gShi·Mask
@@ -57357,61 +57993,61 @@ mp˙extcmd
 	gi
  = +1 } },
 
-128 
+136 
 TAGKEYS
 –
 XK_1
 , 0)
 
-129 
+137 
 TAGKEYS
 –
 XK_2
 , 1)
 
-130 
+138 
 TAGKEYS
 –
 XK_3
 , 2)
 
-131 
+139 
 TAGKEYS
 –
 XK_4
 , 3)
 
-132 
+140 
 TAGKEYS
 –
 XK_5
 , 4)
 
-133 
+141 
 TAGKEYS
 –
 XK_6
 , 5)
 
-134 
+142 
 TAGKEYS
 –
 XK_7
 , 6)
 
-135 
+143 
 TAGKEYS
 –
 XK_8
 , 7)
 
-136 
+144 
 TAGKEYS
 –
 XK_9
 , 8)
 
-137 { 
+145 { 
 	gMODKEY
 |
 	gShi·Mask
@@ -57421,13 +58057,13 @@ XK_9
 	gquô
 , {0} },
 
-142 
+150 
 Buâ⁄
  
 	gbuâ⁄s
 [] = {
 
-144 { 
+152 { 
 ClkLtSymbﬁ
 , 0, 
 Buâ⁄1
@@ -57435,7 +58071,7 @@ Buâ⁄1
 £éayout
 , {0} },
 
-145 { 
+153 { 
 ClkLtSymbﬁ
 , 0, 
 Buâ⁄3
@@ -57447,7 +58083,7 @@ v
 œyouts
 [2]} },
 
-146 { 
+154 { 
 	gClkWöTôÀ
 , 0, 
 	gBuâ⁄2
@@ -57455,7 +58091,7 @@ v
 	gzoom
 , {0} },
 
-147 { 
+155 { 
 	gClkSètusText
 , 0, 
 	gBuâ⁄2
@@ -57467,7 +58103,7 @@ v
 ãrmcmd
  } },
 
-148 { 
+156 { 
 	gClkClõ¡Wö
 , 
 	gMODKEY
@@ -57477,7 +58113,7 @@ v
 	gmovemou£
 , {0} },
 
-149 { 
+157 { 
 	gClkClõ¡Wö
 , 
 	gMODKEY
@@ -57487,7 +58123,7 @@ v
 	gtoggÀÊﬂtög
 , {0} },
 
-150 { 
+158 { 
 	gClkClõ¡Wö
 , 
 	gMODKEY
@@ -57497,7 +58133,7 @@ v
 	gªsizemou£
 , {0} },
 
-151 { 
+159 { 
 	gClkTagB¨
 , 0, 
 	gBuâ⁄1
@@ -57505,7 +58141,7 @@ v
 	gvõw
 , {0} },
 
-152 { 
+160 { 
 	gClkTagB¨
 , 0, 
 	gBuâ⁄3
@@ -57513,7 +58149,7 @@ v
 	gtoggÀvõw
 , {0} },
 
-153 { 
+161 { 
 	gClkTagB¨
 , 
 	gMODKEY
@@ -57523,7 +58159,7 @@ v
 	gèg
 , {0} },
 
-154 { 
+162 { 
 	gClkTagB¨
 , 
 	gMODKEY
