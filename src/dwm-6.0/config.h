@@ -4,6 +4,7 @@
  * - uselessgap : gaps on clients for aesthetic purposes (on)
  * - smfact : enable resizing the clients on the stack (on)
  * - movestack : enable moving clients on the stack (on)
+ * - bottombar : add another status bar on the bottom (off)
  */
 
 /* appearance */
@@ -20,6 +21,7 @@ static const unsigned int snap      = 32;       /* snap pixel */
 static const unsigned int minwsz    = 20;       /* minimal height of a client */
 static const Bool showbar           = True;     /* False means no bar */
 static const Bool topbar            = True;     /* False means bottom bar */
+static const Bool extrabar          = False;     /* False means no extra bar */
 
 /* tagging */
 static const char *tags[] = { "1", "2", "3", "4", "5", "6", "7", "8", "9" };
@@ -109,6 +111,7 @@ static Key keys[] = {
 	{ 0,                            0x1008ff16,  spawn,          {.v = mpcprevcmd } },
 	{ 0,                            0x1008ff17,  spawn,          {.v = mpcnextcmd } },
 	{ MODKEY,                       XK_b,        togglebar,      {0} },
+	/* { MODKEY,                       XK_b,        toggleextrabar, {0} }, */
 	{ MODKEY,                       XK_j,        focusstack,     {.i = +1 } },
 	{ MODKEY,                       XK_k,        focusstack,     {.i = -1 } },
 	{ MODKEY|ShiftMask,             XK_j,        movestack,      {.i = +1 } },

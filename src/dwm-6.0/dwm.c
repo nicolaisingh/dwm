@@ -25,6 +25,7 @@
  * - combo : enable displaying clients on more than 1 tag (off)
  * - smfact : enable resizing the clients on the stack (on)
  * - movestack : enable moving clients on the stack (on)
+ * - bottombar : add another status bar on the bottom (off)
  */
 #include <errno.h>
 #include <locale.h>
@@ -162,6 +163,13 @@ typedef struct {
 	int monitor;
 } Rule;
 
+typedef struct {
+	int y;
+	Bool show;
+	Window win;
+	char text[256];
+} Bar;
+
 /* function declarations */
 static void applyrules(Client *c);
 static Bool applysizehints(Client *c, int *x, int *y, int *w, int *h, Bool interact);
@@ -239,6 +247,7 @@ static void tagmon(const Arg *arg);
 static int textnw(const char *text, unsigned int len);
 static void tile(Monitor *);
 static void togglebar(const Arg *arg);
+static void toggleextrabar(const Arg *arg);
 static void togglefloating(const Arg *arg);
 static void toggletag(const Arg *arg);
 static void toggleview(const Arg *arg);
@@ -300,6 +309,7 @@ static Monitor *mons = NULL, *selmon = NULL;
 static Window root;
 static int globalborder;
 static int combo = 0;
+static Bar eb;
 
 /* configuration, allows nested code to access above variables */
 #include "config.h"
@@ -546,6 +556,8 @@ cleanup(void) {
 	XFreeCursor(dpy, cursor[CurNormal]);
 	XFreeCursor(dpy, cursor[CurResize]);
 	XFreeCursor(dpy, cursor[CurMove]);
+	XUnmapWindow(dpy, eb.win);
+	XDestroyWindow(dpy, eb.win);
 	while(mons)
 		cleanupmon(mons);
 	XSync(dpy, False);
@@ -635,6 +647,7 @@ configurenotify(XEvent *e) {
 			updatebars();
 			for(m = mons; m; m = m->next)
 				XMoveResizeWindow(dpy, m->barwin, m->wx, m->by, m->ww, bh);
+			XMoveResizeWindow(dpy, eb.win, mons->wx, eb.y, mons->ww, bh);
 			focus(NULL);
 			arrange(NULL);
 		}
@@ -814,6 +827,10 @@ drawbar(Monitor *m) {
 			drawtext(NULL, dc.norm, False);
 	}
 	XCopyArea(dpy, dc.drawable, m->barwin, dc.gc, 0, 0, m->ww, bh, 0, 0);
+	dc.x = 0;
+	dc.w = m->ww;
+	drawtext(eb.text, dc.norm, False);
+	XCopyArea(dpy, dc.drawable, eb.win, dc.gc, 0, 0, m->ww, bh, 0, 0);
 	XSync(dpy, False);
 }
 
@@ -1717,6 +1734,7 @@ setup(void) {
 	sw = DisplayWidth(dpy, screen);
 	sh = DisplayHeight(dpy, screen);
 	bh = dc.h = dc.font.height + 2;
+	eb.show = extrabar;
 	updategeom();
 	/* init atoms */
 	wmatom[WMProtocols] = XInternAtom(dpy, "WM_PROTOCOLS", False);
@@ -1871,6 +1889,15 @@ togglebar(const Arg *arg) {
 	XMoveResizeWindow(dpy, selmon->barwin, selmon->wx, selmon->by, selmon->ww, bh);
 	arrange(selmon);
 }
+void
+toggleextrabar(const Arg *arg) {
+	if(selmon == mons) {
+		eb.show = !eb.show;
+		updatebarpos(selmon);
+		XMoveResizeWindow(dpy, eb.win, selmon->wx, eb.y, selmon->ww, bh);
+		arrange(selmon);
+	}
+}
 
 void
 togglefloating(const Arg *arg) {
@@ -1970,6 +1997,13 @@ updatebars(void) {
 		XDefineCursor(dpy, m->barwin, cursor[CurNormal]);
 		XMapRaised(dpy, m->barwin);
 	}
+	if(!eb.win) {
+		eb.win = XCreateWindow(dpy, root, mons->wx, eb.y, mons->ww, bh, 0, DefaultDepth(dpy, screen),
+		                       CopyFromParent, DefaultVisual(dpy, screen),
+		                       CWOverrideRedirect|CWBackPixmap|CWEventMask, &wa);
+		XDefineCursor(dpy, eb.win, cursor[CurNormal]);
+		XMapRaised(dpy, eb.win);
+	}
 }
 
 void
@@ -1983,6 +2017,13 @@ updatebarpos(Monitor *m) {
 	}
 	else
 		m->by = -bh;
+	if(m == mons && eb.show) {
+		m->wh -= bh;
+		eb.y = topbar ? m->wy + m->wh : m->wy;
+		m->wy = m->topbar ? m->wy : m->wy + bh;
+	}
+	else
+		eb.y = -bh;
 }
 
 Bool
@@ -2142,8 +2183,21 @@ updatetitle(Client *c) {
 
 void
 updatestatus(void) {
-	if(!gettextprop(root, XA_WM_NAME, stext, sizeof(stext)))
+	char text[512];
+	if(!gettextprop(root, XA_WM_NAME, text, sizeof(text))) {
 		strcpy(stext, "dwm-"VERSION);
+		eb.text[0] = '\0';
+	}
+	else {
+		char *e = strchr(text, ';');
+		if(e) {
+			*e = '\0'; e++;
+			strncpy(eb.text, e, sizeof(eb.text)-1);
+		}
+		else
+			eb.text[0] = '\0';
+		strncpy(stext, text, sizeof(stext)-1);
+	}
 	drawbar(selmon);
 }
 
