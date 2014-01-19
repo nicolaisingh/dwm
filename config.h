@@ -1,7 +1,7 @@
 /* See LICENSE file for copyright and license details. */
 
 /* Patches applied:
- * - uselessgap
+ * - uselessgap : gaps on clients for aesthetic purposes
  */
 
 /* appearance */
