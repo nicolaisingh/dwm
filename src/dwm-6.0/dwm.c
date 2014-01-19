@@ -21,8 +21,8 @@
  * To understand everything else, start reading main().
  *
  * Patches applied:
- * - uselessgap : gaps on clients for aesthetic purposes
- * - combo : enable displaying clients on more than 1 tag
+ * - uselessgap : gaps on clients for aesthetic purposes (on)
+ * - combo : enable displaying clients on more than 1 tag (off)
  */
 #include <errno.h>
 #include <locale.h>
