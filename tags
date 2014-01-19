@@ -1,0 +1,312 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AltMask	config.h	61;"	d
+Arg	dwm.c	/^} Arg;$/;"	t	typeref:union:__anon6	file:
+BUTTONMASK	dwm.c	48;"	d	file:
+Button	dwm.c	/^} Button;$/;"	t	typeref:struct:__anon7	file:
+CLEANMASK	dwm.c	49;"	d	file:
+Client	dwm.c	/^struct Client {$/;"	s	file:
+Client	dwm.c	/^typedef struct Client Client;$/;"	t	typeref:struct:Client	file:
+ClkClientWin	dwm.c	/^       ClkClientWin, ClkRootWin, ClkLast };             \/* clicks *\/$/;"	e	enum:__anon5	file:
+ClkLast	dwm.c	/^       ClkClientWin, ClkRootWin, ClkLast };             \/* clicks *\/$/;"	e	enum:__anon5	file:
+ClkLtSymbol	dwm.c	/^enum { ClkTagBar, ClkLtSymbol, ClkStatusText, ClkWinTitle,$/;"	e	enum:__anon5	file:
+ClkRootWin	dwm.c	/^       ClkClientWin, ClkRootWin, ClkLast };             \/* clicks *\/$/;"	e	enum:__anon5	file:
+ClkStatusText	dwm.c	/^enum { ClkTagBar, ClkLtSymbol, ClkStatusText, ClkWinTitle,$/;"	e	enum:__anon5	file:
+ClkTagBar	dwm.c	/^enum { ClkTagBar, ClkLtSymbol, ClkStatusText, ClkWinTitle,$/;"	e	enum:__anon5	file:
+ClkWinTitle	dwm.c	/^enum { ClkTagBar, ClkLtSymbol, ClkStatusText, ClkWinTitle,$/;"	e	enum:__anon5	file:
+ColBG	dwm.c	/^enum { ColBorder, ColFG, ColBG, ColLast };              \/* color *\/$/;"	e	enum:__anon2	file:
+ColBorder	dwm.c	/^enum { ColBorder, ColFG, ColBG, ColLast };              \/* color *\/$/;"	e	enum:__anon2	file:
+ColFG	dwm.c	/^enum { ColBorder, ColFG, ColBG, ColLast };              \/* color *\/$/;"	e	enum:__anon2	file:
+ColLast	dwm.c	/^enum { ColBorder, ColFG, ColBG, ColLast };              \/* color *\/$/;"	e	enum:__anon2	file:
+CurLast	dwm.c	/^enum { CurNormal, CurResize, CurMove, CurLast };        \/* cursor *\/$/;"	e	enum:__anon1	file:
+CurMove	dwm.c	/^enum { CurNormal, CurResize, CurMove, CurLast };        \/* cursor *\/$/;"	e	enum:__anon1	file:
+CurNormal	dwm.c	/^enum { CurNormal, CurResize, CurMove, CurLast };        \/* cursor *\/$/;"	e	enum:__anon1	file:
+CurResize	dwm.c	/^enum { CurNormal, CurResize, CurMove, CurLast };        \/* cursor *\/$/;"	e	enum:__anon1	file:
+DC	dwm.c	/^} DC; \/* draw context *\/$/;"	t	typeref:struct:__anon8	file:
+HEIGHT	dwm.c	58;"	d	file:
+INTERSECT	dwm.c	50;"	d	file:
+ISVISIBLE	dwm.c	52;"	d	file:
+Key	dwm.c	/^} Key;$/;"	t	typeref:struct:__anon10	file:
+LENGTH	dwm.c	53;"	d	file:
+Layout	dwm.c	/^} Layout;$/;"	t	typeref:struct:__anon11	file:
+MAX	dwm.c	54;"	d	file:
+MIN	dwm.c	55;"	d	file:
+MODKEY	config.h	60;"	d
+MOUSEMASK	dwm.c	56;"	d	file:
+Monitor	dwm.c	/^struct Monitor {$/;"	s	file:
+Monitor	dwm.c	/^typedef struct Monitor Monitor;$/;"	t	typeref:struct:Monitor	file:
+NetActiveWindow	dwm.c	/^       NetWMFullscreen, NetActiveWindow, NetWMWindowType,$/;"	e	enum:__anon3	file:
+NetLast	dwm.c	/^       NetWMWindowTypeDialog, NetLast };     \/* EWMH atoms *\/$/;"	e	enum:__anon3	file:
+NetSupported	dwm.c	/^enum { NetSupported, NetWMName, NetWMState,$/;"	e	enum:__anon3	file:
+NetWMFullscreen	dwm.c	/^       NetWMFullscreen, NetActiveWindow, NetWMWindowType,$/;"	e	enum:__anon3	file:
+NetWMName	dwm.c	/^enum { NetSupported, NetWMName, NetWMState,$/;"	e	enum:__anon3	file:
+NetWMState	dwm.c	/^enum { NetSupported, NetWMName, NetWMState,$/;"	e	enum:__anon3	file:
+NetWMWindowType	dwm.c	/^       NetWMFullscreen, NetActiveWindow, NetWMWindowType,$/;"	e	enum:__anon3	file:
+NetWMWindowTypeDialog	dwm.c	/^       NetWMWindowTypeDialog, NetLast };     \/* EWMH atoms *\/$/;"	e	enum:__anon3	file:
+NumTags	dwm.c	/^struct NumTags { char limitexceeded[LENGTH(tags) > 31 ? -1 : 1]; };$/;"	s	file:
+Rule	dwm.c	/^} Rule;$/;"	t	typeref:struct:__anon12	file:
+SHCMD	config.h	69;"	d
+TAGKEYS	config.h	62;"	d
+TAGMASK	dwm.c	59;"	d	file:
+TEXTW	dwm.c	60;"	d	file:
+WIDTH	dwm.c	57;"	d	file:
+WMDelete	dwm.c	/^enum { WMProtocols, WMDelete, WMState, WMTakeFocus, WMLast }; \/* default atoms *\/$/;"	e	enum:__anon4	file:
+WMLast	dwm.c	/^enum { WMProtocols, WMDelete, WMState, WMTakeFocus, WMLast }; \/* default atoms *\/$/;"	e	enum:__anon4	file:
+WMProtocols	dwm.c	/^enum { WMProtocols, WMDelete, WMState, WMTakeFocus, WMLast }; \/* default atoms *\/$/;"	e	enum:__anon4	file:
+WMState	dwm.c	/^enum { WMProtocols, WMDelete, WMState, WMTakeFocus, WMLast }; \/* default atoms *\/$/;"	e	enum:__anon4	file:
+WMTakeFocus	dwm.c	/^enum { WMProtocols, WMDelete, WMState, WMTakeFocus, WMLast }; \/* default atoms *\/$/;"	e	enum:__anon4	file:
+applyrules	dwm.c	/^applyrules(Client *c) {$/;"	f
+applysizehints	dwm.c	/^applysizehints(Client *c, int *x, int *y, int *w, int *h, Bool interact) {$/;"	f
+arg	dwm.c	/^	const Arg arg;$/;"	m	struct:__anon10	file:
+arg	dwm.c	/^	const Arg arg;$/;"	m	struct:__anon7	file:
+arrange	dwm.c	/^	void (*arrange)(Monitor *);$/;"	m	struct:__anon11	file:
+arrange	dwm.c	/^arrange(Monitor *m) {$/;"	f
+arrangemon	dwm.c	/^arrangemon(Monitor *m) {$/;"	f
+ascent	dwm.c	/^		int ascent;$/;"	m	struct:__anon8::__anon9	file:
+attach	dwm.c	/^attach(Client *c) {$/;"	f
+attachstack	dwm.c	/^attachstack(Client *c) {$/;"	f
+audiodecvolcmd	config.h	/^static const char *audiodecvolcmd[]  = { "amixer", "-q", "set", "Master", "5%-", NULL };$/;"	v
+audioincvolcmd	config.h	/^static const char *audioincvolcmd[]  = { "amixer", "-q", "set", "Master", "5%+", NULL };$/;"	v
+audiomutevolcmd	config.h	/^static const char *audiomutevolcmd[] = { "amixer", "-q", "set", "Master", "toggle", NULL };$/;"	v
+barwin	dwm.c	/^	Window barwin;$/;"	m	struct:Monitor	file:
+baseh	dwm.c	/^	int basew, baseh, incw, inch, maxw, maxh, minw, minh;$/;"	m	struct:Client	file:
+basew	dwm.c	/^	int basew, baseh, incw, inch, maxw, maxh, minw, minh;$/;"	m	struct:Client	file:
+bh	dwm.c	/^static int bh, blw = 0;      \/* bar geometry *\/$/;"	v	file:
+blw	dwm.c	/^static int bh, blw = 0;      \/* bar geometry *\/$/;"	v	file:
+borderpx	config.h	/^static const unsigned int borderpx  = 3;        \/* border pixel of windows *\/$/;"	v
+broken	dwm.c	/^static const char broken[] = "broken";$/;"	v	file:
+button	dwm.c	/^	unsigned int button;$/;"	m	struct:__anon7	file:
+buttonpress	dwm.c	/^buttonpress(XEvent *e) {$/;"	f
+buttons	config.h	/^static Button buttons[] = {$/;"	v
+bw	dwm.c	/^	int bw, oldbw;$/;"	m	struct:Client	file:
+by	dwm.c	/^	int by;               \/* bar geometry *\/$/;"	m	struct:Monitor	file:
+checkotherwm	dwm.c	/^checkotherwm(void) {$/;"	f
+class	dwm.c	/^	const char *class;$/;"	m	struct:__anon12	file:
+cleanup	dwm.c	/^cleanup(void) {$/;"	f
+cleanupmon	dwm.c	/^cleanupmon(Monitor *mon) {$/;"	f
+clearurgent	dwm.c	/^clearurgent(Client *c) {$/;"	f
+click	dwm.c	/^	unsigned int click;$/;"	m	struct:__anon7	file:
+clientmessage	dwm.c	/^clientmessage(XEvent *e) {$/;"	f
+clients	dwm.c	/^	Client *clients;$/;"	m	struct:Monitor	file:
+combo	dwm.c	/^static int combo = 0;$/;"	v	file:
+combotag	dwm.c	/^combotag(const Arg *arg) {$/;"	f
+comboview	dwm.c	/^comboview(const Arg *arg) {$/;"	f
+configure	dwm.c	/^configure(Client *c) {$/;"	f
+configurenotify	dwm.c	/^configurenotify(XEvent *e) {$/;"	f
+configurerequest	dwm.c	/^configurerequest(XEvent *e) {$/;"	f
+createmon	dwm.c	/^createmon(void) {$/;"	f
+cursor	dwm.c	/^static Cursor cursor[CurLast];$/;"	v	file:
+dc	dwm.c	/^static DC dc;$/;"	v	file:
+descent	dwm.c	/^		int descent;$/;"	m	struct:__anon8::__anon9	file:
+destroynotify	dwm.c	/^destroynotify(XEvent *e) {$/;"	f
+detach	dwm.c	/^detach(Client *c) {$/;"	f
+detachstack	dwm.c	/^detachstack(Client *c) {$/;"	f
+die	dwm.c	/^die(const char *errstr, ...) {$/;"	f
+dirtomon	dwm.c	/^dirtomon(int dir) {$/;"	f
+dmenucmd	config.h	/^static const char *dmenucmd[] = { "dmenu_run", "-fn", font, "-nb", normbgcolor, "-nf", normfgcolor, "-sb", selbgcolor, "-sf", selfgcolor, NULL };$/;"	v
+dpy	dwm.c	/^static Display *dpy;$/;"	v	file:
+drawable	dwm.c	/^	Drawable drawable;$/;"	m	struct:__anon8	file:
+drawbar	dwm.c	/^drawbar(Monitor *m) {$/;"	f
+drawbars	dwm.c	/^drawbars(void) {$/;"	f
+drawsquare	dwm.c	/^drawsquare(Bool filled, Bool empty, Bool invert, unsigned long col[ColLast]) {$/;"	f
+drawtext	dwm.c	/^drawtext(const char *text, unsigned long col[ColLast], Bool invert) {$/;"	f
+dwmmenucmd	config.h	/^static const char *dwmmenucmd[]      = { "dwm-menu", NULL };$/;"	v
+enternotify	dwm.c	/^enternotify(XEvent *e) {$/;"	f
+expose	dwm.c	/^expose(XEvent *e) {$/;"	f
+f	dwm.c	/^	float f;$/;"	m	union:__anon6	file:
+focus	dwm.c	/^focus(Client *c) {$/;"	f
+focusin	dwm.c	/^focusin(XEvent *e) { \/* there are some broken focus acquiring clients *\/$/;"	f
+focusmon	dwm.c	/^focusmon(const Arg *arg) {$/;"	f
+focusstack	dwm.c	/^focusstack(const Arg *arg) {$/;"	f
+font	config.h	/^static const char font[]            = "-*-terminus-medium-r-*-*-16-*-*-*-*-*-*-*";$/;"	v
+font	dwm.c	/^	} font;$/;"	m	struct:__anon8	typeref:struct:__anon8::__anon9	file:
+func	dwm.c	/^	void (*func)(const Arg *);$/;"	m	struct:__anon10	file:
+func	dwm.c	/^	void (*func)(const Arg *arg);$/;"	m	struct:__anon7	file:
+gappx	config.h	/^static const unsigned int gappx     = 6;        \/* gap pixel between windows *\/$/;"	v
+gc	dwm.c	/^	GC gc;$/;"	m	struct:__anon8	file:
+getatomprop	dwm.c	/^getatomprop(Client *c, Atom prop) {$/;"	f
+getcolor	dwm.c	/^getcolor(const char *colstr) {$/;"	f
+getrootptr	dwm.c	/^getrootptr(int *x, int *y) {$/;"	f
+getstate	dwm.c	/^getstate(Window w) {$/;"	f
+gettextprop	dwm.c	/^gettextprop(Window w, Atom atom, char *text, unsigned int size) {$/;"	f
+globalborder	dwm.c	/^static int globalborder;$/;"	v	file:
+grabbuttons	dwm.c	/^grabbuttons(Client *c, Bool focused) {$/;"	f
+grabkeys	dwm.c	/^grabkeys(void) {$/;"	f
+h	dwm.c	/^	int x, y, w, h;$/;"	m	struct:Client	file:
+h	dwm.c	/^	int x, y, w, h;$/;"	m	struct:__anon8	file:
+handler	dwm.c	/^static void (*handler[LASTEvent]) (XEvent *) = {$/;"	v	file:
+height	dwm.c	/^		int height;$/;"	m	struct:__anon8::__anon9	file:
+i	dwm.c	/^	int i;$/;"	m	union:__anon6	file:
+inch	dwm.c	/^	int basew, baseh, incw, inch, maxw, maxh, minw, minh;$/;"	m	struct:Client	file:
+incnmaster	dwm.c	/^incnmaster(const Arg *arg) {$/;"	f
+incw	dwm.c	/^	int basew, baseh, incw, inch, maxw, maxh, minw, minh;$/;"	m	struct:Client	file:
+initfont	dwm.c	/^initfont(const char *fontstr) {$/;"	f
+instance	dwm.c	/^	const char *instance;$/;"	m	struct:__anon12	file:
+isfixed	dwm.c	/^	Bool isfixed, isfloating, isurgent, neverfocus, oldstate, isfullscreen;$/;"	m	struct:Client	file:
+isfloating	dwm.c	/^	Bool isfixed, isfloating, isurgent, neverfocus, oldstate, isfullscreen;$/;"	m	struct:Client	file:
+isfloating	dwm.c	/^	Bool isfloating;$/;"	m	struct:__anon12	file:
+isfullscreen	dwm.c	/^	Bool isfixed, isfloating, isurgent, neverfocus, oldstate, isfullscreen;$/;"	m	struct:Client	file:
+isuniquegeom	dwm.c	/^isuniquegeom(XineramaScreenInfo *unique, size_t n, XineramaScreenInfo *info) {$/;"	f	file:
+isurgent	dwm.c	/^	Bool isfixed, isfloating, isurgent, neverfocus, oldstate, isfullscreen;$/;"	m	struct:Client	file:
+keypress	dwm.c	/^keypress(XEvent *e) {$/;"	f
+keyrelease	dwm.c	/^keyrelease(XEvent *e) {$/;"	f
+keys	config.h	/^static Key keys[] = {$/;"	v
+keysym	dwm.c	/^	KeySym keysym;$/;"	m	struct:__anon10	file:
+killclient	dwm.c	/^killclient(const Arg *arg) {$/;"	f
+layouts	config.h	/^static const Layout layouts[] = {$/;"	v
+limitexceeded	dwm.c	/^struct NumTags { char limitexceeded[LENGTH(tags) > 31 ? -1 : 1]; };$/;"	m	struct:NumTags	file:
+lockscreencmd	config.h	/^static const char *lockscreencmd[]   = { "xscreensaver-command", "--lock", NULL };$/;"	v
+lt	dwm.c	/^	const Layout *lt[2];$/;"	m	struct:Monitor	file:
+ltsymbol	dwm.c	/^	char ltsymbol[16];$/;"	m	struct:Monitor	file:
+main	dwm.c	/^main(int argc, char *argv[]) {$/;"	f
+manage	dwm.c	/^manage(Window w, XWindowAttributes *wa) {$/;"	f
+mappingnotify	dwm.c	/^mappingnotify(XEvent *e) {$/;"	f
+maprequest	dwm.c	/^maprequest(XEvent *e) {$/;"	f
+mask	dwm.c	/^	unsigned int mask;$/;"	m	struct:__anon7	file:
+maxa	dwm.c	/^	float mina, maxa;$/;"	m	struct:Client	file:
+maxh	dwm.c	/^	int basew, baseh, incw, inch, maxw, maxh, minw, minh;$/;"	m	struct:Client	file:
+maxw	dwm.c	/^	int basew, baseh, incw, inch, maxw, maxh, minw, minh;$/;"	m	struct:Client	file:
+mfact	config.h	/^static const float mfact      = 0.55; \/* factor of master area size [0.05..0.95] *\/$/;"	v
+mfact	dwm.c	/^	float mfact;$/;"	m	struct:Monitor	file:
+mh	dwm.c	/^	int mx, my, mw, mh;   \/* screen size *\/$/;"	m	struct:Monitor	file:
+mina	dwm.c	/^	float mina, maxa;$/;"	m	struct:Client	file:
+minh	dwm.c	/^	int basew, baseh, incw, inch, maxw, maxh, minw, minh;$/;"	m	struct:Client	file:
+minw	dwm.c	/^	int basew, baseh, incw, inch, maxw, maxh, minw, minh;$/;"	m	struct:Client	file:
+mod	dwm.c	/^	unsigned int mod;$/;"	m	struct:__anon10	file:
+mon	dwm.c	/^	Monitor *mon;$/;"	m	struct:Client	file:
+monitor	dwm.c	/^	int monitor;$/;"	m	struct:__anon12	file:
+monocle	dwm.c	/^monocle(Monitor *m) {$/;"	f
+mons	dwm.c	/^static Monitor *mons = NULL, *selmon = NULL;$/;"	v	file:
+motionnotify	dwm.c	/^motionnotify(XEvent *e) {$/;"	f
+movemouse	dwm.c	/^movemouse(const Arg *arg) {$/;"	f
+mpcnextcmd	config.h	/^static const char *mpcnextcmd[]      = { "mpc", "next", NULL };$/;"	v
+mpcprevcmd	config.h	/^static const char *mpcprevcmd[]      = { "mpc", "prev", NULL };$/;"	v
+mpcstopcmd	config.h	/^static const char *mpcstopcmd[]      = { "mpc", "stop", NULL };$/;"	v
+mpctogglecmd	config.h	/^static const char *mpctogglecmd[]    = { "mpc", "toggle", NULL };$/;"	v
+mpdplaycmd	config.h	/^static const char *mpdplaycmd[]      = { "mpdplay", NULL };$/;"	v
+mw	dwm.c	/^	int mx, my, mw, mh;   \/* screen size *\/$/;"	m	struct:Monitor	file:
+mx	dwm.c	/^	int mx, my, mw, mh;   \/* screen size *\/$/;"	m	struct:Monitor	file:
+my	dwm.c	/^	int mx, my, mw, mh;   \/* screen size *\/$/;"	m	struct:Monitor	file:
+name	dwm.c	/^	char name[256];$/;"	m	struct:Client	file:
+netatom	dwm.c	/^static Atom wmatom[WMLast], netatom[NetLast];$/;"	v	file:
+neverfocus	dwm.c	/^	Bool isfixed, isfloating, isurgent, neverfocus, oldstate, isfullscreen;$/;"	m	struct:Client	file:
+next	dwm.c	/^	Client *next;$/;"	m	struct:Client	file:
+next	dwm.c	/^	Monitor *next;$/;"	m	struct:Monitor	file:
+nexttiled	dwm.c	/^nexttiled(Client *c) {$/;"	f
+nmaster	config.h	/^static const int nmaster      = 1;    \/* number of clients in master area *\/$/;"	v
+nmaster	dwm.c	/^	int nmaster;$/;"	m	struct:Monitor	file:
+norm	dwm.c	/^	unsigned long norm[ColLast];$/;"	m	struct:__anon8	file:
+normbgcolor	config.h	/^static const char normbgcolor[]     = "#222222";$/;"	v
+normbordercolor	config.h	/^static const char normbordercolor[] = "#444444";$/;"	v
+normfgcolor	config.h	/^static const char normfgcolor[]     = "#bbbbbb";$/;"	v
+num	dwm.c	/^	int num;$/;"	m	struct:Monitor	file:
+numlockmask	dwm.c	/^static unsigned int numlockmask = 0;$/;"	v	file:
+oldbw	dwm.c	/^	int bw, oldbw;$/;"	m	struct:Client	file:
+oldh	dwm.c	/^	int oldx, oldy, oldw, oldh;$/;"	m	struct:Client	file:
+oldstate	dwm.c	/^	Bool isfixed, isfloating, isurgent, neverfocus, oldstate, isfullscreen;$/;"	m	struct:Client	file:
+oldw	dwm.c	/^	int oldx, oldy, oldw, oldh;$/;"	m	struct:Client	file:
+oldx	dwm.c	/^	int oldx, oldy, oldw, oldh;$/;"	m	struct:Client	file:
+oldy	dwm.c	/^	int oldx, oldy, oldw, oldh;$/;"	m	struct:Client	file:
+pop	dwm.c	/^pop(Client *c) {$/;"	f
+propertynotify	dwm.c	/^propertynotify(XEvent *e) {$/;"	f
+quit	dwm.c	/^quit(const Arg *arg) {$/;"	f
+rangercmd	config.h	/^static const char *rangercmd[]       = { "urxvtc", "-e", "ranger", NULL };$/;"	v
+recttomon	dwm.c	/^recttomon(int x, int y, int w, int h) {$/;"	f
+resize	dwm.c	/^resize(Client *c, int x, int y, int w, int h, Bool interact) {$/;"	f
+resizeclient	dwm.c	/^resizeclient(Client *c, int x, int y, int w, int h) {$/;"	f
+resizehints	config.h	/^static const Bool resizehints = False; \/* True means respect size hints in tiled resizals *\/$/;"	v
+resizemouse	dwm.c	/^resizemouse(const Arg *arg) {$/;"	f
+restack	dwm.c	/^restack(Monitor *m) {$/;"	f
+root	dwm.c	/^static Window root;$/;"	v	file:
+rules	config.h	/^static const Rule rules[] = {$/;"	v
+run	dwm.c	/^run(void) {$/;"	f
+running	dwm.c	/^static Bool running = True;$/;"	v	file:
+scan	dwm.c	/^scan(void) {$/;"	f
+screen	dwm.c	/^static int screen;$/;"	v	file:
+scrotcmd	config.h	/^static const char *scrotcmd[]        = { "scrot", "-q", "100", "-e", "mv\\ $f\\ ~\/img\/screenshots", NULL };$/;"	v
+sel	dwm.c	/^	Client *sel;$/;"	m	struct:Monitor	file:
+sel	dwm.c	/^	unsigned long sel[ColLast];$/;"	m	struct:__anon8	file:
+selbgcolor	config.h	/^static const char selbgcolor[]      = "#005577";$/;"	v
+selbordercolor	config.h	/^static const char selbordercolor[]  = "#005577";$/;"	v
+selfgcolor	config.h	/^static const char selfgcolor[]      = "#eeeeee";$/;"	v
+sellt	dwm.c	/^	unsigned int sellt;$/;"	m	struct:Monitor	file:
+selmon	dwm.c	/^static Monitor *mons = NULL, *selmon = NULL;$/;"	v	file:
+seltags	dwm.c	/^	unsigned int seltags;$/;"	m	struct:Monitor	file:
+sendevent	dwm.c	/^sendevent(Client *c, Atom proto) {$/;"	f
+sendmon	dwm.c	/^sendmon(Client *c, Monitor *m) {$/;"	f
+set	dwm.c	/^		XFontSet set;$/;"	m	struct:__anon8::__anon9	file:
+setclientstate	dwm.c	/^setclientstate(Client *c, long state) {$/;"	f
+setfocus	dwm.c	/^setfocus(Client *c) {$/;"	f
+setfullscreen	dwm.c	/^setfullscreen(Client *c, Bool fullscreen) {$/;"	f
+setlayout	dwm.c	/^setlayout(const Arg *arg) {$/;"	f
+setmfact	dwm.c	/^setmfact(const Arg *arg) {$/;"	f
+setup	dwm.c	/^setup(void) {$/;"	f
+sh	dwm.c	/^static int sw, sh;           \/* X display screen geometry width, height *\/$/;"	v	file:
+showbar	config.h	/^static const Bool showbar           = True;     \/* False means no bar *\/$/;"	v
+showbar	dwm.c	/^	Bool showbar;$/;"	m	struct:Monitor	file:
+showhide	dwm.c	/^showhide(Client *c) {$/;"	f
+sigchld	dwm.c	/^sigchld(int unused) {$/;"	f
+snap	config.h	/^static const unsigned int snap      = 32;       \/* snap pixel *\/$/;"	v
+snext	dwm.c	/^	Client *snext;$/;"	m	struct:Client	file:
+spawn	dwm.c	/^spawn(const Arg *arg) {$/;"	f
+stack	dwm.c	/^	Client *stack;$/;"	m	struct:Monitor	file:
+stext	dwm.c	/^static char stext[256];$/;"	v	file:
+sw	dwm.c	/^static int sw, sh;           \/* X display screen geometry width, height *\/$/;"	v	file:
+symbol	dwm.c	/^	const char *symbol;$/;"	m	struct:__anon11	file:
+tag	dwm.c	/^tag(const Arg *arg) {$/;"	f
+tagmon	dwm.c	/^tagmon(const Arg *arg) {$/;"	f
+tags	config.h	/^static const char *tags[] = { "1", "2", "3", "4", "5", "6", "7", "8", "9" };$/;"	v
+tags	dwm.c	/^	unsigned int tags;$/;"	m	struct:Client	file:
+tags	dwm.c	/^	unsigned int tags;$/;"	m	struct:__anon12	file:
+tagset	dwm.c	/^	unsigned int tagset[2];$/;"	m	struct:Monitor	file:
+termcmd	config.h	/^static const char *termcmd[]  = { "urxvtc", NULL };$/;"	v
+textnw	dwm.c	/^textnw(const char *text, unsigned int len) {$/;"	f
+thunarcmd	config.h	/^static const char *thunarcmd[]       = { "thunar", NULL };$/;"	v
+thunarsucmd	config.h	/^static const char *thunarsucmd[]     = { "gksu", "thunar", NULL };$/;"	v
+tile	dwm.c	/^tile(Monitor *m) {$/;"	f
+title	dwm.c	/^	const char *title;$/;"	m	struct:__anon12	file:
+togglebar	dwm.c	/^togglebar(const Arg *arg) {$/;"	f
+togglefloating	dwm.c	/^togglefloating(const Arg *arg) {$/;"	f
+toggletag	dwm.c	/^toggletag(const Arg *arg) {$/;"	f
+toggleview	dwm.c	/^toggleview(const Arg *arg) {$/;"	f
+topbar	config.h	/^static const Bool topbar            = True;     \/* False means bottom bar *\/$/;"	v
+topbar	dwm.c	/^	Bool topbar;$/;"	m	struct:Monitor	file:
+ui	dwm.c	/^	unsigned int ui;$/;"	m	union:__anon6	file:
+unfocus	dwm.c	/^unfocus(Client *c, Bool setfocus) {$/;"	f
+unmanage	dwm.c	/^unmanage(Client *c, Bool destroyed) {$/;"	f
+unmapnotify	dwm.c	/^unmapnotify(XEvent *e) {$/;"	f
+updatebarpos	dwm.c	/^updatebarpos(Monitor *m) {$/;"	f
+updatebars	dwm.c	/^updatebars(void) {$/;"	f
+updategeom	dwm.c	/^updategeom(void) {$/;"	f
+updatenumlockmask	dwm.c	/^updatenumlockmask(void) {$/;"	f
+updatesizehints	dwm.c	/^updatesizehints(Client *c) {$/;"	f
+updatestatus	dwm.c	/^updatestatus(void) {$/;"	f
+updatetitle	dwm.c	/^updatetitle(Client *c) {$/;"	f
+updatewindowtype	dwm.c	/^updatewindowtype(Client *c) {$/;"	f
+updatewmhints	dwm.c	/^updatewmhints(Client *c) {$/;"	f
+v	dwm.c	/^	const void *v;$/;"	m	union:__anon6	file:
+view	dwm.c	/^view(const Arg *arg) {$/;"	f
+w	dwm.c	/^	int x, y, w, h;$/;"	m	struct:Client	file:
+w	dwm.c	/^	int x, y, w, h;$/;"	m	struct:__anon8	file:
+wh	dwm.c	/^	int wx, wy, ww, wh;   \/* window area  *\/$/;"	m	struct:Monitor	file:
+win	dwm.c	/^	Window win;$/;"	m	struct:Client	file:
+wintoclient	dwm.c	/^wintoclient(Window w) {$/;"	f
+wintomon	dwm.c	/^wintomon(Window w) {$/;"	f
+wmatom	dwm.c	/^static Atom wmatom[WMLast], netatom[NetLast];$/;"	v	file:
+ww	dwm.c	/^	int wx, wy, ww, wh;   \/* window area  *\/$/;"	m	struct:Monitor	file:
+wx	dwm.c	/^	int wx, wy, ww, wh;   \/* window area  *\/$/;"	m	struct:Monitor	file:
+wy	dwm.c	/^	int wx, wy, ww, wh;   \/* window area  *\/$/;"	m	struct:Monitor	file:
+x	dwm.c	/^	int x, y, w, h;$/;"	m	struct:Client	file:
+x	dwm.c	/^	int x, y, w, h;$/;"	m	struct:__anon8	file:
+xerror	dwm.c	/^xerror(Display *dpy, XErrorEvent *ee) {$/;"	f
+xerrordummy	dwm.c	/^xerrordummy(Display *dpy, XErrorEvent *ee) {$/;"	f
+xerrorstart	dwm.c	/^xerrorstart(Display *dpy, XErrorEvent *ee) {$/;"	f
+xerrorxlib	dwm.c	/^static int (*xerrorxlib)(Display *, XErrorEvent *);$/;"	v	file:
+xfont	dwm.c	/^		XFontStruct *xfont;$/;"	m	struct:__anon8::__anon9	file:
+y	dwm.c	/^	int x, y, w, h;$/;"	m	struct:Client	file:
+y	dwm.c	/^	int x, y, w, h;$/;"	m	struct:__anon8	file:
+zoom	dwm.c	/^zoom(const Arg *arg) {$/;"	f
