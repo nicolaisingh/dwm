@@ -9,16 +9,16 @@ AltMask	src/config.h	67;"	d
 AltMask	src/dwm-6.0/config.h	67;"	d
 Arg	dwm.c	/^} Arg;$/;"	t	typeref:union:__anon6	file:
 Arg	src/dwm-6.0/dwm.c	/^} Arg;$/;"	t	typeref:union:__anon19	file:
-BUTTONMASK	dwm.c	53;"	d	file:
-BUTTONMASK	src/dwm-6.0/dwm.c	53;"	d	file:
+BUTTONMASK	dwm.c	54;"	d	file:
+BUTTONMASK	src/dwm-6.0/dwm.c	54;"	d	file:
 Bar	dwm.c	/^} Bar;$/;"	t	typeref:struct:__anon13	file:
 Bar	src/dwm-6.0/dwm.c	/^} Bar;$/;"	t	typeref:struct:__anon26	file:
 Button	dwm.c	/^} Button;$/;"	t	typeref:struct:__anon7	file:
 Button	src/dwm-6.0/dwm.c	/^} Button;$/;"	t	typeref:struct:__anon20	file:
 CC	src/dwm-6.0/config.mk	/^CC = cc$/;"	m
 CFLAGS	src/dwm-6.0/config.mk	/^CFLAGS = -std=c99 -pedantic -Wall -Os ${INCS} ${CPPFLAGS}$/;"	m
-CLEANMASK	dwm.c	54;"	d	file:
-CLEANMASK	src/dwm-6.0/dwm.c	54;"	d	file:
+CLEANMASK	dwm.c	55;"	d	file:
+CLEANMASK	src/dwm-6.0/dwm.c	55;"	d	file:
 Client	dwm.c	/^struct Client {$/;"	s	file:
 Client	dwm.c	/^typedef struct Client Client;$/;"	t	typeref:struct:Client	file:
 Client	src/dwm-6.0/dwm.c	/^struct Client {$/;"	s	file:
@@ -55,32 +55,32 @@ CurResize	dwm.c	/^enum { CurNormal, CurResize, CurMove, CurLast };        \/* cu
 CurResize	src/dwm-6.0/dwm.c	/^enum { CurNormal, CurResize, CurMove, CurLast };        \/* cursor *\/$/;"	e	enum:__anon14	file:
 DC	dwm.c	/^} DC; \/* draw context *\/$/;"	t	typeref:struct:__anon8	file:
 DC	src/dwm-6.0/dwm.c	/^} DC; \/* draw context *\/$/;"	t	typeref:struct:__anon21	file:
-HEIGHT	dwm.c	63;"	d	file:
-HEIGHT	src/dwm-6.0/dwm.c	63;"	d	file:
+HEIGHT	dwm.c	64;"	d	file:
+HEIGHT	src/dwm-6.0/dwm.c	64;"	d	file:
 INCS	src/dwm-6.0/config.mk	/^INCS = -I. -I\/usr\/include -I${X11INC} `pkg-config --cflags xft pango pangoxft`$/;"	m
-INTERSECT	dwm.c	55;"	d	file:
-INTERSECT	src/dwm-6.0/dwm.c	55;"	d	file:
-ISVISIBLE	dwm.c	57;"	d	file:
-ISVISIBLE	src/dwm-6.0/dwm.c	57;"	d	file:
+INTERSECT	dwm.c	56;"	d	file:
+INTERSECT	src/dwm-6.0/dwm.c	56;"	d	file:
+ISVISIBLE	dwm.c	58;"	d	file:
+ISVISIBLE	src/dwm-6.0/dwm.c	58;"	d	file:
 Key	dwm.c	/^} Key;$/;"	t	typeref:struct:__anon10	file:
 Key	src/dwm-6.0/dwm.c	/^} Key;$/;"	t	typeref:struct:__anon23	file:
 LDFLAGS	src/dwm-6.0/config.mk	/^LDFLAGS = -s ${LIBS}$/;"	m
-LENGTH	dwm.c	58;"	d	file:
-LENGTH	src/dwm-6.0/dwm.c	58;"	d	file:
+LENGTH	dwm.c	59;"	d	file:
+LENGTH	src/dwm-6.0/dwm.c	59;"	d	file:
 LIBS	src/dwm-6.0/config.mk	/^LIBS = -L\/usr\/lib -lc -L${X11LIB} -lX11 ${XINERAMALIBS} `pkg-config --libs xft pango pangoxft`$/;"	m
 Layout	dwm.c	/^} Layout;$/;"	t	typeref:struct:__anon11	file:
 Layout	src/dwm-6.0/dwm.c	/^} Layout;$/;"	t	typeref:struct:__anon24	file:
 MANPREFIX	src/dwm-6.0/config.mk	/^MANPREFIX = ${PREFIX}\/share\/man$/;"	m
-MAX	dwm.c	59;"	d	file:
-MAX	src/dwm-6.0/dwm.c	59;"	d	file:
-MIN	dwm.c	60;"	d	file:
-MIN	src/dwm-6.0/dwm.c	60;"	d	file:
+MAX	dwm.c	60;"	d	file:
+MAX	src/dwm-6.0/dwm.c	60;"	d	file:
+MIN	dwm.c	61;"	d	file:
+MIN	src/dwm-6.0/dwm.c	61;"	d	file:
 MODKEY	config.h	66;"	d
 MODKEY	src/config.h	66;"	d
 MODKEY	src/dwm-6.0/config.def.h	38;"	d
 MODKEY	src/dwm-6.0/config.h	66;"	d
-MOUSEMASK	dwm.c	61;"	d	file:
-MOUSEMASK	src/dwm-6.0/dwm.c	61;"	d	file:
+MOUSEMASK	dwm.c	62;"	d	file:
+MOUSEMASK	src/dwm-6.0/dwm.c	62;"	d	file:
 Monitor	dwm.c	/^struct Monitor {$/;"	s	file:
 Monitor	dwm.c	/^typedef struct Monitor Monitor;$/;"	t	typeref:struct:Monitor	file:
 Monitor	src/dwm-6.0/dwm.c	/^struct Monitor {$/;"	s	file:
@@ -105,6 +105,10 @@ NumTags	dwm.c	/^struct NumTags { char limitexceeded[LENGTH(tags) > 31 ? -1 : 1];
 NumTags	src/dwm-6.0/dwm.c	/^struct NumTags { char limitexceeded[LENGTH(tags) > 31 ? -1 : 1]; };$/;"	s	file:
 OBJ	src/dwm-6.0/Makefile	/^OBJ = ${SRC:.c=.o}$/;"	m
 PREFIX	src/dwm-6.0/config.mk	/^PREFIX = \/usr\/local$/;"	m
+Pertag	dwm.c	/^struct Pertag {$/;"	s	file:
+Pertag	dwm.c	/^typedef struct Pertag Pertag;$/;"	t	typeref:struct:Pertag	file:
+Pertag	src/dwm-6.0/dwm.c	/^struct Pertag {$/;"	s	file:
+Pertag	src/dwm-6.0/dwm.c	/^typedef struct Pertag Pertag;$/;"	t	typeref:struct:Pertag	file:
 Rule	dwm.c	/^} Rule;$/;"	t	typeref:struct:__anon12	file:
 Rule	src/dwm-6.0/dwm.c	/^} Rule;$/;"	t	typeref:struct:__anon25	file:
 SHCMD	config.h	75;"	d
@@ -116,13 +120,13 @@ TAGKEYS	config.h	68;"	d
 TAGKEYS	src/config.h	68;"	d
 TAGKEYS	src/dwm-6.0/config.def.h	39;"	d
 TAGKEYS	src/dwm-6.0/config.h	68;"	d
-TAGMASK	dwm.c	64;"	d	file:
-TAGMASK	src/dwm-6.0/dwm.c	64;"	d	file:
-TEXTW	dwm.c	65;"	d	file:
-TEXTW	src/dwm-6.0/dwm.c	65;"	d	file:
+TAGMASK	dwm.c	65;"	d	file:
+TAGMASK	src/dwm-6.0/dwm.c	65;"	d	file:
+TEXTW	dwm.c	66;"	d	file:
+TEXTW	src/dwm-6.0/dwm.c	66;"	d	file:
 VERSION	src/dwm-6.0/config.mk	/^VERSION = 6.0$/;"	m
-WIDTH	dwm.c	62;"	d	file:
-WIDTH	src/dwm-6.0/dwm.c	62;"	d	file:
+WIDTH	dwm.c	63;"	d	file:
+WIDTH	src/dwm-6.0/dwm.c	63;"	d	file:
 WMDelete	dwm.c	/^enum { WMProtocols, WMDelete, WMState, WMTakeFocus, WMLast }; \/* default atoms *\/$/;"	e	enum:__anon4	file:
 WMDelete	src/dwm-6.0/dwm.c	/^enum { WMProtocols, WMDelete, WMState, WMTakeFocus, WMLast }; \/* default atoms *\/$/;"	e	enum:__anon17	file:
 WMLast	dwm.c	/^enum { WMProtocols, WMDelete, WMState, WMTakeFocus, WMLast }; \/* default atoms *\/$/;"	e	enum:__anon4	file:
@@ -176,10 +180,10 @@ bh	dwm.c	/^static int bh, blw = 0;      \/* bar geometry *\/$/;"	v	file:
 bh	src/dwm-6.0/dwm.c	/^static int bh, blw = 0;      \/* bar geometry *\/$/;"	v	file:
 blw	dwm.c	/^static int bh, blw = 0;      \/* bar geometry *\/$/;"	v	file:
 blw	src/dwm-6.0/dwm.c	/^static int bh, blw = 0;      \/* bar geometry *\/$/;"	v	file:
-borderpx	config.h	/^static const unsigned int borderpx  = 3;        \/* border pixel of windows *\/$/;"	v
-borderpx	src/config.h	/^static const unsigned int borderpx  = 3;        \/* border pixel of windows *\/$/;"	v
+borderpx	config.h	/^static const unsigned int borderpx  = 2;        \/* border pixel of windows *\/$/;"	v
+borderpx	src/config.h	/^static const unsigned int borderpx  = 2;        \/* border pixel of windows *\/$/;"	v
 borderpx	src/dwm-6.0/config.def.h	/^static const unsigned int borderpx  = 1;        \/* border pixel of windows *\/$/;"	v
-borderpx	src/dwm-6.0/config.h	/^static const unsigned int borderpx  = 3;        \/* border pixel of windows *\/$/;"	v
+borderpx	src/dwm-6.0/config.h	/^static const unsigned int borderpx  = 2;        \/* border pixel of windows *\/$/;"	v
 broken	dwm.c	/^static const char broken[] = "broken";$/;"	v	file:
 broken	src/dwm-6.0/dwm.c	/^static const char broken[] = "broken";$/;"	v	file:
 button	dwm.c	/^	unsigned int button;$/;"	m	struct:__anon7	file:
@@ -226,6 +230,8 @@ createmon	dwm.c	/^createmon(void) {$/;"	f
 createmon	src/dwm-6.0/dwm.c	/^createmon(void) {$/;"	f
 cursor	dwm.c	/^static Cursor cursor[CurLast];$/;"	v	file:
 cursor	src/dwm-6.0/dwm.c	/^static Cursor cursor[CurLast];$/;"	v	file:
+curtag	dwm.c	/^	unsigned int curtag, prevtag; \/* current and previous tag *\/$/;"	m	struct:Pertag	file:
+curtag	src/dwm-6.0/dwm.c	/^	unsigned int curtag, prevtag; \/* current and previous tag *\/$/;"	m	struct:Pertag	file:
 dc	dwm.c	/^static DC dc;$/;"	v	file:
 dc	src/dwm-6.0/dwm.c	/^static DC dc;$/;"	v	file:
 descent	dwm.c	/^		int descent;$/;"	m	struct:__anon8::__anon9	file:
@@ -265,9 +271,9 @@ enternotify	dwm.c	/^enternotify(XEvent *e) {$/;"	f
 enternotify	src/dwm-6.0/dwm.c	/^enternotify(XEvent *e) {$/;"	f
 expose	dwm.c	/^expose(XEvent *e) {$/;"	f
 expose	src/dwm-6.0/dwm.c	/^expose(XEvent *e) {$/;"	f
-extrabar	config.h	/^static const Bool extrabar          = False;     \/* False means no extra bar *\/$/;"	v
-extrabar	src/config.h	/^static const Bool extrabar          = False;     \/* False means no extra bar *\/$/;"	v
-extrabar	src/dwm-6.0/config.h	/^static const Bool extrabar          = False;     \/* False means no extra bar *\/$/;"	v
+extrabar	config.h	/^static const Bool extrabar          = False;    \/* False means no extra bar *\/$/;"	v
+extrabar	src/config.h	/^static const Bool extrabar          = False;    \/* False means no extra bar *\/$/;"	v
+extrabar	src/dwm-6.0/config.h	/^static const Bool extrabar          = False;    \/* False means no extra bar *\/$/;"	v
 f	dwm.c	/^	float f;$/;"	m	union:__anon6	file:
 f	src/dwm-6.0/dwm.c	/^	float f;$/;"	m	union:__anon19	file:
 focus	dwm.c	/^focus(Client *c) {$/;"	f
@@ -288,9 +294,9 @@ func	dwm.c	/^	void (*func)(const Arg *);$/;"	m	struct:__anon10	file:
 func	dwm.c	/^	void (*func)(const Arg *arg);$/;"	m	struct:__anon7	file:
 func	src/dwm-6.0/dwm.c	/^	void (*func)(const Arg *);$/;"	m	struct:__anon23	file:
 func	src/dwm-6.0/dwm.c	/^	void (*func)(const Arg *arg);$/;"	m	struct:__anon20	file:
-gappx	config.h	/^static const unsigned int gappx     = 6;        \/* gap pixel between windows *\/$/;"	v
-gappx	src/config.h	/^static const unsigned int gappx     = 6;        \/* gap pixel between windows *\/$/;"	v
-gappx	src/dwm-6.0/config.h	/^static const unsigned int gappx     = 6;        \/* gap pixel between windows *\/$/;"	v
+gappx	config.h	/^static const unsigned int gappx     = 2;        \/* gap pixel between windows *\/$/;"	v
+gappx	src/config.h	/^static const unsigned int gappx     = 2;        \/* gap pixel between windows *\/$/;"	v
+gappx	src/dwm-6.0/config.h	/^static const unsigned int gappx     = 2;        \/* gap pixel between windows *\/$/;"	v
 gc	dwm.c	/^	GC gc;$/;"	m	struct:__anon8	file:
 gc	src/dwm-6.0/dwm.c	/^	GC gc;$/;"	m	struct:__anon21	file:
 getatomprop	dwm.c	/^getatomprop(Client *c, Atom prop) {$/;"	f
@@ -364,6 +370,8 @@ lockscreencmd	src/config.h	/^static const char *lockscreencmd[]   = { "xscreensa
 lockscreencmd	src/dwm-6.0/config.h	/^static const char *lockscreencmd[]   = { "xscreensaver-command", "--lock", NULL };$/;"	v
 lt	dwm.c	/^	const Layout *lt[2];$/;"	m	struct:Monitor	file:
 lt	src/dwm-6.0/dwm.c	/^	const Layout *lt[2];$/;"	m	struct:Monitor	file:
+ltidxs	dwm.c	/^	const Layout *ltidxs[LENGTH(tags) + 1][2]; \/* matrix of tags and layouts indexes  *\/$/;"	m	struct:Pertag	file:
+ltidxs	src/dwm-6.0/dwm.c	/^	const Layout *ltidxs[LENGTH(tags) + 1][2]; \/* matrix of tags and layouts indexes  *\/$/;"	m	struct:Pertag	file:
 ltsymbol	dwm.c	/^	char ltsymbol[16];$/;"	m	struct:Monitor	file:
 ltsymbol	src/dwm-6.0/dwm.c	/^	char ltsymbol[16];$/;"	m	struct:Monitor	file:
 main	dwm.c	/^main(int argc, char *argv[]) {$/;"	f
@@ -388,6 +396,8 @@ mfact	src/config.h	/^static const float mfact      = 0.55; \/* factor of master 
 mfact	src/dwm-6.0/config.def.h	/^static const float mfact      = 0.55; \/* factor of master area size [0.05..0.95] *\/$/;"	v
 mfact	src/dwm-6.0/config.h	/^static const float mfact      = 0.55; \/* factor of master area size [0.05..0.95] *\/$/;"	v
 mfact	src/dwm-6.0/dwm.c	/^	float mfact;$/;"	m	struct:Monitor	file:
+mfacts	dwm.c	/^	float mfacts[LENGTH(tags) + 1]; \/* mfacts per tag *\/$/;"	m	struct:Pertag	file:
+mfacts	src/dwm-6.0/dwm.c	/^	float mfacts[LENGTH(tags) + 1]; \/* mfacts per tag *\/$/;"	m	struct:Pertag	file:
 mh	dwm.c	/^	int mx, my, mw, mh;   \/* screen size *\/$/;"	m	struct:Monitor	file:
 mh	src/dwm-6.0/dwm.c	/^	int mx, my, mw, mh;   \/* screen size *\/$/;"	m	struct:Monitor	file:
 mina	dwm.c	/^	float mina, maxa;$/;"	m	struct:Client	file:
@@ -454,6 +464,8 @@ nmaster	src/config.h	/^static const int nmaster      = 1;    \/* number of clien
 nmaster	src/dwm-6.0/config.def.h	/^static const int nmaster      = 1;    \/* number of clients in master area *\/$/;"	v
 nmaster	src/dwm-6.0/config.h	/^static const int nmaster      = 1;    \/* number of clients in master area *\/$/;"	v
 nmaster	src/dwm-6.0/dwm.c	/^	int nmaster;$/;"	m	struct:Monitor	file:
+nmasters	dwm.c	/^	int nmasters[LENGTH(tags) + 1]; \/* number of windows in master area *\/$/;"	m	struct:Pertag	file:
+nmasters	src/dwm-6.0/dwm.c	/^	int nmasters[LENGTH(tags) + 1]; \/* number of windows in master area *\/$/;"	m	struct:Pertag	file:
 norm	dwm.c	/^	XftColor norm[ColLast];$/;"	m	struct:__anon8	file:
 norm	src/dwm-6.0/dwm.c	/^	XftColor norm[ColLast];$/;"	m	struct:__anon21	file:
 normbgcolor	config.h	/^static const char normbgcolor[]     = "#222222";$/;"	v
@@ -484,8 +496,12 @@ oldx	dwm.c	/^	int oldx, oldy, oldw, oldh;$/;"	m	struct:Client	file:
 oldx	src/dwm-6.0/dwm.c	/^	int oldx, oldy, oldw, oldh;$/;"	m	struct:Client	file:
 oldy	dwm.c	/^	int oldx, oldy, oldw, oldh;$/;"	m	struct:Client	file:
 oldy	src/dwm-6.0/dwm.c	/^	int oldx, oldy, oldw, oldh;$/;"	m	struct:Client	file:
+pertag	dwm.c	/^	Pertag *pertag;$/;"	m	struct:Monitor	file:
+pertag	src/dwm-6.0/dwm.c	/^	Pertag *pertag;$/;"	m	struct:Monitor	file:
 pop	dwm.c	/^pop(Client *c) {$/;"	f
 pop	src/dwm-6.0/dwm.c	/^pop(Client *c) {$/;"	f
+prevtag	dwm.c	/^	unsigned int curtag, prevtag; \/* current and previous tag *\/$/;"	m	struct:Pertag	file:
+prevtag	src/dwm-6.0/dwm.c	/^	unsigned int curtag, prevtag; \/* current and previous tag *\/$/;"	m	struct:Pertag	file:
 propertynotify	dwm.c	/^propertynotify(XEvent *e) {$/;"	f
 propertynotify	src/dwm-6.0/dwm.c	/^propertynotify(XEvent *e) {$/;"	f
 quit	dwm.c	/^quit(const Arg *arg) {$/;"	f
@@ -542,6 +558,8 @@ selfgcolor	src/dwm-6.0/config.def.h	/^static const char selfgcolor[]      = "#ee
 selfgcolor	src/dwm-6.0/config.h	/^static const char selfgcolor[]      = "#eeeeee";$/;"	v
 sellt	dwm.c	/^	unsigned int sellt;$/;"	m	struct:Monitor	file:
 sellt	src/dwm-6.0/dwm.c	/^	unsigned int sellt;$/;"	m	struct:Monitor	file:
+sellts	dwm.c	/^	unsigned int sellts[LENGTH(tags) + 1]; \/* selected layouts *\/$/;"	m	struct:Pertag	file:
+sellts	src/dwm-6.0/dwm.c	/^	unsigned int sellts[LENGTH(tags) + 1]; \/* selected layouts *\/$/;"	m	struct:Pertag	file:
 selmon	dwm.c	/^static Monitor *mons = NULL, *selmon = NULL;$/;"	v	file:
 selmon	src/dwm-6.0/dwm.c	/^static Monitor *mons = NULL, *selmon = NULL;$/;"	v	file:
 seltags	dwm.c	/^	unsigned int seltags;$/;"	m	struct:Monitor	file:
@@ -576,6 +594,8 @@ showbar	src/config.h	/^static const Bool showbar           = True;     \/* False
 showbar	src/dwm-6.0/config.def.h	/^static const Bool showbar           = True;     \/* False means no bar *\/$/;"	v
 showbar	src/dwm-6.0/config.h	/^static const Bool showbar           = True;     \/* False means no bar *\/$/;"	v
 showbar	src/dwm-6.0/dwm.c	/^	Bool showbar;$/;"	m	struct:Monitor	file:
+showbars	dwm.c	/^	Bool showbars[LENGTH(tags) + 1]; \/* display bar for the current tag *\/$/;"	m	struct:Pertag	file:
+showbars	src/dwm-6.0/dwm.c	/^	Bool showbars[LENGTH(tags) + 1]; \/* display bar for the current tag *\/$/;"	m	struct:Pertag	file:
 showhide	dwm.c	/^showhide(Client *c) {$/;"	f
 showhide	src/dwm-6.0/dwm.c	/^showhide(Client *c) {$/;"	f
 sigchld	dwm.c	/^sigchld(int unused) {$/;"	f
