@@ -1,5 +1,9 @@
 /* See LICENSE file for copyright and license details. */
 
+/* Patches applied:
+ * - uselessgap
+ */
+
 /* appearance */
 static const char font[]            = "-*-terminus-medium-r-*-*-16-*-*-*-*-*-*-*";
 static const char normbordercolor[] = "#444444";

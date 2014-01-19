@@ -19,6 +19,9 @@
  * Keys and tagging rules are organized as arrays and defined in config.h.
  *
  * To understand everything else, start reading main().
+ *
+ * Patches applied:
+ * - uselessgap
  */
 #include <errno.h>
 #include <locale.h>
