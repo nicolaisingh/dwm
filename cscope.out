@@ -1,4 +1,4 @@
-cscope 15 $HOME/src/linux/dwm               0000785322
+cscope 15 $HOME/src/linux/dwm               0000784878
 	@/home/nas/src/linux/dwm/config.h
 
 11 cÚ¡ 
@@ -694,30 +694,6 @@ mpúextcmd
 , {.
 	gf
  = +0.05} },
-
-123 { 
-	gMODKEY
-|
-	gShiáMask
-, 
-	gXK_h
-, 
-	g£tsmçù
-, {.
-	gf
- = +0.05} },
-
-124 { 
-	gMODKEY
-|
-	gShiáMask
-, 
-	gXK_l
-, 
-	g£tsmçù
-, {.
-	gf
- = -0.05} },
 
 125 { 
 	gMODKEY
@@ -2376,30 +2352,6 @@ mpúextcmd
 , {.
 	gf
  = +0.05} },
-
-123 { 
-	gMODKEY
-|
-	gShiáMask
-, 
-	gXK_h
-, 
-	g£tsmçù
-, {.
-	gf
- = +0.05} },
-
-124 { 
-	gMODKEY
-|
-	gShiáMask
-, 
-	gXK_l
-, 
-	g£tsmçù
-, {.
-	gf
- = -0.05} },
 
 125 { 
 	gMODKEY
@@ -61074,30 +61026,6 @@ mpúextcmd
 , {.
 	gf
  = +0.05} },
-
-123 { 
-	gMODKEY
-|
-	gShiáMask
-, 
-	gXK_h
-, 
-	g£tsmçù
-, {.
-	gf
- = +0.05} },
-
-124 { 
-	gMODKEY
-|
-	gShiáMask
-, 
-	gXK_l
-, 
-	g£tsmçù
-, {.
-	gf
- = -0.05} },
 
 125 { 
 	gMODKEY

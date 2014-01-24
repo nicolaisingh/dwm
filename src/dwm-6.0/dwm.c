@@ -23,7 +23,7 @@
  * Patches applied:
  * - uselessgap : gaps on clients for aesthetic purposes (on)
  * - combo : enable displaying clients on more than 1 tag (off)
- * - smfact : enable resizing the clients on the stack (on)
+ * - smfact : enable resizing the clients on the stack (off)
  * - movestack : enable moving clients on the stack (on)
  * - bottombar : add another status bar on the bottom (off)
  * - xft : xft font support (on)
