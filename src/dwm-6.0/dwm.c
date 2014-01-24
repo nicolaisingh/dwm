@@ -1319,7 +1319,7 @@ monocle(Monitor *m) {
 		if(ISVISIBLE(c))
 			n++;
 	if(n > 0) /* override layout symbol */
-		snprintf(m->ltsymbol, sizeof m->ltsymbol, "[%d]", n);
+		snprintf(m->ltsymbol, sizeof m->ltsymbol, "%d", n);
 	for(c = nexttiled(m->clients); c; c = nexttiled(c->next))
 		resize(c, m->wx, m->wy, m->ww - 2 * c->bw, m->wh - 2 * c->bw, False);
 }
@@ -1859,7 +1859,7 @@ tile(Monitor *m) {
 		if(i < m->nmaster) {
 			h = (m->wh - my) / (MIN(n, m->nmaster) - i);
 			resize(c, m->wx, m->wy + my, mw - (2*c->bw), h - (2*c->bw), False);
-			my += HEIGHT(c);
+			my += HEIGHT(c) + 2 * globalborder;
 		}
 		else {
 			smh = m->mh * m->smfact;
@@ -1876,9 +1876,9 @@ tile(Monitor *m) {
 			else
 				resize(c, m->wx + mw, m->wy + ty, m->ww - mw - (2*c->bw), h - (2*c->bw), False);
 			if(!(nexttiled(c->next)))
-				ty += HEIGHT(c) + smh;
+				ty += HEIGHT(c) + smh + 2 * globalborder;
 			else
-				ty += HEIGHT(c);
+				ty += HEIGHT(c) + 2 * globalborder;
 		}
 }
 

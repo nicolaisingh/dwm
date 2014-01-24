@@ -1,9 +1,9 @@
-cscope 15 $HOME/src/linux/dwm               0000785299
+cscope 15 $HOME/src/linux/dwm               0000785322
 	@/home/nas/src/linux/dwm/config.h
 
 11 cÚ¡ 
 	gfÚt
-[] = "-*-terminus-medium-r-*-*-16-*-*-*-*-*-*-*";
+[] = "Source Code Pro for Powerline-7";
 
 12 cÚ¡ 
 	gnÜmbÜd”cÞÜ
@@ -35,7 +35,7 @@ cscope 15 $HOME/src/linux/dwm               0000785299
 
 19 cÚ¡ 
 	gg­px
- = 2;
+ = 15;
 
 20 cÚ¡ 
 	g¢­
@@ -1685,7 +1685,7 @@ v
 
 11 cÚ¡ 
 	gfÚt
-[] = "-*-terminus-medium-r-*-*-16-*-*-*-*-*-*-*";
+[] = "Source Code Pro for Powerline-7";
 
 12 cÚ¡ 
 	gnÜmbÜd”cÞÜ
@@ -1717,7 +1717,7 @@ v
 
 19 cÚ¡ 
 	gg­px
- = 2;
+ = 15;
 
 20 cÚ¡ 
 	g¢­
@@ -10833,7 +10833,7 @@ n
 m
 ->
 ÉsymbÞ
-,  m->ÉsymbÞ, "[%d]", 
+,  m->ÉsymbÞ, "%d", 
 n
 );
 
@@ -14409,7 +14409,9 @@ my
 	`HEIGHT
 (
 c
-);
+è+ 2 * 
+glob®bÜd”
+;
 
 1865 
 smh
@@ -14559,6 +14561,8 @@ ty
 c
 è+ 
 smh
+ + 2 * 
+glob®bÜd”
 ;
 
 1881 
@@ -14567,7 +14571,9 @@ ty
 	`HEIGHT
 (
 c
-);
+è+ 2 * 
+glob®bÜd”
+;
 
 1883 
 	}
@@ -60377,7 +60383,7 @@ __END_DECLS
 
 11 cÚ¡ 
 	gfÚt
-[] = "-*-terminus-medium-r-*-*-16-*-*-*-*-*-*-*";
+[] = "Source Code Pro for Powerline-7";
 
 12 cÚ¡ 
 	gnÜmbÜd”cÞÜ
@@ -60409,7 +60415,7 @@ __END_DECLS
 
 19 cÚ¡ 
 	gg­px
- = 2;
+ = 15;
 
 20 cÚ¡ 
 	g¢­

@@ -284,19 +284,19 @@ focusmon	dwm.c	/^focusmon(const Arg *arg) {$/;"	f
 focusmon	src/dwm-6.0/dwm.c	/^focusmon(const Arg *arg) {$/;"	f
 focusstack	dwm.c	/^focusstack(const Arg *arg) {$/;"	f
 focusstack	src/dwm-6.0/dwm.c	/^focusstack(const Arg *arg) {$/;"	f
-font	config.h	/^static const char font[]            = "-*-terminus-medium-r-*-*-16-*-*-*-*-*-*-*";$/;"	v
+font	config.h	/^static const char font[]            = "Source Code Pro for Powerline-7";$/;"	v
 font	dwm.c	/^	} font;$/;"	m	struct:__anon8	typeref:struct:__anon8::__anon9	file:
-font	src/config.h	/^static const char font[]            = "-*-terminus-medium-r-*-*-16-*-*-*-*-*-*-*";$/;"	v
+font	src/config.h	/^static const char font[]            = "Source Code Pro for Powerline-7";$/;"	v
 font	src/dwm-6.0/config.def.h	/^static const char font[]            = "-*-terminus-medium-r-*-*-16-*-*-*-*-*-*-*";$/;"	v
-font	src/dwm-6.0/config.h	/^static const char font[]            = "-*-terminus-medium-r-*-*-16-*-*-*-*-*-*-*";$/;"	v
+font	src/dwm-6.0/config.h	/^static const char font[]            = "Source Code Pro for Powerline-7";$/;"	v
 font	src/dwm-6.0/dwm.c	/^	} font;$/;"	m	struct:__anon21	typeref:struct:__anon21::__anon22	file:
 func	dwm.c	/^	void (*func)(const Arg *);$/;"	m	struct:__anon10	file:
 func	dwm.c	/^	void (*func)(const Arg *arg);$/;"	m	struct:__anon7	file:
 func	src/dwm-6.0/dwm.c	/^	void (*func)(const Arg *);$/;"	m	struct:__anon23	file:
 func	src/dwm-6.0/dwm.c	/^	void (*func)(const Arg *arg);$/;"	m	struct:__anon20	file:
-gappx	config.h	/^static const unsigned int gappx     = 2;        \/* gap pixel between windows *\/$/;"	v
-gappx	src/config.h	/^static const unsigned int gappx     = 2;        \/* gap pixel between windows *\/$/;"	v
-gappx	src/dwm-6.0/config.h	/^static const unsigned int gappx     = 2;        \/* gap pixel between windows *\/$/;"	v
+gappx	config.h	/^static const unsigned int gappx     = 15;        \/* gap pixel between windows *\/$/;"	v
+gappx	src/config.h	/^static const unsigned int gappx     = 15;        \/* gap pixel between windows *\/$/;"	v
+gappx	src/dwm-6.0/config.h	/^static const unsigned int gappx     = 15;        \/* gap pixel between windows *\/$/;"	v
 gc	dwm.c	/^	GC gc;$/;"	m	struct:__anon8	file:
 gc	src/dwm-6.0/dwm.c	/^	GC gc;$/;"	m	struct:__anon21	file:
 getatomprop	dwm.c	/^getatomprop(Client *c, Atom prop) {$/;"	f
