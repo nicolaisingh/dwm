@@ -24,11 +24,12 @@ static const Bool topbar            = True;     /* False means bottom bar */
 static const Bool extrabar          = False;    /* False means no extra bar */
 
 /* tagging */
-static const char *tags[] = { "½", "®", "¨", "ê", "º" };
+static const char *tags[] = { " ½ ", " ® ", " ¨ ", " ê ", " º " };
 
 /* tags opening and closing markers */
+static const char *statusbarpad = " ";
 static const char *tagsopen = " ";
-static const char *tagsclose = " ";
+static const char *tagsclose = "";
 
 /* tags mask */
 #define TAG_UTIL    1 << 0
