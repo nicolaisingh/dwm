@@ -15,6 +15,9 @@ static const char normfgcolor[]     = "#f2f2f2";
 static const char selbordercolor[]  = "#d8d8d8";
 static const char selbgcolor[]      = "#3b3b3b";
 static const char selfgcolor[]      = "#d8d8d8";
+static const char hlbordercolor[]   = "#0d0d0d";
+static const char hlbgcolor[]       = "#0d0d0d";
+static const char hlfgcolor[]       = "#3b3b3b";
 static const unsigned int borderpx  = 2;        /* border pixel of windows */
 static const unsigned int gappx     = 18;        /* gap pixel between windows */
 static const unsigned int snap      = 1;       /* snap pixel */
@@ -27,9 +30,9 @@ static const Bool extrabar          = False;    /* False means no extra bar */
 static const char *tags[] = { " ½ ", " ® ", " ¨ ", " ê ", " º " };
 
 /* tags opening and closing markers */
-static const char *statusbarpad = " ";
-static const char *tagsopen = " ";
-static const char *tagsclose = "";
+static const char *statusbarpad = "  ";
+static const char *tagsopen = "   <<";
+static const char *tagsclose = ">>";
 
 /* tags mask */
 #define TAG_UTIL    1 << 0
