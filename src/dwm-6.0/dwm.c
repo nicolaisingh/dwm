@@ -514,6 +514,7 @@ buttonpress(XEvent *e) {
 	}
 	if(ev->window == selmon->barwin) {
 		i = x = 0;
+		x += TEXTW(tagsopen);
 		do
 			x += TEXTW(tags[i]);
 		while(ev->x >= x && ++i < LENGTH(tags));
@@ -521,7 +522,7 @@ buttonpress(XEvent *e) {
 			click = ClkTagBar;
 			arg.ui = 1 << i;
 		}
-		else if(ev->x < x + blw)
+		else if(ev->x < x + blw + TEXTW(tagsclose))
 			click = ClkLtSymbol;
 		else if(ev->x > selmon->ww - TEXTW(stext))
 			click = ClkStatusText;
@@ -821,8 +822,8 @@ drawbar(Monitor *m) {
 			urg |= c->tags;
 	}
 	dc.x = 0;
-	dc.w = blw = TEXTW(m->ltsymbol);
-	drawtext(m->ltsymbol, dc.norm, False);
+	dc.w = TEXTW(tagsopen);
+	drawtext(tagsopen, dc.norm, False);
 	dc.x += dc.w;
 	for(i = 0; i < LENGTH(tags); i++) {
 		dc.w = TEXTW(tags[i]);
@@ -832,6 +833,15 @@ drawbar(Monitor *m) {
 		           occ & 1 << i, urg & 1 << i, col);
 		dc.x += dc.w;
 	}
+	dc.w = TEXTW(tagsclose);
+	drawtext(tagsclose, dc.norm, False);
+	dc.x += dc.w;
+	dc.w = blw = TEXTW(m->ltsymbol);
+	drawtext(m->ltsymbol, dc.sel, False);
+	dc.x += dc.w;
+	dc.w = TEXTW(" > >");
+	drawtext(" > >", dc.norm, False);
+	dc.x += dc.w;
 	x = dc.x;
 	if(m == selmon) { /* status is only drawn on selected monitor */
 		dc.w = TEXTW(stext);
@@ -847,7 +857,7 @@ drawbar(Monitor *m) {
 	if((dc.w = dc.x - x) > bh) {
 		dc.x = x;
 		if(m->sel) {
-			col = m == selmon ? dc.sel : dc.norm;
+			col = dc.norm;
 			drawtext(m->sel->name, col, False);
 			drawsquare(m->sel->isfixed, m->sel->isfloating, False, col);
 		}
