@@ -8,45 +8,56 @@
  */
 
 /* appearance */
-static const char font[]            = "Source Code Pro for Powerline-7";
-static const char normbordercolor[] = "#444444";
-static const char normbgcolor[]     = "#222222";
-static const char normfgcolor[]     = "#bbbbbb";
-static const char selbordercolor[]  = "#005577";
-static const char selbgcolor[]      = "#005577";
-static const char selfgcolor[]      = "#eeeeee";
+static const char font[]            = "Termsyn.icons-7";
+static const char normbordercolor[] = "#0d0d0d";
+static const char normbgcolor[]     = "#0d0d0d";
+static const char normfgcolor[]     = "#f2f2f2";
+static const char selbordercolor[]  = "#d8d8d8";
+static const char selbgcolor[]      = "#3b3b3b";
+static const char selfgcolor[]      = "#d8d8d8";
 static const unsigned int borderpx  = 2;        /* border pixel of windows */
-static const unsigned int gappx     = 15;        /* gap pixel between windows */
-static const unsigned int snap      = 32;       /* snap pixel */
+static const unsigned int gappx     = 18;        /* gap pixel between windows */
+static const unsigned int snap      = 1;       /* snap pixel */
 static const unsigned int minwsz    = 20;       /* minimal height of a client */
 static const Bool showbar           = True;     /* False means no bar */
 static const Bool topbar            = True;     /* False means bottom bar */
 static const Bool extrabar          = False;    /* False means no extra bar */
 
 /* tagging */
-static const char *tags[] = { "1", "2", "3", "4", "5", "6", "7", "8", "9" };
+static const char *tags[] = { "½", "®", "¨", "ê", "º" };
+
+/* tags opening and closing markers */
+static const char *tagsopen = " ";
+static const char *tagsclose = " ";
+
+/* tags mask */
+#define TAG_UTIL    1 << 0
+#define TAG_WWW     1 << 1
+#define TAG_DOC     1 << 2
+#define TAG_MEDIA   1 << 3
+#define TAG_ETC     1 << 4
 
 static const Rule rules[] = {
 	/* class            instance    title            tags mask    isfloating   monitor */
-	{ "URxvt",          NULL,       "ranger",        1 << 1,      False,       -1 },
-	{ "Thunar",         NULL,       NULL,            1 << 1,      False,       -1 },
-	{ "Pidgin",         NULL,       NULL,            1 << 1,      False,       -1 },
-	{ "fontforge",      NULL,       NULL,            1 << 1,      False,       -1 },
-	{ "Bcompare",       NULL,       NULL,            1 << 1,      False,       -1 },
-	{ "Leafpad",        NULL,       NULL,            1 << 1,      False,       -1 },
-	{ "Lxappearance",   NULL,       NULL,            1 << 1,      False,       -1 },
-	{ "Eclipse",        NULL,       NULL,            1 << 1,      False,       -1 },
-	{ "Evince",         NULL,       NULL,            1 << 1,      False,       -1 },
-	{ "FBReader",       NULL,       NULL,            1 << 1,      False,       -1 },
-	{ "Firefox",        NULL,       NULL,            1 << 1,      False,       -1 },
-	{ "Chromium",       NULL,       NULL,            1 << 1,      False,       -1 },
-	{ "luakit",         NULL,       NULL,            1 << 1,      False,       -1 },
-	{ "Gimp",           NULL,       NULL,            1 << 1,      False,       -1 },
-	{ "Ario",           NULL,       NULL,            1 << 1,      False,       -1 },
-	{ "Qpaeq",          NULL,       NULL,            1 << 1,      False,       -1 },
-	{ "Darktable",      NULL,       NULL,            1 << 1,      False,       -1 },
-	{ "Pavucontrol",    NULL,       NULL,            1 << 1,      False,       -1 },
-	{ "Smplayer",       NULL,       NULL,            1 << 1,      False,       -1 },
+	{ "URxvt",          NULL,       "ranger",        TAG_UTIL,    False,       -1 },
+	{ "Thunar",         NULL,       NULL,            TAG_UTIL,    False,       -1 },
+	{ "Bcompare",       NULL,       NULL,            TAG_UTIL,    False,       -1 },
+	{ "Leafpad",        NULL,       NULL,            TAG_UTIL,    False,       -1 },
+	{ "Eclipse",        NULL,       NULL,            TAG_UTIL,    False,       -1 },
+	{ "Pidgin",         NULL,       NULL,            TAG_WWW,     False,       -1 },
+	{ "Firefox",        NULL,       NULL,            TAG_WWW,     False,       -1 },
+	{ "Chromium",       NULL,       NULL,            TAG_WWW,     False,       -1 },
+	{ "luakit",         NULL,       NULL,            TAG_WWW,     False,       -1 },
+	{ "Evince",         NULL,       NULL,            TAG_DOC,     False,       -1 },
+	{ "FBReader",       NULL,       NULL,            TAG_DOC,     False,       -1 },
+	{ "Gimp",           NULL,       NULL,            TAG_MEDIA,   False,       -1 },
+	{ "Ario",           NULL,       NULL,            TAG_MEDIA,   False,       -1 },
+	{ "Darktable",      NULL,       NULL,            TAG_MEDIA,   False,       -1 },
+	{ "Smplayer",       NULL,       NULL,            TAG_MEDIA,   False,       -1 },
+	{ "fontforge",      NULL,       NULL,            TAG_ETC,     False,       -1 },
+	{ "Lxappearance",   NULL,       NULL,            TAG_ETC,     False,       -1 },
+	{ "Qpaeq",          NULL,       NULL,            TAG_ETC,     False,       -1 },
+	{ "Pavucontrol",    NULL,       NULL,            TAG_ETC,     False,       -1 },
 };
 
 /* layout(s) */
@@ -57,9 +68,9 @@ static const Bool resizehints = False; /* True means respect size hints in tiled
 
 static const Layout layouts[] = {
 	/* symbol     arrange function */
-	{ "+",      tile },    /* first entry is default */
-	{ "-",      NULL },    /* no layout function means floating behavior */
-	{ "m",      monocle },
+	{ "þ",      tile },    /* first entry is default */
+	{ "ý",      NULL },    /* no layout function means floating behavior */
+	{ "ÿ",      monocle },
 };
 
 /* key definitions */
@@ -75,8 +86,8 @@ static const Layout layouts[] = {
 #define SHCMD(cmd) { .v = (const char*[]){ "/bin/sh", "-c", cmd, NULL } }
 
 /* commands */
-static const char *dmenucmd[] = { "dmenu_run", "-fn", font, "-nb", normbgcolor, "-nf", normfgcolor, "-sb", selbgcolor, "-sf", selfgcolor, NULL };
-static const char *termcmd[]  = { "urxvtc", NULL };
+static const char *dmenucmd[]        = { "dmenu_run", "-b", "-fn", font, "-nb", normbgcolor, "-nf", normfgcolor, "-sb", selbgcolor, "-sf", selfgcolor, NULL };
+static const char *termcmd[]         = { "urxvtc", NULL };
 static const char *rangercmd[]       = { "urxvtc", "-e", "ranger", NULL };
 static const char *thunarcmd[]       = { "thunar", NULL };
 static const char *thunarsucmd[]     = { "gksu", "thunar", NULL };
