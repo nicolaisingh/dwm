@@ -23,7 +23,7 @@ static const unsigned int gappx     = 18;        /* gap pixel between windows */
 static const unsigned int snap      = 1;       /* snap pixel */
 static const unsigned int minwsz    = 20;       /* minimal height of a client */
 static const Bool showbar           = True;     /* False means no bar */
-static const Bool topbar            = True;     /* False means bottom bar */
+static const Bool topbar            = False;     /* False means bottom bar */
 static const Bool extrabar          = False;    /* False means no extra bar */
 
 /* tagging */
