@@ -23,7 +23,7 @@ static const unsigned int gappx     = 18;        /* gap pixel between windows */
 static const unsigned int snap      = 1;       /* snap pixel */
 static const unsigned int minwsz    = 20;       /* minimal height of a client */
 static const Bool showbar           = True;     /* False means no bar */
-static const Bool topbar            = True;     /* False means bottom bar */
+static const Bool topbar            = False;     /* False means bottom bar */
 static const Bool extrabar          = False;    /* False means no extra bar */
 
 /* tagging */
@@ -90,7 +90,7 @@ static const Layout layouts[] = {
 #define SHCMD(cmd) { .v = (const char*[]){ "/bin/sh", "-c", cmd, NULL } }
 
 /* commands */
-static const char *dmenucmd[]        = { "dmenu_run", "-b", "-fn", font, "-nb", normbgcolor, "-nf", normfgcolor, "-sb", selbgcolor, "-sf", selfgcolor, NULL };
+static const char *dmenucmd[]        = { "dmenu_run", "-fn", font, "-nb", normbgcolor, "-nf", normfgcolor, "-sb", selbgcolor, "-sf", selfgcolor, NULL };
 static const char *termcmd[]         = { "urxvtc", NULL };
 static const char *rangercmd[]       = { "urxvtc", "-e", "ranger", NULL };
 static const char *thunarcmd[]       = { "thunar", NULL };
