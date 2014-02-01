@@ -9,15 +9,15 @@
 
 /* appearance */
 static const char font[]            = "Termsyn.icons-7";
-static const char normbordercolor[] = "#0d0d0d";
-static const char normbgcolor[]     = "#0d0d0d";
-static const char normfgcolor[]     = "#f2f2f2";
-static const char selbordercolor[]  = "#d8d8d8";
-static const char selbgcolor[]      = "#3b3b3b";
-static const char selfgcolor[]      = "#d8d8d8";
-static const char hlbordercolor[]   = "#0d0d0d";
-static const char hlbgcolor[]       = "#0d0d0d";
-static const char hlfgcolor[]       = "#3b3b3b";
+static const char normbordercolor[] = "#3c3c3c";
+static const char normbgcolor[]     = "#1d1d1d";
+static const char normfgcolor[]     = "#e0e0e0";
+static const char selbordercolor[]  = "#e0e0e0";
+static const char selbgcolor[]      = "#313131";
+static const char selfgcolor[]      = "#dddddd";
+static const char hlbordercolor[]   = "#1d1d1d";
+static const char hlbgcolor[]       = "#1d1d1d";
+static const char hlfgcolor[]       = "#505050";
 static const unsigned int borderpx  = 2;        /* border pixel of windows */
 static const unsigned int gappx     = 18;        /* gap pixel between windows */
 static const unsigned int snap      = 1;       /* snap pixel */
