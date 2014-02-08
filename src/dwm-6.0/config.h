@@ -11,7 +11,7 @@
 #define FONT_TERMSYN_ICONS 0        /* Use termsyn.icons bitmap font */
 
 /* appearance */
-#if DISP_BITFONT_ICONS
+#if FONT_TERMSYN_ICONS
 static const char font[]            = "Termsyn.icons-7";
 #else
 static const char font[]            = "PT Sans-8";
@@ -34,7 +34,7 @@ static const Bool topbar            = False;     /* False means bottom bar */
 static const Bool extrabar          = False;    /* False means no extra bar */
 
 /* tagging */
-#if DISP_BITFONT_ICONS
+#if FONT_TERMSYN_ICONS
 static const char *tags[] = { " ½ ", " ® ", " ¨ ", " ê ", " º " };
 #else
 static const char *tags[] = { " util ", " www ", " doc ", " media ", " etc " };
@@ -82,7 +82,7 @@ static const float smfact     = 0.00; /* factor of tiled clients [0.00..0.95] */
 static const int nmaster      = 1;    /* number of clients in master area */
 static const Bool resizehints = False; /* True means respect size hints in tiled resizals */
 
-#if DISP_BITFONT_ICONS
+#if FONT_TERMSYN_ICONS
 static const Layout layouts[] = {
 	/* symbol     arrange function */
 	{ "þ",      tile },    /* first entry is default */
