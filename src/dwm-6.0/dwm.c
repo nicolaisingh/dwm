@@ -854,6 +854,10 @@ drawbar(Monitor *m) {
 			dc.w = m->ww - x;
 		}
 		drawtext(stext, dc.norm, False);
+
+		dc.w = TEXTW(stextsplit);
+		dc.x = m->ww - dc.w - TEXTW(stext);
+		drawtext(stextsplit, dc.hl, False);
 	}
 	else
 		dc.x = m->ww;
