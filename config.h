@@ -7,18 +7,25 @@
  * - bottombar : add another status bar on the bottom (off)
  */
 
+/* Options */
+#define FONT_TERMSYN_ICONS 0        /* Use termsyn.icons bitmap font */
+
 /* appearance */
+#if DISP_BITFONT_ICONS
 static const char font[]            = "Termsyn.icons-7";
-static const char normbordercolor[] = "#3c3c3c";
+#else
+static const char font[]            = "PT Sans-8";
+#endif
+static const char normbordercolor[] = "#fafafa";
 static const char normbgcolor[]     = "#1d1d1d";
-static const char normfgcolor[]     = "#e0e0e0";
-static const char selbordercolor[]  = "#e0e0e0";
+static const char normfgcolor[]     = "#fafafa";
+static const char selbordercolor[]  = "#313131";
 static const char selbgcolor[]      = "#313131";
 static const char selfgcolor[]      = "#dddddd";
 static const char hlbordercolor[]   = "#1d1d1d";
 static const char hlbgcolor[]       = "#1d1d1d";
 static const char hlfgcolor[]       = "#505050";
-static const unsigned int borderpx  = 2;        /* border pixel of windows */
+static const unsigned int borderpx  = 1;        /* border pixel of windows */
 static const unsigned int gappx     = 18;        /* gap pixel between windows */
 static const unsigned int snap      = 1;       /* snap pixel */
 static const unsigned int minwsz    = 20;       /* minimal height of a client */
@@ -27,12 +34,17 @@ static const Bool topbar            = False;     /* False means bottom bar */
 static const Bool extrabar          = False;    /* False means no extra bar */
 
 /* tagging */
+#if DISP_BITFONT_ICONS
 static const char *tags[] = { " ½ ", " ® ", " ¨ ", " ê ", " º " };
+#else
+static const char *tags[] = { " util ", " www ", " doc ", " media ", " etc " };
+#endif
 
 /* tags opening and closing markers */
 static const char *statusbarpad = "  ";
 static const char *tagsopen = "  <<";
 static const char *tagsclose = ">>  ";
+static const char *stextsplit = "<<";
 
 /* tags mask */
 #define TAG_UTIL    1 << 0
@@ -70,12 +82,21 @@ static const float smfact     = 0.00; /* factor of tiled clients [0.00..0.95] */
 static const int nmaster      = 1;    /* number of clients in master area */
 static const Bool resizehints = False; /* True means respect size hints in tiled resizals */
 
+#if DISP_BITFONT_ICONS
 static const Layout layouts[] = {
 	/* symbol     arrange function */
 	{ "þ",      tile },    /* first entry is default */
 	{ "ý",      NULL },    /* no layout function means floating behavior */
 	{ "ÿ",      monocle },
 };
+#else
+static const Layout layouts[] = {
+	/* symbol     arrange function */
+	{ "#",      tile },    /* first entry is default */
+	{ "^",      NULL },    /* no layout function means floating behavior */
+	{ "M",      monocle },
+};
+#endif
 
 /* key definitions */
 #define MODKEY Mod4Mask
@@ -99,9 +120,9 @@ static const char *scrotcmd[]        = { "scrot", "-q", "100", "-e", "mv\ $f\ ~/
 static const char *lockscreencmd[]   = { "xscreensaver-command", "--lock", NULL };
 static const char *mpdplaycmd[]      = { "mpdplay", NULL };
 static const char *dwmmenucmd[]      = { "dwm-menu", NULL };
-static const char *audiomutevolcmd[] = { "amixer", "-q", "set", "Master", "toggle", NULL };
-static const char *audiodecvolcmd[]  = { "amixer", "-q", "set", "Master", "5%-", NULL };
-static const char *audioincvolcmd[]  = { "amixer", "-q", "set", "Master", "5%+", NULL };
+static const char *audiomutevolcmd[] = { "voladj-notify", "toggle", NULL };
+static const char *audiodecvolcmd[]  = { "voladj-notify", "dec", NULL };
+static const char *audioincvolcmd[]  = { "voladj-notify", "inc", NULL };
 static const char *mpctogglecmd[]    = { "mpc", "toggle", NULL };
 static const char *mpcstopcmd[]      = { "mpc", "stop", NULL };
 static const char *mpcprevcmd[]      = { "mpc", "prev", NULL };
