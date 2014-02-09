@@ -42,9 +42,9 @@ static const char *tags[] = { " util ", " www ", " doc ", " media ", " etc " };
 
 /* tags opening and closing markers */
 static const char *statusbarpad = "  ";
-static const char *tagsopen = "  <<";
-static const char *tagsclose = ">>  ";
-static const char *stextsplit = "<<";
+static const char *tagsopen = "";
+static const char *tagsclose = " >>";
+static const char *stextsplit = "|";
 
 /* tags mask */
 #define TAG_UTIL    1 << 0
