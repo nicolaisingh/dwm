@@ -1756,7 +1756,7 @@ setup(void) {
 	initfont(font);
 	sw = DisplayWidth(dpy, screen);
 	sh = DisplayHeight(dpy, screen);
-	bh = dc.h = dc.font.height + 20;
+	bh = dc.h = dc.font.height + barhfact;
 	eb.show = extrabar;
 	updategeom();
 	/* init atoms */

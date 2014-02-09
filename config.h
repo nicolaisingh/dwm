@@ -77,6 +77,7 @@ static const Rule rules[] = {
 };
 
 /* layout(s) */
+static const int barhfact     = 20; /* factor of status bar height */
 static const float mfact      = 0.55; /* factor of master area size [0.05..0.95] */
 static const float smfact     = 0.00; /* factor of tiled clients [0.00..0.95] */
 static const int nmaster      = 1;    /* number of clients in master area */
